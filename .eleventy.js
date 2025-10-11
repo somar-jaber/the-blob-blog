@@ -47,5 +47,5 @@ module.exports = async function(eleventyConfig) {
 
 
 module.exports.config = {
-	pathPrefix: "/The-Blob-Blog/",
+	pathPrefix: "/the-blob-blog/",
 }

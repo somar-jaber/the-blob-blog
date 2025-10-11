@@ -27,12 +27,10 @@
         
         
             <div class="mainTitle" style="display: flex; justify-content: space-between;">
-    <h1>Learn Hand Sewing</h1>
+    <h1>TestPage</h1>
     <a href="/the-blob-blog/" style="font-weight: normal;">home</a>
 </div>
 
-    <span class="hashtag">#DigitalContent</span>
-
 <br>
 <br>
 <hr>
@@ -40,17 +38,34 @@
         
         
 
-        <h2>Part 1 - Making a Hand knot</h2>
-<p><a href="https://youtu.be/pKu-njgQ0SU?si=MxIDOFwzw2nVGBko">Link</a></p>
-<h2>Part 2 - Sewing on a button</h2>
-<p><a href="https://youtu.be/MjmUaWkzF-I?si=et-zp7LyKjG6xfu8">Link</a></p>
+        <div class="youtube-video">
+    <img src="/the-blob-blog/assets/images/building-a-startup-in-your-20s.jpg">
+<p></p><div class="text">
+<h4><a style="color: var(--text-color);" href="https://www.youtube.com/watch?v=IGK0wYXebmc">Title</a></h4>
+<p>
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequuntur quaerat velit necessitatibus itaque sed temporibus ullam corrupti, similique minus quia officia modi animi accusamus.
+</p>
+</div><p></p>
+</div>
 <br>
 <br>
-<br>
-<br>
-<br>
-<hr>
-<p><a href="https://www.youtube.com/@nickicallahan/videos">Credit</a></p>
+<div class="youtube-video">
+    <img src="/the-blob-blog/assets/images/videoImage2.jpg">
+<p></p><div class="text">
+<h4><a style="color: var(--text-color);" href="https://www.youtube.com/watch?v=IGK0wYXebmc">tournament</a></h4>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab omnis et itaque consequatur recusandae temporibus.
+</p>
+</div><p></p>
+</div>  
+<h3>Pass Parameters To The njk File</h3>
+<p>let's say you have the <code>targetPage</code> which will displays the template
+and you have the <code>Template1</code> which is the template.
+You write in the <code>targetPage</code></p>
+<pre class="language-cmd"><code class="language-cmd">{% set parameters = {"title": "tournament", "imageLink" : "/path/to/image.jpg"} %}
+{% include 'youtube-element.njk' %}</code></pre>
+<p>and then access those parameters in the <code>Template1</code>:</p>
+<pre class="language-cmd"><code class="language-cmd">{{parameters.Parameter_Name}}</code></pre>
 
     </div>
 

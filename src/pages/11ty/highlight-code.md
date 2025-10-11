@@ -32,16 +32,16 @@ export default function(eleventyConfig) {
 
 Example Markdown:
 
-    ```javascript
-    // JavaScript code here
-    console.log("Hello, 11ty!");
-    ```
+```javascript
+// JavaScript code here
+console.log("Hello, 11ty!");
+```
 
 Or:
 
-    ```html
-    <p>Hello World</p>
-    ```
+```html
+<p>Hello World</p>
+```
 
 The language tag after the opening three backticks enables the plugin to highlight the code accordingly.
 

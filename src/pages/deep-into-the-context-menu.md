@@ -23,7 +23,7 @@ Here this folder is where we edit the _Context menu_ of folders.
 
 Now let's apply a useful experiment. We will add **Open with VLC** to the _Context menu_ of folders. we will add it twice:
 - once to open the current opened directory in VLC (*Where you are inside the folder*)
-- once to Open the current selected folder in VLC (*Where you are outside the folder and already selected it by your cursor*)
+- once to open the current selected folder in VLC (*Where you are outside the folder and already selected it by your cursor*)
 
 ### Add "Open with VLC" to the *Background* Context Menu
 #### Method 1: Manual Registry Edit
@@ -33,30 +33,31 @@ Now let's apply a useful experiment. We will add **Open with VLC** to the _Conte
    `HKEY_CLASSES_ROOT\Directory\Background\shell`
    
    *(This controls the right-click menu when clicking inside a folder.)*  
-3. Create a new key named Open with VLC:
-   - Right-click shell → New → Key → Name it Open with VLC.  
+3. Create a new key named `Open with VLC`:
+   - Right-click shell → New → Key → Name it `Open with VLC`.  
 4. Set the default value (optional display text):  
-   - Double-click (Default) inside the new key and set it to Open with VLC.  
+   - Double-click (Default) inside the new key and set it to `Open with VLC`.  
 5. Add an icon (optional):  
-   - Right-click Open with VLC → New → String Value → Name it Icon.  
+   - Right-click Open with VLC → New → String Value → Name it `Icon`.  
    - Set its value to:  
     
      `C:\Program Files\VideoLAN\VLC\vlc.exe`
      (*Note: change the directory as your program installed, it might be in `C:\Program Files (x86)\`* )
      
 6. Create the command key:  
-   - Right-click Open with VLC → New → Key → Name it command.  
+   - Right-click Open with VLC → New → Key → Name it `command`.  
    - Set its (Default) value to:  
 ```
 "C:\Program Files\VideoLAN\VLC\vlc.exe" "%V"
 ```
-*(Note: %V passes the current folder path.)*
+*(Note: `%V` passes the current folder path.)*
 
-7. Restart File Explorer (Task Manager → explorer.exe → Restart).  
+7. Restart File Explorer (Task Manager → explorer.exe → Restart) or reboot the system.
+8. Enjoy  
 
 #### **Method 2: Use a .reg File**
-1. ONotepadad** and paste:  
-  
+1. Open Notepad and paste:  
+```cmd
    Windows Registry Editor Version 5.00
 
    [HKEY_CLASSES_ROOT\Directory\Background\shell\Open with VLC]
@@ -65,21 +66,27 @@ Now let's apply a useful experiment. We will add **Open with VLC** to the _Conte
 
    [HKEY_CLASSES_ROOT\Directory\Background\shell\Open with VLC\command]
    @="\"C:\\Program Files\\VideoLAN\\VLC\\vlc.exe\" \"%V\""
-   
+```
 2. Save as **vlc_folder_background.reg**.
-3. Double-click theYes **Yes** to merge into the registry.  
-4. File Explorerplorer** (or reboot).Why This Works Works**
-- Directory\Background\shell afferight-click menu inside foldersolders**.  
-- %V ensures VLC opcurrent folderfolder** (not a selected file).Troubleshootingooting**
-- If it doesn’t work, checkVLC pathC path** (adjust if installed elsewhere, e.g., Program Files (x86))Permissionsssions** (run Registry Editor as Admin)Conflictsflicts** (use [ShellExView](https://www.nirsoft.net/utils/shexview.html) to check for blocked entries). right-click inside any folderfol"Open with VLC"h VLC"** should work!
+3. Double-click **Yes** to merge into the registry.  
+4. Restart File Explorer or reboot the system.
+- `HKEY_CLASSES_ROOT\Directory\Background\shell` is the right-click menu inside folders.  
+- `%V` ensures VLC opens the current folder (not a selected file).
+
 <br>
 
-### Add "Open with VLC" to the for folders
+**Troubleshooting** :
+- If it doesn’t work, check VLC path (adjust if installed elsewhere, e.g., Program Files (x86)) 
+- Run the Registry Editor as Admin if you are in method 1. OR the `.reg` file as Admin in method 2. 
+- There might be Conflicts inside the reg files, like there are already some registries have the same names and functions of your registries that you are trying to make. Use [ShellExView](https://www.nirsoft.net/utils/shexview.html) to check for blocked entries
+<br>
+
+### Add "Open with VLC" to the for folders context menu
 Same as the above but with slightly difference.
 You go to the next directory:
 	`HKEY_CLASSES_ROOT\Directory\shell`
 Instead of `HKEY_CLASSES_ROOT\Directory\Background\shell`
-and follow the same old steps, but in the key command the default string value should be :
+and follow the same old steps, but in the key `command` the default string value should be :
 ```
 "C:\Program Files\VideoLAN\VLC\vlc.exe" "%1"
 ```
@@ -95,12 +102,12 @@ and follow the same old steps, but in the key command the default string value s
 ---
 ## Now About Files 
 Most of the things are files in Windows so there is no one specific directory to edit in, it depends on what type of file you want to edit. So to edit the context menu to all the files you should edit 
-```
-     HKEY_CLASSES_ROOT\*\shell
+```cmd
+HKEY_CLASSES_ROOT\*\shell
 ```
 where the `*` means all the files. But if you want to edit the `.mp4` files type context menu :
-```
-   HKEY_CLASSES_ROOT\.mp4\shell
+```cmd
+HKEY_CLASSES_ROOT\.mp4\shell
 ```
 
 **So now we will see how to add Open With VLC to files with a Bonus at the end**
@@ -175,8 +182,18 @@ Copy to Notepadotepad and paste:
    @="\"C:\\Program Files\\VideoLAN\\VLC\\vlc.exe\" \"%1\""
 ```
 2. Save as **vlc_file_context.reg** (select **"All Files"** as the type).  
-3. Double-cYese file → **Yes** to merge into the registrFile Explorer*File ExplorTroubleshootingrouOption doesn’t appear?oesn’t appear?**  
-  - Ensure the registry path is correct (e.g., HKEY_CLASSES_ROOT\*\shell for all fiRegistry Editor as Administrator AdminVLC doesn’t open the file?open the file?**  
+3. Double click **Yes** to merge into the registry 
+4. Restart File Explorer or the system 
+
+<br>
+
+**Troubleshooting** :
+  - Ensure the registry path is correct (e.g., `HKEY_CLASSES_ROOT\*\shell`)
+  - Run the Registry Editor as Admin if you are in method 1. OR the .reg file as Admin in method 2.  
   - Check if the file path in the registry is correct (e.g., Program Files (x86) for 32-bit VLC).  
-  - Reinstall VLC if the executable is corruptBonus: Add "Add to VLC Playlist" VLC Playlist"**queue files in VLCe files in VLC** instead of opening them immediately, modify the command to:
+  - Reinstall VLC if the executable is corrupted 
+
+**Bonus** : Add `Add to VLC Playlist` option, means **queueing files in VLC** instead of opening them one by one. To do that follow the old steps about adding VLC to the **Background Context Menu** and add a new registry name it, assign an icon then make the key `command` and assign this value to it :
+```cmd
 "C:\Program Files\VideoLAN\VLC\vlc.exe" --started-from-file --playlist-enqueue "%1"
+```

@@ -11,29 +11,40 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Load Prism CSS -->
-    <link href={{ "/css/themes/prism-tomorrow.css" }} rel="stylesheet" />
+    <link href="/the-blob-blog/css/themes/prism-tomorrow.css" rel="stylesheet">
     
-    {# use the absolute path when assigning the files to not have problems later in files. Consider the root folder is the "src" folder#}
-    <link rel="stylesheet" href={{ "/css/style.css" }} >
+    
+    <link rel="stylesheet" href="/the-blob-blog/css/style.css">
 
-    {# For Mobile devices to change the Address bar of the browsers #}
-    <meta name="theme-color" content="#e1e3ea" />
+    
+    <meta name="theme-color" content="#e1e3ea">
 
     <title>The Blob Blog</title>
 </head>
 <body>
 
     <div class="container">
-        {# This will not be applied in the home page #}
-        {% if page.url != '/' %}
-            {% include "header.njk" %}
-        {% endif %}
+        
+        
+            <div class="mainTitle" style="display: flex; justify-content: space-between;">
+    <h1>Contact Us</h1>
+    <a href="/the-blob-blog/" style="font-weight: normal;">home</a>
+</div>
+
+<br>
+<br>
+<hr>
+<br>
+        
         
 
-        {{ content | safe }}
+        <p>Contact us through Telegram if you have any suggestions or if you wish to see any thing on our page.
+Telegram ID:</p>
+<pre class="language-cmd"><code class="language-cmd">@brh99425</code></pre>
+
     </div>
 
-    {# To force links to open in a new tab because GFm and MD doo not support the new tabs for security reasons #}
+    
     <script>
         (function () {
             const links = document.querySelectorAll("a[href^='http://'], a[href^='https://']");
