@@ -58,10 +58,6 @@ a:hover {
 }
 a::after {
     content: "";
-    /* position: absolute; */
-    /* top: 0; */
-    /* right: -10px; */
-    /* border-right: 2px solid var(--bold-link-color); */
     transition: 0.3S ease-in-out;
 }
 a:hover:after {
@@ -69,6 +65,7 @@ a:hover:after {
     border-radius: 50%;
     margin-left: 10px;
 }
+
 
 
 h1 {

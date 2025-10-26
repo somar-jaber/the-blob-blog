@@ -36,6 +36,18 @@
     a:hover::after {
         content: "";
     }
+    /* For external links */
+    a[href^="http"]:not([href*="/the-blob-blog"])::after {
+    /* The Unicode character for 'North East Arrow' */
+    content: "↗";
+    
+    /* Styling to make the icon subtle and professional */
+    margin-left: 4px;
+    font-size: 0.75em;
+    
+    /* Ensure the icon is treated as part of the link text */
+    vertical-align: super; 
+    }
 </style>
 <h1>The Blob Blog</h1>
 <p><em>we love</em> <span class="hashtag">#ComputerScience</span> <span class="hashtag">#Offline</span> <span class="hashtag">#DigitalContent</span> <span class="hashtag">#Tech</span></p>
@@ -46,7 +58,7 @@
 <h2><strong>Welcome to</strong> The Blob Blog</h2>
 <p>
     &nbsp; &nbsp; Where the internet is different, <br> 
-    Where hyperlinks lead to an alternative useful digital world.
+    Where the hyperlinks lead to an alternative useful digital world.
 </p>
 <br>
 <br>
