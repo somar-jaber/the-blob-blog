@@ -136,12 +136,6 @@ img {
 }
 
 
-.container table {
-    display: block;
-    overflow-x: auto;
-    border-spacing: 20px 5px;
-}
-
 /* Elements */
 .youtube-video {
     display: flex;
@@ -167,4 +161,16 @@ img {
 
 .youtube-video p {
     margin: 0px;
+}
+
+
+.table-wrapper {
+  overflow-x: auto;
+  /* This ensures the wrapper itself doesn't overflow */
+  max-width: 100%;
+}
+
+
+.table-wrapper table {
+  width: 100%;  /* Optional: Make the table take up the full width of its new scrolling container */
 }
