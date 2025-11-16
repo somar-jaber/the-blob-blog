@@ -136,6 +136,12 @@ img {
 }
 
 
+.container table {
+    display: block;
+    overflow-x: auto;
+    border-spacing: 20px 5px;
+}
+
 /* Elements */
 .youtube-video {
     display: flex;
