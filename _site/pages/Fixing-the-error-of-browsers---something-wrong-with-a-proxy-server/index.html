@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<!-- Push number 36 -->
+<!-- 
+    Hi bro Programmer, 8 attempts needed to make it works 
+    By the way what are you doing here ?
+    Are you trying to steal something ? Have some morals bro.
+-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Load Prism CSS -->
+    <link href="/the-blob-blog/css/themes/prism-tomorrow.css" rel="stylesheet">
+    
+    
+    <link rel="stylesheet" href="/the-blob-blog/css/style.css">
+
+    
+    <meta name="theme-color" content="#e1e3ea">
+
+    <title>The Blob Blog</title>
+</head>
+<body>
+
+    <div class="container">
+        
+        
+            <div class="mainTitle" style="display: flex; justify-content: space-between;">
+    <h1>Fixing the error of browsers - something wrong with a proxy server</h1>
+    <a href="/the-blob-blog/" style="font-weight: normal;">home</a>
+</div>
+
+    <span class="hashtag">#Tech</span>
+
+<br>
+<br>
+<hr>
+<br>
+        
+        
+
+        <p>if your browser returning the error <strong>No Internet</strong> with message :
+something wrong with a proxy server of the address is not correct.
+Or if you used a VPN then the internet stopped working. So, this is the solution.
+<br>
+<br></p>
+<p>Step 1: Disable or uninstall the VPN</p>
+<ul>
+<li>If the VPN is still installed, open it and disconnect.</li>
+<li>If you don’t plan to use it again, uninstall it:<br>
+Start → Settings → Apps → Apps &amp; features → [VPN app] → Uninstall.</li>
+</ul>
+<hr>
+<p>Step 2: Reset proxy settings</p>
+<ol>
+<li>Press Windows key + R, type inetcpl.cpl, and hit Enter.</li>
+<li>Go to the Connections tab → LAN settings.</li>
+<li>Make sure “Use a proxy server for your LAN” is unchecked.</li>
+<li>Ensure “Automatically detect settings” is checked.<br>
+👉 This restores the default proxy configuration.</li>
+</ol>
+<hr>
+<p>Step 3: Reset DNS</p>
+<ol>
+<li>
+<p>Press Windows key + R, type cmd, and hit Enter.</p>
+</li>
+<li>
+<p>In the Command Prompt, run these commands one by one:</p>
+<p>ipconfig /release
+ipconfig /flushdns
+ipconfig /renew</p>
+<p>👉 This clears cached DNS and resets your IP configuration.</p>
+</li>
+</ol>
+<hr>
+<p>Step 4: Reset network settings (optional but thorough)</p>
+<ul>
+<li>Go to Start → Settings → Network &amp; Internet → Status.</li>
+<li>Scroll down and click Network reset.</li>
+<li>This reinstalls all network adapters and resets everything to default.<br>
+⚠️ You’ll need to reconnect to Wi-Fi afterward.</li>
+</ul>
+<hr>
+<p>Step 5: Test</p>
+<ul>
+<li>Open your browser and try a simple site like https://www.google.com.</li>
+<li>If it loads, you’re back to default settings.</li>
+</ul>
+<hr>
+<p>Usually, fixing the proxy settings (Step 2) is enough after a VPN messes things up. The DNS flush (Step 3) is the next most common fix.<br>
+<br>
+<br>
+<br>
+<br>
+<br></p>
+
+    </div>
+
+    
+    <script>
+        (function () {
+            const links = document.querySelectorAll("a[href^='http://'], a[href^='https://']");
+            const host = window.location.hostname;
+
+            const isInternalLink = (link) => {
+            try {
+                return new URL(link.href).hostname === host;
+            } catch {
+                return false;
+            }
+            };
+
+            links.forEach(link => {
+            if (!isInternalLink(link)) {
+                link.setAttribute("target", "_blank");
+                link.setAttribute("rel", "noopener");
+            }
+            });
+        })();
+    </script>
+
+</body>
+</html>

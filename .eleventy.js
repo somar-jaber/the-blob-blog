@@ -31,6 +31,28 @@ module.exports = async function(eleventyConfig) {
     const { HtmlBasePlugin } = await import("@11ty/eleventy");
 	eleventyConfig.addPlugin(HtmlBasePlugin);
 
+
+    // to solve the wrapping problem of the tables //
+    eleventyConfig.addTransform("wrap-tables", function (content) {
+        // Only apply to HTML files
+        if (this.page.outputPath && this.page.outputPath.endsWith(".html")) {
+            // Use a regular expression to find all <table> elements
+            // and wrap them with <div class="table-wrapper">
+            const wrappedContent = content.replace(
+            /<table>/g,
+            '<div class="table-wrapper"><table>'
+            ).replace(
+            /<\/table>/g,
+            '</table></div>'
+            );
+
+            return wrappedContent;
+        }
+        return content;
+    });
+
+
+
     // Setting up what is the input and output directories 
     return {
         // configure 11ty to use Nunjucks as the template enging insted of the default one : Liquid 

@@ -58,10 +58,6 @@ a:hover {
 }
 a::after {
     content: "";
-    /* position: absolute; */
-    /* top: 0; */
-    /* right: -10px; */
-    /* border-right: 2px solid var(--bold-link-color); */
     transition: 0.3S ease-in-out;
 }
 a:hover:after {
@@ -69,6 +65,7 @@ a:hover:after {
     border-radius: 50%;
     margin-left: 10px;
 }
+
 
 
 h1 {
@@ -164,4 +161,25 @@ img {
 
 .youtube-video p {
     margin: 0px;
+}
+
+
+.table-wrapper {
+  overflow-x: auto;
+  /* This ensures the wrapper itself doesn't overflow */
+  max-width: 100%;
+}
+
+
+.table-wrapper table {
+  width: 100%;  /* Optional: Make the table take up the full width of its new scrolling container */
+}
+
+
+.gray-note {
+    /* background-color: rgba(170, 171, 187, 0.721); */
+    background-color: rgba(193, 194, 212, 0.721);
+    padding: 8px;
+    padding-left: 25px;
+    border-left: var(--bold-link-color) solid 5px;
 }

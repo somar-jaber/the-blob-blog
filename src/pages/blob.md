@@ -5,7 +5,7 @@ tags: ["ComputerScience"]
 ---
 ### **What Does `Blob` mean ?**  
 
-**`Blob` (Binary Large Object)** is a built-in programming data type in a language called JavaScript (the base of <abbr title="The current web that you now and using" >Web2</abbr>) used to represent raw, immutable binary data. It’s commonly used for handling files (e.g., images, PDFs) or large chunks of data in web applications. Also the word `/Blob/` is used to refer to a small amount or drop of something, especially a liquid; a small area of color. Sometimes to refer to a sphere of liquid floating in the air. **So**, we chose this name to represent a `Blob` *floating* in the Internet as a *spot* in the network which has a *technical* info to level up your digital life. A useful *Binary Large Object* floating in the Internet.
+**`Blob` (Binary Large Object)** is a built-in programming data type in a language called JavaScript (the base of <abbr title="The current web that you know and using" >Web2</abbr>) used to represent raw, immutable binary data. It’s commonly used for handling files (e.g., images, PDFs) or large chunks of data in web applications. Also the word `/Blob/` is used to refer to a small amount or drop of something, especially a liquid; a small area of color. Sometimes to refer to a sphere of liquid floating in the air. **So**, we chose this name to represent a `Blob` *floating* in the Internet as a *spot* in the network which has a *technical* info to level up your digital life. A useful *Binary Large Object* floating in the Internet.
 
 <br>
 <br>
