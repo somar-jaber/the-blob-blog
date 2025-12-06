@@ -174,3 +174,12 @@ img {
 .table-wrapper table {
   width: 100%;  /* Optional: Make the table take up the full width of its new scrolling container */
 }
+
+
+.gray-note {
+    /* background-color: rgba(170, 171, 187, 0.721); */
+    background-color: rgba(193, 194, 212, 0.721);
+    padding: 8px;
+    padding-left: 25px;
+    border-left: var(--bold-link-color) solid 5px;
+}

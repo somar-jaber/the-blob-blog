@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<!-- Push number 36 -->
+<!-- 
+    Hi bro Programmer, 8 attempts needed to make it works 
+    By the way what are you doing here ?
+    Are you trying to steal something ? Have some morals bro.
+-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Load Prism CSS -->
+    <link href="/the-blob-blog/css/themes/prism-tomorrow.css" rel="stylesheet">
+    
+    
+    <link rel="stylesheet" href="/the-blob-blog/css/style.css">
+
+    
+    <meta name="theme-color" content="#e1e3ea">
+
+    <title>The Blob Blog</title>
+</head>
+<body>
+
+    <div class="container">
+        
+        
+            <div class="mainTitle" style="display: flex; justify-content: space-between;">
+    <h1>How Writing a Complier By The Same Language it Compiles Possible</h1>
+    <a href="/the-blob-blog/" style="font-weight: normal;">home</a>
+</div>
+
+    <span class="hashtag">#ComputerScience</span>
+
+<br>
+<br>
+<hr>
+<br>
+        
+        
+
+        <p>In computer science this called bootstrapping. Here's how a compiler can be written in the same language it compiles:
+Step-by-Step: Writing a Compiler in Its Own Language</p>
+<ol>
+<li>Initial Compiler in Another Language</li>
+</ol>
+<ul>
+<li>First, a minimal version of the compiler (let’s call it Stage 0) is written in a different language (e.g., C or assembly).</li>
+<li>This version can compile a basic subset of the target language.</li>
+</ul>
+<ol start="2">
+<li>Self-Hosting Compiler</li>
+</ol>
+<ul>
+<li>Using Stage 0, developers write a more complete compiler in the target language itself.</li>
+<li>This version is compiled by Stage 0 to produce a binary.</li>
+</ul>
+<ol start="3">
+<li>Recompile Itself</li>
+</ol>
+<ul>
+<li>The new compiler (written in its own language) is then used to compile its own source code.</li>
+<li>If the output matches the previous binary, this is called a fixed point—a sign of correctness.</li>
+</ul>
+<ol start="4">
+<li>Bootstrapping Complete</li>
+</ol>
+<ul>
+<li>Now the compiler is self-hosting: it can compile itself.</li>
+<li>Future improvements can be made in the language itself and compiled by the current version.</li>
+</ul>
+<hr>
+<p>Real-World Examples</p>
+<div class="table-wrapper"><table>
+<thead>
+<tr>
+<th>Language</th>
+<th>Bootstrapped Compiler?</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>C</td>
+<td>Yes</td>
+<td>Early C compilers were written in assembly, then rewritten in C.</td>
+</tr>
+<tr>
+<td>Rust</td>
+<td>Yes</td>
+<td>Rust’s compiler (rustc) is written in Rust.</td>
+</tr>
+<tr>
+<td>Go</td>
+<td>Yes</td>
+<td>Initially written in C, then rewritten in Go.</td>
+</tr>
+<tr>
+<td>Haskell</td>
+<td>Yes</td>
+<td>GHC (Glasgow Haskell Compiler) is written in Haskell.</td>
+</tr>
+</tbody>
+</table></div>
+<hr>
+<p>Why Do This?</p>
+<ul>
+<li>Dogfooding: Using your own language to build its tools proves its maturity.</li>
+<li>Portability: Once bootstrapped, the compiler can be ported to new platforms by compiling the initial version there.</li>
+<li>Optimization: Developers can use the language’s features to improve the compiler itself.</li>
+</ul>
+
+    </div>
+
+    
+    <script>
+        (function () {
+            const links = document.querySelectorAll("a[href^='http://'], a[href^='https://']");
+            const host = window.location.hostname;
+
+            const isInternalLink = (link) => {
+            try {
+                return new URL(link.href).hostname === host;
+            } catch {
+                return false;
+            }
+            };
+
+            links.forEach(link => {
+            if (!isInternalLink(link)) {
+                link.setAttribute("target", "_blank");
+                link.setAttribute("rel", "noopener");
+            }
+            });
+        })();
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<!-- Push number 36 -->
+<!-- 
+    Hi bro Programmer, 8 attempts needed to make it works 
+    By the way what are you doing here ?
+    Are you trying to steal something ? Have some morals bro.
+-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Load Prism CSS -->
+    <link href="/the-blob-blog/css/themes/prism-tomorrow.css" rel="stylesheet">
+    
+    
+    <link rel="stylesheet" href="/the-blob-blog/css/style.css">
+
+    
+    <meta name="theme-color" content="#e1e3ea">
+
+    <title>The Blob Blog</title>
+</head>
+<body>
+
+    <div class="container">
+        
+        
+            <div class="mainTitle" style="display: flex; justify-content: space-between;">
+    <h1>Sync your devices for free with Syncthing (Syncing Obsidian included)</h1>
+    <a href="/the-blob-blog/" style="font-weight: normal;">home</a>
+</div>
+
+    <span class="hashtag">#Tech</span>
+
+    <span class="hashtag">#Offline</span>
+
+<br>
+<br>
+<hr>
+<br>
+        
+        
+
+        <p>In this article we will speak about synching devices, we will sync between Android 12 and Windows 11 using <strong>Syncthing</strong>.</p>
+<h2>What is Syncthing ?</h2>
+<p>Syncthing is an open source project to sync files for free. it is great because syncing has been a paid future since ever, or exclusive to specialists.
+Syncthing is <strong>peer-to-peer</strong> syncing app, it uses <strong>LAN</strong>(Local Area Network) feature in routers. So, your files are not leaving to an external server, and your devices should be connected on the same network.</p>
+<br>
+<br>
+<h2>Installing Syncthing :</h2>
+<p>This is their <a href="https://syncthing.net/downloads/">main download page</a>, you can check it to install your device edition. <br>
+<strong>For Windows</strong>
+you will find two editions:</p>
+<ul>
+<li><a href="https://syncthing.net/downloads/#base-syncthing">Base</a> editoin</li>
+<li><a href="https://github.com/GermanCoding/SyncTrayzor/releases/tag/v2.0.4">syncTrayzor</a> edition</li>
+</ul>
+<p>we advice you to download the syncTrayzor edition.
+You need to check your processor architecture first, use <a href="https://www.cpuid.com/softwares/cpu-z.html">CPU-Z</a> to do it, there are versions for Android and Windows.
+When you open it navigate to <code>system</code> tab then look at <code>Kernal Architeacture</code> property (field). Then search in the internet about:</p>
+<ul>
+<li>If the architecture belongs to <strong>ARM</strong> family or to <strong>x86</strong> family</li>
+<li>If the architecture is a 32-bit or 64-bit
+That all what you need to know which edition you need to download. we will make an article about CPUs architectures later.</li>
+</ul>
+<p><strong>For Android</strong>
+The project has no official support for Android. Or more likely it has been stopped by Syncthing themselves. Anyway there is a third-party app called <strong>Syncthing-Fork</strong> it is working great without problems so far.
+Download it from google play if you want but if you like us you can download it from <a href="https://f-droid.org/en/packages/com.github.catfriend1.syncthingfork/">F-Droid store</a></p>
+<p><strong>For Linux-based Systems</strong>
+Really !!! you are using Linux and need a tutorial ??
+This is the download page <a href="https://syncthing.net/downloads/">here</a>. That’s all what you need.</p>
+<br>
+<br>
+<h2>The Setting Up :</h2>
+<p>After you install <strong>SuncTrayzor</strong> on the desktop and <strong>Syncthing-Frok</strong> on Android.
+Open <strong>SuncTrayzor</strong> and in the top strip you will find on the right three buttons, one of them called <strong>Actions</strong> press it then press <strong>Show ID</strong>.
+This will show the id of your device</p>
+<p><strong>Now</strong> Jump to your Android device. Open the app. in the top strip on the right side there is a button, its icon showing laptop, plus sign and a mobile. click it,
+At the first field enter your Laptop ID or press the QR-code icon next to it to scan the QR-code on your laptop. Usually if you are already connected on the same network you will see your device ID under the <strong>Discovered devices</strong> section which is directly under the ID input field.
+Now press the correct sign in the upper-right corner to save changes.</p>
+<p>you should see now your laptop in the devices tab on your phone. Also your phone will be visible under <strong>Remote Devices</strong> Label in your Desktop app.</p>
+<p><strong>Next</strong> go back to <strong>SuncTrayzor</strong> and look for <code>+ Add Folder</code> button.
+Click it add the label, the <strong>Folder_id</strong> (make it easy we will use it later), and the folder path. then move to the <strong>Sharing</strong> tab in the upper strip, check your phone name to allow sharing with it. click save of course after you finish.
+<strong>Note: this is note enough to start sharing your folder. You need to add the folder id in the android app too</strong></p>
+<p><strong>Next</strong> on your android device got o folders tab and press the icon on the top strip on the right (the folder icon) to add the folder.</p>
+<ul>
+<li>Add the folder label</li>
+<li>The folder’s ID (very important to match the folder if on your desktop app)</li>
+<li>add the directory of the folder that you want to be shared from and to it.</li>
+<li>Check you computer under the devices filed to allow sharing</li>
+<li>press the correct sign in the top right corner.
+That is all, now you should being able to see the two apps sharing the files between the folders.</li>
+</ul>
+<br>
+<br>
+<h2>Targeting Obsidian app</h2>
+<p>To sync <strong>Obsidian</strong> all what  you need to know is your vault’s location in both devices and add it as the folder path on both Synchthing apps.
+for example on my Android app the path is <br>
+<code>/emulated/0/Documents/Obsidian/vault1/</code> <br>
+and on my laptop <br>
+<code>~/Documents/Obsidian/vault1/</code> <br>
+Enjoy <code>;)</code></p>
+
+    </div>
+
+    
+    <script>
+        (function () {
+            const links = document.querySelectorAll("a[href^='http://'], a[href^='https://']");
+            const host = window.location.hostname;
+
+            const isInternalLink = (link) => {
+            try {
+                return new URL(link.href).hostname === host;
+            } catch {
+                return false;
+            }
+            };
+
+            links.forEach(link => {
+            if (!isInternalLink(link)) {
+                link.setAttribute("target", "_blank");
+                link.setAttribute("rel", "noopener");
+            }
+            });
+        })();
+    </script>
+
+</body>
+</html>
