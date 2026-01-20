@@ -122,6 +122,10 @@ code {
     background-color:  var(--code-background-color);
     padding-left: 7px;
     padding-right: 7px;
+    /* To respect the width of the container */
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
 
 .code {

@@ -56,8 +56,9 @@ layout : "base-layout.njk"
 - [Learn GitHub-Flavored Markdown Syntax (GFM)](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/)
 - [Bash the right way](https://www.youtube.com/watch?v=6eGq6nhKdCQ)
 - [Take High Resolution Screenshots](/pages/take-high-resolution-screenshots)
-- [Kaomoji](/pages/Kaomoji)
+- [Kaomoji](/pages/kaomoji)
 - [Learn Hand Sewing](/pages/learn-hand-sewing)
+- [Blogs We Like](/pages/blogs-we-like)
 - [Contact Us](/pages/contact-us)
 <!-- - [TestPage](/pages/testPage) -->
 

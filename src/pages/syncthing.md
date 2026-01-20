@@ -17,14 +17,15 @@ Syncthing is **peer-to-peer** syncing app, it uses **LAN**(Local Area Network) f
 This is their [main download page](https://syncthing.net/downloads/), you can check it to install your device edition. <br>
 **For Windows**
 you will find two editions: 
-- [Base](https://syncthing.net/downloads/#base-syncthing) editoin
+- [Base](https://syncthing.net/downloads/#base-syncthing) edition
 - [syncTrayzor](https://github.com/GermanCoding/SyncTrayzor/releases/tag/v2.0.4) edition 
 
 we advice you to download the syncTrayzor edition.
 You need to check your processor architecture first, use [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) to do it, there are versions for Android and Windows.
-When you open it navigate to `system` tab then look at `Kernal Architeacture` property (field). Then search in the internet about:
+When you open it navigate to `system` tab then look at `Kernel Architecture` property (field). Then search in the internet about:
 - If the architecture belongs to **ARM** family or to **x86** family
-- If the architecture is a 32-bit or 64-bit
+- If the architecture is a 32-bit or 64-bit <br>
+
 That all what you need to know which edition you need to download. we will make an article about CPUs architectures later.
 
 **For Android**
@@ -70,4 +71,4 @@ for example on my Android app the path is <br>
 `/emulated/0/Documents/Obsidian/vault1/` <br>
 and on my laptop <br>
 `~/Documents/Obsidian/vault1/` <br>
-Enjoy `;)` 
+Enjoy ;)

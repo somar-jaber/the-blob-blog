@@ -5,8 +5,8 @@ tags: ["Tech"]
 ---
 
 if your browser returning the error **No Internet** with message :
-something wrong with a proxy server of the address is not correct.
-Or if you used a VPN then the internet stopped working. So, this is the solution.
+something wrong with a proxy server or the address is not correct.
+Or if you used a VPN then the internet stopped working. So, this is the solution
 <br>
 <br>
 
@@ -18,7 +18,7 @@ Step 1: Disable or uninstall the VPN
 ---
 
 Step 2: Reset proxy settings
-1. Press Windows key + R, type inetcpl.cpl, and hit Enter.  
+1. Press Windows key + R, type `inetcpl.cpl` , and hit Enter.  
 2. Go to the Connections tab → LAN settings.  
 3. Make sure “Use a proxy server for your LAN” is unchecked.  
 4. Ensure “Automatically detect settings” is checked.  
