@@ -24,6 +24,8 @@ html {
 :root {
     --background-color : hsl(225, 18%, 90%);
     --background-color2: #ebf3f3;
+    --background-color3: #e5ddd6;
+    --background-color-copiolt: #f8f4f1;
     --text-color: rgb(76, 79, 105);
     --terminal-text-color: rgb(76, 79, 225);
     --light-text-color: #6B7280;
@@ -36,7 +38,7 @@ html {
 
 body {
     font-family: Arial, Inter, Georgia, "DIN Round Pro";
-    background-color: var(--background-color);
+    background-color: var(--background-color-copiolt);
     color: var(--text-color);
     font-size: 20px;
     font-weight: 400;
