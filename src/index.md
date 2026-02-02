@@ -58,6 +58,7 @@ layout : "base-layout.njk"
 - [Take High Resolution Screenshots](/pages/take-high-resolution-screenshots)
 - [Kaomoji](/pages/kaomoji)
 - [Learn Hand Sewing](/pages/learn-hand-sewing)
+- [My Writings](/pages/my-writings)
 - [Blogs We Like](/pages/blogs-we-like)
 - [Contact Us](/pages/contact-us)
 <!-- - [TestPage](/pages/testPage) -->
