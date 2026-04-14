@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<!-- Push number 42 -->
+<!-- 
+    Hi bro Programmer, 8 attempts needed to make it works 
+    By the way what are you doing here ?
+    Are you trying to steal something ? Have some morals bro.
+-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- favicon -->
+    <link rel="icon" type="image/x-icon" href="/the-blob-blog/assets/favicon.png">
+
+    <!-- Load Prism CSS -->
+    <link href="/the-blob-blog/css/themes/prism-tomorrow.css" rel="stylesheet">
+    
+    
+    <link rel="stylesheet" href="/the-blob-blog/css/style.css">
+
+    
+    <meta name="theme-color" content="#e1e3ea">
+
+    <title>The Blob Blog</title>
+</head>
+<body>
+
+    <div class="container">
+        
+        
+            <div class="mainTitle" style="display: flex; justify-content: space-between;">
+    <h1>Transfer Your PC experience with those apps</h1>
+    <a href="/the-blob-blog/" style="font-weight: normal;">home</a>
+</div>
+
+    <span class="hashtag">#DigitalContent</span>
+
+<br>
+<br>
+<hr>
+<br>
+        
+        
+
+        <!--
+    The IDs are generated from the content of the header according to the following rules:
+    All text is converted to lowercase.
+    All non-word text (e.g., punctuation, HTML) is removed.
+    All spaces are converted to hyphens.
+    Two or more hyphens in a row are converted to one.
+    If a header with the same ID has already been generated, a unique incrementing number is appended, starting at 1.
+-->
+<p>Most of the next software are free unless otherwise stated.</p>
+<ul>
+<li><a href="#kosmik">Kosmic</a></li>
+<li><a href="#arc">Arc</a></li>
+<li><a href="#comet">Comet</a></li>
+<li><a href="#gptatlas">GPTAtlas</a> (very expensive but has the ability to take actions on websites)</li>
+<li><a href="#obsidian">Obsidian</a></li>
+<li><a href="#anytype">Anytype</a></li>
+<li><a href="#siyuan">SiYuan</a></li>
+<li><a href="#deepl">DeepL</a></li>
+<li><a href="#playnet">Playnet</a></li>
+<li><a href="#net-limiter">Net Limiter</a> (tool)</li>
+<li><a href="#keyboard-lock">keyboard lock</a> (tool)</li>
+</ul>
+<hr>
+<h2 id="kosmik-(paid)" tabindex="-1"><strong>Kosmik</strong> (paid)</h2>
+<p>A Browser acts like a whiteboard imbedded with AI. It is Amazing for Research either for science or for arts.
+IT is paid but has a free 1-week free trailer.</p>
+<h2 id="arc" tabindex="-1"><strong>Arc</strong></h2>
+<p>It is an elegant free browser with a new design concept. It is my default browser, it built on Chromium.</p>
+<h2 id="comet-(paid)" tabindex="-1"><strong>Comet</strong> (paid)</h2>
+<p>A browser from Perplexity. it allows the AI to take over the browser and make actions. It is paid now but used to be free.</p>
+<h2 id="gptatlas-(paid)" tabindex="-1"><strong>GPTAtlas</strong> (paid)</h2>
+<p>Like Comet but this is the original author for the idea. and it is a lot more capable than Comet but also a lot
+more expensive.</p>
+<h2 id="obsidian" tabindex="-1"><strong>Obsidian</strong></h2>
+<p>The powerful offline free replacement for Notion.
+It has a mobile edition. but the Sync future is paid(this is the only paid thing in the app).</p>
+<h2 id="anytype" tabindex="-1"><strong>Anytype</strong></h2>
+<p>My default knowledge base. It still in development but it is safe enough now to start using it.
+It is a local-first encrypted knowledge base.
+I prefer it more that Obsidian for now and it has a mobile edition too.</p>
+<h2 id="siyuan" tabindex="-1"><strong>SiYuan</strong></h2>
+<p>A free offline Chinese replacement for Notion.
+It has a Mobile edition too.</p>
+<h2 id="deepl" tabindex="-1"><strong>DeepL</strong></h2>
+<p>AI translation app. very useful for scientific use &amp; context. It has a PC version which adds
+a very useful futures like direct translating for text using short cuts. It also checks and improves texts
+but this is yet not supported for all languages.</p>
+<h2 id="playnet" tabindex="-1"><strong>PlayNet</strong></h2>
+<p>For Games Lovers, this software is a video game library manager, it is very useful cool.
+It has themes which some of them gives the feel of PS themes.
+My best theme is PlayniteModernUI.</p>
+<h2 id="net-limiter" tabindex="-1"><strong>Net Limiter</strong></h2>
+<p>Very powerfule and user friendly app to strict and control network access for all apps and services.</p>
+<h2 id="keyboard-lock" tabindex="-1"><strong>Keyboard Lock</strong></h2>
+<p>If you study on your laptop and don't have a much space in your table so absolutly
+you want to lock you keyboard so you can put your notebook on it to write without
+worrying from doing something wrong with your PC.</p>
+
+    </div>
+
+    
+    <script>
+        (function () {
+            const links = document.querySelectorAll("a[href^='http://'], a[href^='https://']");
+            const host = window.location.hostname;
+
+            const isInternalLink = (link) => {
+            try {
+                return new URL(link.href).hostname === host;
+            } catch {
+                return false;
+            }
+            };
+
+            links.forEach(link => {
+            if (!isInternalLink(link)) {
+                link.setAttribute("target", "_blank");
+                link.setAttribute("rel", "noopener");
+            }
+            });
+        })();
+    </script>
+
+</body>
+</html>

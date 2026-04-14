@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<!-- Push number 42 -->
+<!-- 
+    Hi bro Programmer, 8 attempts needed to make it works 
+    By the way what are you doing here ?
+    Are you trying to steal something ? Have some morals bro.
+-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- favicon -->
+    <link rel="icon" type="image/x-icon" href="/the-blob-blog/assets/favicon.png">
+
+    <!-- Load Prism CSS -->
+    <link href="/the-blob-blog/css/themes/prism-tomorrow.css" rel="stylesheet">
+    
+    
+    <link rel="stylesheet" href="/the-blob-blog/css/style.css">
+
+    
+    <meta name="theme-color" content="#e1e3ea">
+
+    <title>The Blob Blog</title>
+</head>
+<body>
+
+    <div class="container">
+        
+        
+            <div class="mainTitle" style="display: flex; justify-content: space-between;">
+    <h1>Unstable Domains</h1>
+    <a href="/the-blob-blog/" style="font-weight: normal;">home</a>
+</div>
+
+    <span class="hashtag">#ComputerScience</span>
+
+<br>
+<br>
+<hr>
+<br>
+        
+        
+
+        <h3 id="unstable-domains%3A-risks-and-realities" tabindex="-1"><strong>Unstable Domains: Risks and Realities</strong></h3>
+<p><strong>&quot;Unstable domains&quot;</strong> refer to domain names (or TLDs) that are risky due to legal, technical, or ownership issues. Here’s what you need to know before registering one:</p>
+<hr>
+<h2 id="1.-types-of-unstable-domains" tabindex="-1"><strong>1. Types of Unstable Domains</strong></h2>
+<h3 id="a.-new%2Funpopular-tlds" tabindex="-1"><strong>A. New/Unpopular TLDs</strong></h3>
+<p>Examples: <code>.cyou</code>, <code>.gq</code>, <code>.buzz</code>, <code>.xyz</code> (some uses)<br>
+<strong>Risks:</strong></p>
+<ul>
+<li><strong>Low trust</strong>: Spam filters may flag emails from these domains.</li>
+<li><strong>Shady registrars</strong>: Some TLDs are cheap because they’re abused by spammers.</li>
+</ul>
+<h3 id="b.-geopolitical-tlds" tabindex="-1"><strong>B. Geopolitical TLDs</strong></h3>
+<p>Examples: <code>.su</code> (Soviet Union legacy), <code>.dd</code> (former East Germany)<br>
+<strong>Risks:</strong></p>
+<ul>
+<li><strong>Legal uncertainty</strong>: Some are controlled by unstable governments.</li>
+<li><strong>Sanctions risk</strong>: Using <code>.ru</code> or .<code>.ir</code> may cause issues in some countries.</li>
+</ul>
+<h3 id="c.-expired%2Fdropped-domains" tabindex="-1"><strong>C. Expired/Dropped Domains</strong></h3>
+<p>Example: A previously used domain like <code>blob.site</code> that was abandoned.<br>
+<strong>Risks:</strong></p>
+<ul>
+<li><strong>Bad SEO history</strong>: Google may penalize it for past spam.</li>
+<li><strong>Legal disputes</strong>: Previous owners might reclaim it.</li>
+</ul>
+<h3 id="d.-decentralized-domains-(web3)" tabindex="-1"><strong>D. Decentralized Domains (Web3)</strong></h3>
+<p>Examples: <code>.crypto</code>, <code>.eth</code>, <code>.nft</code><br>
+<strong>Risks:</strong></p>
+<ul>
+<li><strong>Browser support</strong>: Most require plugins (not natively supported like <code>.com</code>).</li>
+<li><strong>No ICANN backup</strong>: Lose your crypto wallet? Lose your domain forever.</li>
+</ul>
+<hr>
+<h2 id="2.-how-to-avoid-unstable-domains" tabindex="-1"><strong>2. How to Avoid Unstable Domains</strong></h2>
+<p><strong>Stick to reputable TLDs</strong>: <code>.com</code>, <code>.org</code>, <code>.net</code>, <code>.io</code>, <code>.dev</code>.<br>
+<strong>Check domain history</strong>: Use <a href="https://archive.org/">Wayback Machine</a> &amp; <a href="https://www.spamhaus.org/">Spamhaus</a>.<br>
+<strong>Use trusted registrars</strong>: Namecheap, Cloudflare, Google Domains.</p>
+<p><strong>Avoid &quot;free&quot; domains</strong>: (e.g., <code>.tk</code>, <code>.gq</code> – often used for scams).<br>
+<strong>Don’t buy domains from shady auctions</strong> (check WHOIS first).</p>
+<hr>
+<h2 id="3.-what-if-you-already-bought-an-unstable-domain%3F" tabindex="-1"><strong>3. What If You Already Bought an Unstable Domain?</strong></h2>
+<ul>
+<li><strong>Redirect it</strong>: Point it to a stable domain.</li>
+<li><strong>Use for testing only</strong>: Don’t host critical services on it.</li>
+<li><strong>Monitor blacklists</strong>: Check <a href="https://mxtoolbox.com/blacklists.aspx">MXToolbox</a>.</li>
+</ul>
+<hr>
+<h3 id="final-verdict" tabindex="-1"><strong>Final Verdict</strong></h3>
+<p><strong>Unstable domains = risky long-term.</strong> Stick to <strong>.com, .io, or .dev</strong> for reliability.</p>
+
+    </div>
+
+    
+    <script>
+        (function () {
+            const links = document.querySelectorAll("a[href^='http://'], a[href^='https://']");
+            const host = window.location.hostname;
+
+            const isInternalLink = (link) => {
+            try {
+                return new URL(link.href).hostname === host;
+            } catch {
+                return false;
+            }
+            };
+
+            links.forEach(link => {
+            if (!isInternalLink(link)) {
+                link.setAttribute("target", "_blank");
+                link.setAttribute("rel", "noopener");
+            }
+            });
+        })();
+    </script>
+
+</body>
+</html>

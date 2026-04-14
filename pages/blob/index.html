@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- Push number 41 -->
+<!-- Push number 42 -->
 <!-- 
     Hi bro Programmer, 8 attempts needed to make it works 
     By the way what are you doing here ?
@@ -9,6 +9,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- favicon -->
+    <link rel="icon" type="image/x-icon" href="/the-blob-blog/assets/favicon.png">
 
     <!-- Load Prism CSS -->
     <link href="/the-blob-blog/css/themes/prism-tomorrow.css" rel="stylesheet">
@@ -40,13 +42,13 @@
         
         
 
-        <h3><strong>What Does <code>Blob</code> mean ?</strong></h3>
+        <h3 id="what-does-blob-mean-%3F" tabindex="-1"><strong>What Does <code>Blob</code> mean ?</strong></h3>
 <p><strong><code>Blob</code> (Binary Large Object)</strong> is a built-in programming data type in a language called JavaScript (the base of <abbr title="The current web that you know and using">Web2</abbr>) used to represent raw, immutable binary data. It’s commonly used for handling files (e.g., images, PDFs) or large chunks of data in web applications. Also the word <code>/Blob/</code> is used to refer to a small amount or drop of something, especially a liquid; a small area of color. Sometimes to refer to a sphere of liquid floating in the air. <strong>So</strong>, we chose this name to represent a <code>Blob</code> <em>floating</em> in the Internet as a <em>spot</em> in the network which has a <em>technical</em> info to level up your digital life. A useful <em>Binary Large Object</em> floating in the Internet.</p>
 <br>
 <br>
 <hr>
-<h2>More deep into the technical side :</h2>
-<h3><strong>Key Features of <code>Blob</code></strong></h3>
+<h2 id="more-deep-into-the-technical-side-%3A" tabindex="-1">More deep into the technical side :</h2>
+<h3 id="key-features-of-blob" tabindex="-1"><strong>Key Features of <code>Blob</code></strong></h3>
 <ol>
 <li><strong>Stores Binary Data</strong>: Can hold text, images, audio, etc.</li>
 <li><strong>Immutable</strong>: Cannot be modified directly (but can be sliced).</li>
@@ -60,20 +62,20 @@
 </li>
 </ol>
 <hr>
-<h3><strong>How to Create a <code>Blob</code></strong></h3>
-<h4><strong>1. From Text/String</strong></h4>
+<h3 id="how-to-create-a-blob" tabindex="-1"><strong>How to Create a <code>Blob</code></strong></h3>
+<h4 id="1.-from-text%2Fstring" tabindex="-1"><strong>1. From Text/String</strong></h4>
 <pre class="language-javascript"><code class="language-javascript"><span class="token keyword">const</span> blob <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">Blob</span><span class="token punctuation">(</span><span class="token punctuation">[</span><span class="token string">"Hello, world!"</span><span class="token punctuation">]</span><span class="token punctuation">,</span> <span class="token punctuation">{</span> <span class="token literal-property property">type</span><span class="token operator">:</span> <span class="token string">'text/plain'</span> <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
 console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>blob<span class="token punctuation">.</span>size<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// 13 (bytes)</span>
 console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>blob<span class="token punctuation">.</span>type<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// "text/plain"</span></code></pre>
-<h4><strong>2. From JSON</strong></h4>
+<h4 id="2.-from-json" tabindex="-1"><strong>2. From JSON</strong></h4>
 <pre class="language-javascript"><code class="language-javascript"><span class="token keyword">const</span> data <span class="token operator">=</span> <span class="token punctuation">{</span> <span class="token literal-property property">name</span><span class="token operator">:</span> <span class="token string">"Alice"</span> <span class="token punctuation">}</span><span class="token punctuation">;</span>
 <span class="token keyword">const</span> blob <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">Blob</span><span class="token punctuation">(</span><span class="token punctuation">[</span><span class="token constant">JSON</span><span class="token punctuation">.</span><span class="token function">stringify</span><span class="token punctuation">(</span>data<span class="token punctuation">)</span><span class="token punctuation">]</span><span class="token punctuation">,</span> <span class="token punctuation">{</span> <span class="token literal-property property">type</span><span class="token operator">:</span> <span class="token string">'application/json'</span> <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span></code></pre>
-<h4><strong>3. From ArrayBuffer</strong></h4>
+<h4 id="3.-from-arraybuffer" tabindex="-1"><strong>3. From ArrayBuffer</strong></h4>
 <pre class="language-javascript"><code class="language-javascript"><span class="token keyword">const</span> buffer <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">ArrayBuffer</span><span class="token punctuation">(</span><span class="token number">8</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
 <span class="token keyword">const</span> blob <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">Blob</span><span class="token punctuation">(</span><span class="token punctuation">[</span>buffer<span class="token punctuation">]</span><span class="token punctuation">,</span> <span class="token punctuation">{</span> <span class="token literal-property property">type</span><span class="token operator">:</span> <span class="token string">'application/octet-stream'</span> <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span></code></pre>
 <hr>
-<h3><strong>Common Use Cases</strong></h3>
-<h4><strong>1. Download Files</strong></h4>
+<h3 id="common-use-cases" tabindex="-1"><strong>Common Use Cases</strong></h3>
+<h4 id="1.-download-files" tabindex="-1"><strong>1. Download Files</strong></h4>
 <pre class="language-javascript"><code class="language-javascript"><span class="token keyword">const</span> blob <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">Blob</span><span class="token punctuation">(</span><span class="token punctuation">[</span><span class="token string">"File content"</span><span class="token punctuation">]</span><span class="token punctuation">,</span> <span class="token punctuation">{</span> <span class="token literal-property property">type</span><span class="token operator">:</span> <span class="token string">'text/plain'</span> <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
 <span class="token keyword">const</span> url <span class="token operator">=</span> <span class="token constant">URL</span><span class="token punctuation">.</span><span class="token function">createObjectURL</span><span class="token punctuation">(</span>blob<span class="token punctuation">)</span><span class="token punctuation">;</span>
 <span class="token keyword">const</span> a <span class="token operator">=</span> document<span class="token punctuation">.</span><span class="token function">createElement</span><span class="token punctuation">(</span><span class="token string">'a'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
@@ -81,14 +83,14 @@ a<span class="token punctuation">.</span>href <span class="token operator">=</sp
 a<span class="token punctuation">.</span>download <span class="token operator">=</span> <span class="token string">'example.txt'</span><span class="token punctuation">;</span>
 a<span class="token punctuation">.</span><span class="token function">click</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
 <span class="token constant">URL</span><span class="token punctuation">.</span><span class="token function">revokeObjectURL</span><span class="token punctuation">(</span>url<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// Clean up</span></code></pre>
-<h4><strong>2. Read <code>Blob</code> Data</strong></h4>
+<h4 id="2.-read-blob-data" tabindex="-1"><strong>2. Read <code>Blob</code> Data</strong></h4>
 <pre class="language-javascript"><code class="language-javascript"><span class="token keyword">const</span> reader <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">FileReader</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
 reader<span class="token punctuation">.</span><span class="token function-variable function">onload</span> <span class="token operator">=</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token operator">=></span> console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>reader<span class="token punctuation">.</span>result<span class="token punctuation">)</span><span class="token punctuation">;</span>
 reader<span class="token punctuation">.</span><span class="token function">readAsText</span><span class="token punctuation">(</span>blob<span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// Or readAsDataURL(), readAsArrayBuffer()</span></code></pre>
-<h4><strong>3. Slice a <code>Blob</code> (Chunking)</strong></h4>
+<h4 id="3.-slice-a-blob-(chunking)" tabindex="-1"><strong>3. Slice a <code>Blob</code> (Chunking)</strong></h4>
 <pre class="language-javascript"><code class="language-javascript"><span class="token keyword">const</span> chunk <span class="token operator">=</span> blob<span class="token punctuation">.</span><span class="token function">slice</span><span class="token punctuation">(</span><span class="token number">0</span><span class="token punctuation">,</span> <span class="token number">1024</span><span class="token punctuation">)</span><span class="token punctuation">;</span> <span class="token comment">// First 1KB</span></code></pre>
 <hr>
-<h3><strong><code>Blob</code> vs Other Data Types</strong></h3>
+<h3 id="blob-vs-other-data-types" tabindex="-1"><strong><code>Blob</code> vs Other Data Types</strong></h3>
 <div class="table-wrapper"><table>
 <thead>
 <tr>
@@ -126,13 +128,13 @@ reader<span class="token punctuation">.</span><span class="token function">readA
 </tbody>
 </table></div>
 <hr>
-<h3><strong>Browser Compatibility</strong></h3>
+<h3 id="browser-compatibility" tabindex="-1"><strong>Browser Compatibility</strong></h3>
 <ul>
 <li>Supported in all modern browsers (Chrome, Firefox, Safari, Edge).</li>
 <li>Node.js: Use the <code>Buffer</code> class for similar functionality.</li>
 </ul>
 <hr>
-<h3><strong>Summary</strong></h3>
+<h3 id="summary" tabindex="-1"><strong>Summary</strong></h3>
 <ul>
 <li><strong><code>Blob</code> is a data type</strong> for raw binary data.</li>
 <li><strong>Immutable</strong> but can be sliced/chunked.</li>

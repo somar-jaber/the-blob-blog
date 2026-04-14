@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- Push number 41 -->
+<!-- Push number 42 -->
 <!-- 
     Hi bro Programmer, 8 attempts needed to make it works 
     By the way what are you doing here ?
@@ -9,6 +9,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- favicon -->
+    <link rel="icon" type="image/x-icon" href="/the-blob-blog/assets/favicon.png">
 
     <!-- Load Prism CSS -->
     <link href="/the-blob-blog/css/themes/prism-tomorrow.css" rel="stylesheet">
@@ -42,10 +44,10 @@
 
         <p>In 11ty, to get syntax highlighting for code blocks in your Markdown files, you can use an official Eleventy plugin called <code>@11ty/eleventy-plugin-syntaxhighlight</code>.</p>
 <p>Here's how to set it up so you can specify the language for each code block (e.g., JavaScript, HTML, CSS) and have proper syntax highlighting:</p>
-<h3>Step 1: Install the plugin</h3>
+<h3 id="step-1%3A-install-the-plugin" tabindex="-1">Step 1: Install the plugin</h3>
 <p>Run this command in your project directory:</p>
 <pre class="language-bash"><code class="language-bash"><span class="token function">npm</span> <span class="token function">install</span> @11ty/eleventy-plugin-syntaxhighlight --save-dev</code></pre>
-<h3>Step 2: Add the plugin to your <code>.eleventy.js</code> configuration file</h3>
+<h3 id="step-2%3A-add-the-plugin-to-your-.eleventy.js-configuration-file" tabindex="-1">Step 2: Add the plugin to your <code>.eleventy.js</code> configuration file</h3>
 <pre class="language-js"><code class="language-js"><span class="token keyword">import</span> syntaxHighlight <span class="token keyword">from</span> <span class="token string">"@11ty/eleventy-plugin-syntaxhighlight"</span><span class="token punctuation">;</span>
 
 <span class="token keyword">export</span> <span class="token keyword">default</span> <span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">eleventyConfig</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
@@ -53,19 +55,19 @@
   
   <span class="token comment">// other config options ...</span>
 <span class="token punctuation">}</span><span class="token punctuation">;</span></code></pre>
-<h3>Step 3: Use fenced code blocks with language identifier in your Markdown files</h3>
+<h3 id="step-3%3A-use-fenced-code-blocks-with-language-identifier-in-your-markdown-files" tabindex="-1">Step 3: Use fenced code blocks with language identifier in your Markdown files</h3>
 <p>Example Markdown:</p>
 <pre class="language-javascript"><code class="language-javascript"><span class="token comment">// JavaScript code here</span>
 console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span><span class="token string">"Hello, 11ty!"</span><span class="token punctuation">)</span><span class="token punctuation">;</span></code></pre>
 <p>Or:</p>
 <pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>p</span><span class="token punctuation">></span></span>Hello World<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>p</span><span class="token punctuation">></span></span></code></pre>
 <p>The language tag after the opening three backticks enables the plugin to highlight the code accordingly.</p>
-<h3>Step 4: Add CSS for the syntax highlighting styles</h3>
+<h3 id="step-4%3A-add-css-for-the-syntax-highlighting-styles" tabindex="-1">Step 4: Add CSS for the syntax highlighting styles</h3>
 <p>The plugin uses PrismJS under the hood, so you need to include a Prism CSS theme in your site, e.g., in your base layout:</p>
 <pre class="language-html"><code class="language-html"><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>link</span> <span class="token attr-name">rel</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>stylesheet<span class="token punctuation">"</span></span> <span class="token attr-name">href</span><span class="token attr-value"><span class="token punctuation attr-equals">=</span><span class="token punctuation">"</span>/path-to-your-css/prism.css<span class="token punctuation">"</span></span> <span class="token punctuation">/></span></span></code></pre>
 <p>You can download Prism themes from the PrismJS website or use your own styles.</p>
 <hr>
-<h3>Summary:</h3>
+<h3 id="summary%3A" tabindex="-1">Summary:</h3>
 <ul>
 <li>Install <code>@11ty/eleventy-plugin-syntaxhighlight</code>.</li>
 <li>Add it in <code>.eleventy.js</code>.</li>
