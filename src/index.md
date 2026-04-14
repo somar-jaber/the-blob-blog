@@ -35,6 +35,9 @@ layout : "base-layout.njk"
 <p>
     &nbsp; &nbsp; Where the internet is different, <br> 
     Where the hyperlinks lead to an alternative useful digital world.
+    <br>
+    <br>
+    &nbsp; &nbsp; to Search, use the built-in future in browsers, <br>Press <kbd>Ctrl</kbd> + <kbd>F</kbd>. &nbsp; For MacOS, press <kbd>⌘</kbd> + <kbd>F</kbd>.
 </p>
 
 <br>
@@ -42,8 +45,9 @@ layout : "base-layout.njk"
 <br>
 
 ## The Index
+<!-- - [**The Main Thread**](#) *(Coming soon)* -->
 - [What Does Blob Mean ?](/pages/blob)
-- [**The Main Thread**](#) *(Coming soon)*
+- [Transfer Your PC experience with those apps](/pages/transfer-your-pc-experience-with-those-apps)
 - [Highlight code in 11ty](/pages/11ty/highlight-code)
 - [Deep into the Context menu of directories (Windows)](/pages/deep-into-the-context-menu)
 - [Sync your devices for free with Syncthing (Syncing Obsidian included)](/pages/syncthing)
@@ -56,8 +60,13 @@ layout : "base-layout.njk"
 - [Learn GitHub-Flavored Markdown Syntax (GFM)](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/)
 - [Bash the right way](https://www.youtube.com/watch?v=6eGq6nhKdCQ)
 - [Take High Resolution Screenshots](/pages/take-high-resolution-screenshots)
+- [Your Desktop showing nothing! (Black Screen)](/pages/your-desktop-showing-nothing-!)
 - [Kaomoji](/pages/kaomoji)
 - [Learn Hand Sewing](/pages/learn-hand-sewing)
+- [Kill all processes that come from a folder](/pages/kill-all-processes-that-come-from-a-folder)
+- [Unstable Domains](/pages/unstable-domains)
+- [Tools & Websites for Design inspiration](/pages/tools-&-websites-for-design-inspiration)
+- [Places to make your own website](/pages/places-to-make-your-own-website)
 - [My Writings](/pages/my-writings)
 - [Blogs We Like](/pages/blogs-we-like)
 - [Contact Us](/pages/contact-us)

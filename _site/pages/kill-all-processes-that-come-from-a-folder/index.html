@@ -29,7 +29,7 @@
         
         
             <div class="mainTitle" style="display: flex; justify-content: space-between;">
-    <h1>Wallpapers Websites for PC</h1>
+    <h1>Kill all processes that come from a folder</h1>
     <a href="/the-blob-blog/" style="font-weight: normal;">home</a>
 </div>
 
@@ -42,12 +42,11 @@
         
         
 
-        <ul>
-<li><a href="https://wall.alphacoders.com/">Alpha Coders</a></li>
-<li><a href="https://www.wallpaperflare.com/">WallpaperFlare</a></li>
-<li><a href="https://wallpapercave.com/">WallpaperCave</a></li>
-<li><a href="https://wallpaperaccess.com/">WallpaperAccess</a></li>
-</ul>
+        <p>sometimes you want to move , copy or delete a file or a folder but an annoying message pops up telling you that there is something using this file or running inside the folder so you can’t continue your action.</p>
+<p>And As usual we got you! : run this command in CMD or PwerShell in Admin mode :</p>
+<pre class="language-shell"><code class="language-shell">Get-Process <span class="token operator">|</span> Where-Object <span class="token punctuation">{</span> <span class="token variable">$_</span>.Path <span class="token parameter variable">-like</span> <span class="token string">"C:\Path\To\Folder\*"</span> <span class="token punctuation">}</span> <span class="token operator">|</span> Stop-Process <span class="token parameter variable">-Force</span></code></pre>
+<p>Replace the <code>C:\Path\To\Folder</code> by the real folder path.</p>
+<p>Nice hunt ;)</p>
 
     </div>
 

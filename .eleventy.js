@@ -1,5 +1,6 @@
 const { DateTime } = require("luxon");
 const markdownIt = require("markdown-it");
+const markdownItAnchor = require("markdown-it-anchor");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
 
@@ -19,10 +20,16 @@ module.exports = async function(eleventyConfig) {
     // Markdown filter to render markdown inside html
     const md = new markdownIt({
         html: true
+    }).use(markdownItAnchor, {
+    //   permalink: markdownItAnchor.permalink.headerLink()
     });
+
     eleventyConfig.addPairedShortcode("markdown", (content) => {
         return md.render(content);
     });
+
+    eleventyConfig.setLibrary("md", md);
+
 
     // applying highlighting 
     eleventyConfig.addPlugin(syntaxHighlight);  

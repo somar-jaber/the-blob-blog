@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- Push number 40 -->
+<!-- Push number 42 -->
 <!-- 
     Hi bro Programmer, 8 attempts needed to make it works 
     By the way what are you doing here ?
@@ -9,6 +9,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- favicon -->
+    <link rel="icon" type="image/x-icon" href="/the-blob-blog/assets/favicon.png">
 
     <!-- Load Prism CSS -->
     <link href="/the-blob-blog/css/themes/prism-tomorrow.css" rel="stylesheet">
@@ -60,8 +62,8 @@ To edit them you need to search in your search bar for <strong>Registry Editor</
 <li>once to open the current opened directory in VLC (<em>Where you are inside the folder</em>)</li>
 <li>once to open the current selected folder in VLC (<em>Where you are outside the folder and already selected it by your cursor</em>)</li>
 </ul>
-<h3>Add &quot;Open with VLC&quot; to the <em>Background</em> Context Menu</h3>
-<h4>Method 1: Manual Registry Edit</h4>
+<h3 id="add-%22open-with-vlc%22-to-the-background-context-menu" tabindex="-1">Add &quot;Open with VLC&quot; to the <em>Background</em> Context Menu</h3>
+<h4 id="method-1%3A-manual-registry-edit" tabindex="-1">Method 1: Manual Registry Edit</h4>
 <ol>
 <li>
 <p>Open Registry Editor (Win + R → regedit → Enter).</p>
@@ -111,7 +113,7 @@ To edit them you need to search in your search bar for <strong>Registry Editor</
 <li>Restart File Explorer (Task Manager → explorer.exe → Restart) or reboot the system.</li>
 <li>Enjoy</li>
 </ol>
-<h4><strong>Method 2: Use a .reg File</strong></h4>
+<h4 id="method-2%3A-use-a-.reg-file" tabindex="-1"><strong>Method 2: Use a .reg File</strong></h4>
 <ol>
 <li>Open Notepad and paste:</li>
 </ol>
@@ -140,7 +142,7 @@ To edit them you need to search in your search bar for <strong>Registry Editor</
 <li>There might be Conflicts inside the reg files, like there are already some registries have the same names and functions of your registries that you are trying to make. Use <a href="https://www.nirsoft.net/utils/shexview.html">ShellExView</a> to check for blocked entries
 <br></li>
 </ul>
-<h3>Add &quot;Open with VLC&quot; to the for folders context menu</h3>
+<h3 id="add-%22open-with-vlc%22-to-the-for-folders-context-menu" tabindex="-1">Add &quot;Open with VLC&quot; to the for folders context menu</h3>
 <p>Same as the above but with slightly difference.
 You go to the next directory:
 <code>HKEY_CLASSES_ROOT\Directory\shell</code>
@@ -155,7 +157,7 @@ and follow the same old steps, but in the key <code>command</code> the default s
 <br>
 <br></p>
 <hr>
-<h2>Now About Files</h2>
+<h2 id="now-about-files" tabindex="-1">Now About Files</h2>
 <p>Most of the things are files in Windows so there is no one specific directory to edit in, it depends on what type of file you want to edit. So to edit the context menu to all the files you should edit</p>
 <pre class="language-cmd"><code class="language-cmd">HKEY_CLASSES_ROOT\*\shell</code></pre>
 <p>where the <code>*</code> means all the files. But if you want to edit the <code>.mp4</code> files type context menu :</p>
@@ -163,12 +165,12 @@ and follow the same old steps, but in the key <code>command</code> the default s
 <p><strong>So now we will see how to add Open With VLC to files with a Bonus at the end</strong>
 <br>
 <br></p>
-<h3>Add Open with VLC to Files :</h3>
+<h3 id="add-open-with-vlc-to-files-%3A" tabindex="-1">Add Open with VLC to Files :</h3>
 <p>To add &quot;Open with VLC&quot; to the right-click context menu for individual files (like videos, music, etc.), you can modify the registry to include VLC in the context menu for all files or specific file types. Here’s how:</p>
 <hr>
-<h3>Method 1: Add &quot;Open with VLC&quot; for All Files</h3>
+<h3 id="method-1%3A-add-%22open-with-vlc%22-for-all-files" tabindex="-1">Method 1: Add &quot;Open with VLC&quot; for All Files</h3>
 <p>This will make the option appear when right-clicking any file (not just media files).</p>
-<h4>Steps:</h4>
+<h4 id="steps%3A" tabindex="-1">Steps:</h4>
 <ol>
 <li>
 <p>Open Registry Editor</p>
@@ -224,9 +226,9 @@ and follow the same old steps, but in the key <code>command</code> the default s
 </li>
 </ol>
 <hr>
-<h3>Method 2: Add &quot;Open with VLC&quot; for Specific File Types (e.g., .mp4, .mkv)</h3>
+<h3 id="method-2%3A-add-%22open-with-vlc%22-for-specific-file-types-(e.g.%2C-.mp4%2C-.mkv)" tabindex="-1">Method 2: Add &quot;Open with VLC&quot; for Specific File Types (e.g., .mp4, .mkv)</h3>
 <p>If you only want VLC to appear for video files, target specific extensions (e.g., .mp4, .mkv).</p>
-<h4>**Example for .mp4 Files:<strong>Open Registry Editoror</strong> (regedit).</h4>
+<h4 id="**example-for-.mp4-files%3Aopen-registry-editoror-(regedit)." tabindex="-1">**Example for .mp4 Files:<strong>Open Registry Editoror</strong> (regedit).</h4>
 <ol start="2">
 <li>Navigate to:</li>
 </ol>
@@ -235,7 +237,7 @@ and follow the same old steps, but in the key <code>command</code> the default s
 3. Follow the same stepsMethod 1 1** to create Open with VLC and command keys.<br>
 4. Restart File Explorer.</p>
 <hr>
-<h3><strong>Method 3: Use a .reg File (Quick Setup)</strong></h3>
+<h3 id="method-3%3A-use-a-.reg-file-(quick-setup)" tabindex="-1"><strong>Method 3: Use a .reg File (Quick Setup)</strong></h3>
 <p>Copy to Notepadotepad and paste:</p>
 <pre class="language-shell"><code class="language-shell">   Windows Registry Editor Version <span class="token number">5.00</span>
 

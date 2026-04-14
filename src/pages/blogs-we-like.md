@@ -9,3 +9,4 @@ tags: ["DigitalContent"]
 <!-- - [massgrave.dev](https://massgrave.dev/) -->
 - [The Marginalian](https://www.themarginalian.org/)
 - [Alex West](https://www.alexwest.co/)
+- [Simon Web Dev](https://simonewebdesign.it/projects/) 

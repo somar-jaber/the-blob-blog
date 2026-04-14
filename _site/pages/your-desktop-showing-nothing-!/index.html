@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<!-- Push number 42 -->
+<!-- 
+    Hi bro Programmer, 8 attempts needed to make it works 
+    By the way what are you doing here ?
+    Are you trying to steal something ? Have some morals bro.
+-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- favicon -->
+    <link rel="icon" type="image/x-icon" href="/the-blob-blog/assets/favicon.png">
+
+    <!-- Load Prism CSS -->
+    <link href="/the-blob-blog/css/themes/prism-tomorrow.css" rel="stylesheet">
+    
+    
+    <link rel="stylesheet" href="/the-blob-blog/css/style.css">
+
+    
+    <meta name="theme-color" content="#e1e3ea">
+
+    <title>The Blob Blog</title>
+</head>
+<body>
+
+    <div class="container">
+        
+        
+            <div class="mainTitle" style="display: flex; justify-content: space-between;">
+    <h1>Your Desktop showing nothing !</h1>
+    <a href="/the-blob-blog/" style="font-weight: normal;">home</a>
+</div>
+
+    <span class="hashtag">#Tech</span>
+
+<br>
+<br>
+<hr>
+<br>
+        
+        
+
+        <p>Your computer ran into a problem and maybe after the restart it logged in but after the login-screen there is nothing, just a screen with a one color (black, blue , etc.). There are no icons and no thing else.  Don’t worry we got you.</p>
+<h2 id="explorer.exe" tabindex="-1">explorer.exe</h2>
+<p>Your problem that the desktop app (process) is stopped.
+To fix this we need to deal with a <strong>shell Process</strong> called <code>explorer.exe</code> ,
+which is responsible for :</p>
+<ul>
+<li><strong>Desktop environment</strong></li>
+<li><strong>File Explorer windows</strong></li>
+<li><strong>Taskbar</strong> (not the task manager)</li>
+<li><strong>Start menu</strong></li>
+<li><strong>System tray</strong></li>
+</ul>
+<p>This is exactly why,
+when <code>explorer.exe</code>  crashes, you lose:</p>
+<ul>
+<li>Desktop icons</li>
+<li>Taskbar</li>
+<li>Start menu</li>
+<li>File Explorer windows
+All of these are part of the same shell process.</li>
+</ul>
+<h2 id="how-to-launch-explorer.exe" tabindex="-1">How to launch explorer.exe</h2>
+<p>When you reach the desktop, press <code>Ctrl + Shift + esc</code> to open the <strong>Task Manager</strong> (a separate system process). Then in Task Manager look to the upper right corner to find the <code>Run new task</code> button , that is on Windows 11.
+On Windows 10 click on <code>File</code> tab in the upper strip (top left corner) then press <code>Run new taks</code>.</p>
+<p>( <code>!</code> Note : if your system is locked to a language other than English jump to <a href="#language">How to force changing the language of the system ?</a></p>
+<p>After you clicked it. Enter in the dialog box <code>cmd</code> , then press Enter.
+When the Command Prompt opens enter in it :
+<code>taskkill /f /im explorer.exe</code>      <em>cmd is case-insensitive</em>
+We want to make sure that the process is really not running , and if it is we want to take it down to restart it.
+Then enter again in cmd the command :
+<code>start explorer.exe</code>
+Congratulations !
+Your Desktop has been returned.</p>
+<h2 id="language">How to force changing the language of the system ?</h2>
+**First method :**
+You can try going back to the lock screen (login screen) by pressing 
+`alt + ctrl + delete` 
+then press Sign Out. there you should see at the bottom an icon for the language.
+<p><strong>Second method :</strong>
+Using <strong>powershell</strong>
+Task Manager → File → Run new task</p>
+<ul>
+<li>Type : <code>powershell</code></li>
+<li>Then in powershell write :</li>
+</ul>
+<pre class="language-cmd"><code class="language-cmd">Set-WinUserLanguageList en-US -Force</code></pre>
+<p>This forces English as the only keyboard language.</p>
+<p><strong>Third method :</strong>
+By using the <strong>Control Panel module for “Region and Language” settings</strong> which known as <code>intl.cpl</code> .
+First go to task manager and then create a new task, write there
+<code>control intl.cpl</code>
+Then</p>
+<ul>
+<li>Press Enter</li>
+<li>This opens the Region &amp; Language settings window</li>
+<li>Switch the keyboard to English from there
+Even if the desktop is broken, this control panel window usually still works.</li>
+</ul>
+<p>The End.</p>
+
+    </div>
+
+    
+    <script>
+        (function () {
+            const links = document.querySelectorAll("a[href^='http://'], a[href^='https://']");
+            const host = window.location.hostname;
+
+            const isInternalLink = (link) => {
+            try {
+                return new URL(link.href).hostname === host;
+            } catch {
+                return false;
+            }
+            };
+
+            links.forEach(link => {
+            if (!isInternalLink(link)) {
+                link.setAttribute("target", "_blank");
+                link.setAttribute("rel", "noopener");
+            }
+            });
+        })();
+    </script>
+
+</body>
+</html>
