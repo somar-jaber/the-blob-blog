@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<!-- Push number 43 -->
+<!-- 
+    Hi bro Programmer, 8 attempts needed to make it works 
+    By the way what are you doing here ?
+    Are you trying to steal something ? Have some morals bro.
+-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- favicon -->
+    <link rel="icon" type="image/x-icon" href="/the-blob-blog/assets/favicon.png">
+
+    <!-- Load Prism CSS -->
+    <link href="/the-blob-blog/css/themes/prism-tomorrow.css" rel="stylesheet">
+    
+    
+    <link rel="stylesheet" href="/the-blob-blog/css/style.css">
+
+    
+    <meta name="theme-color" content="#e1e3ea">
+
+    <title>The Blob Blog</title>
+</head>
+<body>
+
+    <div class="container">
+        
+        
+            <div class="mainTitle" style="display: flex; justify-content: space-between;">
+    <h1>Windows Search Bar Not Working ?</h1>
+    <a href="/the-blob-blog/" style="font-weight: normal;">home</a>
+</div>
+
+    <a href="/the-blob-blog/collections/Tech/" class="hashtag">#Tech</a>
+
+<br>
+<br>
+<hr>
+<br>
+        
+        
+
+        <p>My windows search bar doesn't work , it keep searching but showing nothing</p>
+<p>When your Windows search bar keeps searching but shows no results, this is typically caused by issues with the Windows Search service or corrupted search index. Here are the most effective solutions to fix this problem:</p>
+<h2 id="restart-windows-search-service" tabindex="-1">Restart Windows Search Service</h2>
+<p>The first and often most effective solution is to restart the Windows Search service[1][2]:</p>
+<ol>
+<li>Press <strong>Ctrl + Shift + Esc</strong> to open Task Manager</li>
+<li>Go to the <strong>Details</strong> tab</li>
+<li>Find <strong>SearchHost.exe</strong> (Windows 11) or <strong>SearchUI.exe</strong> (Windows 10)</li>
+<li>Right-click it and select <strong>End task</strong></li>
+<li>Press <strong>Windows + R</strong>, type <code>services.msc</code> and press Enter</li>
+<li>Scroll down to find <strong>Windows Search</strong></li>
+<li>Right-click it and select <strong>Restart</strong></li>
+<li>Set the startup type to <strong>Automatic</strong> if it isn't already</li>
+</ol>
+<h2 id="rebuild-the-search-index" tabindex="-1">Rebuild the Search Index</h2>
+<p>If restarting the service doesn't work, rebuild the search index[3][4]:</p>
+<ol>
+<li>Press <strong>Windows + R</strong>, type <code>control panel</code> and press Enter</li>
+<li>Search for and click <strong>Indexing Options</strong></li>
+<li>Click the <strong>Advanced</strong> button</li>
+<li>Under the Troubleshooting section, click <strong>Rebuild</strong></li>
+<li>Click <strong>OK</strong> when warned about the long process time</li>
+<li>Restart your computer after the rebuild completes</li>
+</ol>
+<h2 id="run-the-search-and-indexing-troubleshooter" tabindex="-1">Run the Search and Indexing Troubleshooter</h2>
+<p>Windows has a built-in troubleshooter specifically for search issues[2]:</p>
+<ol>
+<li>Open Command Prompt and run:<pre><code>msdt.exe -ep WindowsHelp id SearchDiagnostic
+</code></pre>
+</li>
+<li>Follow the troubleshooter prompts to automatically detect and fix search problems</li>
+</ol>
+<h2 id="check-for-excluded-folders" tabindex="-1">Check for Excluded Folders</h2>
+<p>Sometimes folders are excluded from search, causing no results[3]:</p>
+<ol>
+<li>Press <strong>Windows + I</strong> to open Settings</li>
+<li>Go to <strong>Privacy &amp; Security</strong> &gt; <strong>Searching Windows</strong></li>
+<li>Scroll to <strong>Exclude folders from enhanced search</strong></li>
+<li>Remove any folders you want to be searchable by clicking the three dots and selecting <strong>Remove</strong></li>
+</ol>
+<h2 id="update-windows" tabindex="-1">Update Windows</h2>
+<p>Outdated Windows versions can cause search problems[1][5]:</p>
+<ol>
+<li>Press <strong>Windows + I</strong> to open Settings</li>
+<li>Go to <strong>Update &amp; Security</strong> &gt; <strong>Windows Update</strong></li>
+<li>Click <strong>Check for updates</strong> and install any available updates</li>
+<li>Restart your computer after updates complete</li>
+</ol>
+<h2 id="use-system-file-checker" tabindex="-1">Use System File Checker</h2>
+<p>Corrupted system files can break Windows Search[6][5]:</p>
+<ol>
+<li>Open Command Prompt as Administrator</li>
+<li>Run these commands in order:<pre><code>sfc /scannow
+</code></pre>
+Wait for completion, then run:<pre><code>DISM /Online /Cleanup-Image /RestoreHealth
+</code></pre>
+</li>
+<li>Restart your computer after both commands complete</li>
+</ol>
+<p>Most users find success with restarting the Windows Search service or rebuilding the search index. If the problem persists after trying these solutions, the issue may require more advanced troubleshooting or a Windows reset.</p>
+
+    </div>
+
+    
+    <script>
+        (function () {
+            const links = document.querySelectorAll("a[href^='http://'], a[href^='https://']");
+            const host = window.location.hostname;
+
+            const isInternalLink = (link) => {
+            try {
+                return new URL(link.href).hostname === host;
+            } catch {
+                return false;
+            }
+            };
+
+            links.forEach(link => {
+            if (!isInternalLink(link)) {
+                link.setAttribute("target", "_blank");
+                link.setAttribute("rel", "noopener");
+            }
+            });
+        })();
+    </script>
+
+</body>
+</html>
