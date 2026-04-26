@@ -1,0 +1,740 @@
+---
+layout : "base-layout.njk"
+title: "Windows Search Bar Not Working ?"
+---
+
+<h2 align="center">Winter of Change</h2>
+<center style="font-family: cursive;">
+    (after everything has been fallen)
+</center>
+
+---
+I am writing using the machine font.
+==00:55 18/11/2024==
+==Russia.==
+
+No thing to write about it today. But I heard about a series called "Your lie in April". And smiled a little bit while I was reading the violinist messages.
+==22:30 19/11/2024==
+==Russia.==
+
+Autumn is everywhere in this city.
+==14:12 22/11/2024==
+==Казань.==
+
+I bought that monster (TUF A15 2023 Laptop)🔥.
+==17:22 19/11/2024==
+==Russia.==
+
+Monday's morning is annoying because i have to wake up at 6, but it is crowded by pretty girls.
+==8:20 25/11/2024==
+
+I start heating my life, my new roommate making a big noise when he is sleeping.
+==23:26 26/11/2024==
+
+I don't know what happening there is a strong noisy sound on my room wall coming from outside. Shit for God and for this shitty life. I want to sleep and study why those are very hard to be done.
+==1:25 27/11/2024==
+
+What happened in the last hour was funny and social,
+I went just fill my water tank and i got a little conversation, then when I was coming back, a two Turkish guys where standing in the entrance of our building having a problem with the security for their room. Then a lot of Turkish people entered to help them, some of them speaking English but not Russian some of them speaking only Turkish but not Russian too and a Syrian girl speaking Arabic but not Russian, was trying to help, a little pretty social chaos. At the end another Turkish girl who can speak Russian entered and solved their problem.
+==00:06 29/11/2024==
+
+Snowy morning.
+==7:00 29/11/2024==
+
+ابلادي ملعونة ام ماذا؟؟
+==20:14 29/11/2024==
+
+Have I forget to mention my new Chinese friends who came last week to my room? The first called Shao, and the second called 
+Chen-shu.
+==00:09 5/12/2024==
+
+Oh it is snowing, I haven't notice that.
+==00:010 5/12/2024==
+
+I can't focus on my studying and I don't know why.
+==20:40 5/12/2024==
+
+Is today the machines error day ?
+==7:58 6/12/204==
+
+I don't know what is happening in Syria now. Is it better ? is it worse ?
+No body nose.
+==21:27 6/12/2024==
+
+الحياة ساخرة،
+لَحقّاً ساخرة،
+بل تحترف السخرية،
+تعطيك ما طالما تمنيته،
+و لكن بعد ان تأخذ منك ما يحرمك لِذَتهُ،
+تطعمك ما كنت تشتهي دون نفسنٍ
+و تعطيك حُلمَ رفهيتك دون وقتٍ
+و توديك مكان ما تمنيت دون روحٍ
+و توصلك بحبيبك و هو على شريفِ موتٍ،
+فتبا لها ما أغربها.
+==22:42 7/12/2024==
+
+سلامٌ يا وطني سلامٌ.
+==00:12 8/12/2024==
+
+و ها انت دمشق و وحش الأبد سقط
+==8:28 8/12/2024==
+
+First national day, 8 December, 2024
+==16:26 8/12/2024==
+
+تحادثتُ اليوم معها احاديثا طويلة ، و قلبي محترقٌ عليها ، محاصرةٌ عالقة ، و انا خارجُ الأرضِ ، مربوطُ الأيدي ، تحادثنا اليوم بطوله و كأننا أحباء و لكننا بِلا، و يالا سخرية الحياة فقبلاً ما كنتُ أجرءُ حتى الحرفَ معها.
+لعلّها تصل البيتَ سالمةً حرةً ذات الشعر الاشقر.
+==2:17 9/12/2024==
+
+I was able to help her this time, I was able ♡, Bubblegum.
+==16:13  9/12/2024==
+
+What I like here in Russia is how much the sky at night is lighted.
+Oh I start noticing things here.
+==00:51 10/12/2024==
+
+✏ OK another big fall because of a very small thing (physics exam).
+==14:18 16/12/2024==
+
+
+<h2 align="center"> Skies </h2>
+<center style="font-family: cursive;">
+    (Chapter two)
+</center>
+---
+I like these pinky nights,
+Very beautiful.
+Things getting better here for me.
+==00:33 17/12/2024==
+
+In the last chapter in didn't wrote about how much i suffered when I arrived here
+
+A lot of things today. First, my Russian language teacher told me that a young teacher who studied Arabic lectury wants to talk with me to practice Arabic tommorw. Secondly, I meet my new (and the last) roomate and it is from Turkey I hope he will be a good person except that I am not feel comfort about him. Third ...... Aaaaaah i don't know what to say but that blonde beauty \[bubblegum\] have a new profile photo and my heart has bombed up, and look to her new bio:
+>君の消えぬ痛みまで愛してみたいよ❤️
+
+The translation is :
+>I want to love even your never-ending pain ❤️
+
+Does she really have a crush or a boyfriend ? or what? Or she just like love and quoting from it ?
+Whatever it is , she never deserve pain.
+==20:06 19/12/2024==
+
+What is annoying in becoming smart is that most of the people around you will be stupid. Also you will be abel to predict stupids and smell their stupidity before they act.
+==12:13 22/12/2024==
+
+
+>The more knowledge you have the more alone you be.
+
+Because less people will be abel to understand you.
+==12:15 22/12/2024==
+
+
+I really hate the situation again in my room because of that stupid new Turkish guy. He is talkative and has a shared stupid things with Chun-shu so they keep talking the whole time. I am messing the silent in my room. I always have been wishing to have a silent place for my self and i think I will stay wishing this wish for long time if not forever.
+==23:30 23/12/2024==
+
+This night the sky is not pinky as usual. Is is dark navy blue, strange!
+==01:24 25/12/2024==
+
+I am thinking about changing the chapter name from "Pinky Nights" to "Skies".
+==01:26 25/12/2024==
+
+I don't think i will return to my country to settle there in someday, because my socity  has a high rate of stupid and unaware people. But also i don't know about the situation here. I think also that the whole world has the same stupidity rate.
+==20:48 25/12/2024==
+
+Oh the sky still pink , but the last time i write that it had been black because i was sleeping before 00:00 so it was early for the pinky sky
+==00:33 27/12/2024==
+
+31 of Dec✨.
+==10:09 31/12/2024==
+
+Wed, 1 Jun. And I wish if I could wish a Happy new year to her (bubblegum).
+==3:23 1/1/2025==
+==Russia==
+
+"A true selfless act always sparks another"
+"ما جزاء الإحسان إلّا الإحسان"
+
+
+Moon and I met for the first time today.
+Today was my first day at work and I realized deeply that Russian companies are bad and they never cares about their employees our their rights.
+==17:30 5/01/2025==
+==at park==
+
+I was watching a movie called "It's a wonderful life". It is talking about a very very good man called Gourg who helps every body in town and in a someday he has got corrupted and decided to finish his life because he will go to jail and he doesn't have money to covery his family. At the end of the film an angle falls from the sky to help Gourge by showing him the town and its people life if he has never been bornt. He start meeting everybody but no one knows him. So, hestarted to get crazy and lonely .At the end he realize " How a life can affect money other life's ". He also prayed to God to get him alive(to get everything as it was) when that happened He got ride off the idea of susiding. My argu is that he get ride off the suicide because he missed everybody he knows , but what if he just died so he will never feel the loneliness and everything will just be ended. So what made him not died is the examining of loneliness and living a life where nobody knows him.
+==23:03 5/01/2025==
+
+This is the first time i will mention my mother, i used mentioning my parents in a bad way, cursing them , etc. But after i travelled she has been texting and asking me how i am doing every day. She currently the most person interested about me but, i still can't accepting her. That is causing a mixed feelings for me, i still hate my parents and i can't forgive them for what they did. I stucked between accepting her or hating her.
+==23:20 6/01/2025==
+
+The mixed blue sky with the sunshine is a therapy.
+==12:14 7/01/2025==
+
+آهٌ ، لو تكلمني.
+==2:36 9/01/2025==
+
+و بعض النقصِ بمنظورِ الغيرِ لجمالٌ أشبه بالكمال.
+==15:30 10/01/2025==
+
+Solid and Alpine are a very good and useful JS libraries for the web.
+Solid : simplier and a lot faster than React.js 
+Alpine : is very useful to add js functionality to HTML with a very simplified way, but not for a big and complex  projects.
+==11:26 11/01/2025==
+
+اصبحت أؤمن بساعات النحس.
+==01:01 11/01/2025==
+
+I just noticed for the fourth time maybe that i came here only when i am sad, emotional, or super happy. In casual days , routins or stabel situations i never come to here.
+Today my British friend Conner shocked me that he had broken up with his girlfriend. They were very happy with each other but he discovered that she still has feeling to her previous boyfriend. That was shocking for me, and caused again an unsafty and fearing issue from relationships.
+==00:15 20/01/2025==
+
+أشتاقُ لها و تخاطرُ بالي ، و يا ويلا فؤادي.
+==02:03 24/01/2025==
+
+Fuck, I am tired from the big problems here. I came here building everything on my education and about how much i can get paid to live at least but suddenly I am facing problems in them. I am getting paid very low, I barely can survive with that salary. Also my major was the wronge major. Everything is falling.
+==10:56 /04/01/2025==
+
+Strange it is after midnight but the sky is very black !.
+==1:27 06/01/2025==
+
+I still return to our chat, I still remembering her every couple of hours, I still checking her profile's photo, I still wondering if she is ok, I still into her, into everything about her.
+==1:36 10/01/2025==
+
+No pink skies anymore and things getting wrong , i am running out of money , time and more importantly future.
+==1:53 12/02/2025==
+
+و اليوم تعرضت لأول فعلٍ عنصري في حياتي ، هنيئا لي.
+==11:00 02/03/2025==
+
+جرمانا اشتبكت و انتصرت ، و بيرقها في سمائها ، و كلمتها لمحبوبة الفكر و الفداء. رغم قلقي عليهما إلا إنهما الآن سالمتان. رغم الضيق عليهما إلا أنني سعيدٌ بإعادة التواصل معهما.
+==22:39 02/03/2024==
+
+"Fail often but remember to fail forward"
+   -fireship on YouTube
+==9:43 05/03/2025==
+
+
+
+<h2 align="center">Spring and Fogs</h2>
+<center style="font-family: cursive;">
+    (Chapter three)
+</center>
+---
+
+I started to have doubts about her, where is her father? Is she living with her family? If yes how she accepted the help that we sent , is that because  her mother is understanding person or what ? If her father alive or not divorced why always i feel like she is alone and nobody helping her ?
+I don't know, things going complex now.
+New info: her mother is Julian Frehat, my 9th grade English teacher and that is dangerous actually. Is bubblegum stable ? is she looks like her mother or not ?
+==22:07 06/03/0/2025==
+
+I want to talk about what happened with one of my friend, Conner. He fall in love with a Russian girl called Anna. She looked very perfect, very smart , very independent and responsible and very loyal to him. But in one day he discovered that she is betraying him with other 2 men. On of them has a daughter just younger than her by a few years. It's look like that she is abssest about getting attention. What i want to say that such a very very smart girl turned on that she is very bad one from inside , and very dangerous. After i heared about what happened with him i lost trust again with all the girls. You can't trust. And you can't imaging how it is hard and deep do be hureted from a smart one that you gave her trust. I am afraid to fall in such a situation. Because i saw my self in him. Very pure heart and loyal one.
+==00:20 07/03/2025==
+
+قلبي سينفجر عليها و من وطني و وضعي. انتفخ الصدر ولا متسع لآلامهم و همومهم كلهم.
+==13:13 07/03/2025==
+
+
+I official lost my bubblegum. I Officially lost her , but i don't know how.
+==18:49 07/03/2025==
+
+.... No words. I can't stop thinking why she ghosted me. Can't stop Thinking about Syria. Can't stope bing panic about my financial situation.
+
+"You make me an enemy. So you can hate me. Because once you start heating you can stop thinking" 
+ \- Secret Level S1E14
+==23:00 09/03/2025==
+
+Bubblegum answered.
+==8:01 09/03/2025==
+
+
+I am running off of money, beside a lot of other problems that needs moeny to be solved. It is fucking stressful to be pure.
+*Oh yes and Bubblegum hasn't responded yet to my new messages.*
+==19:24 13/03/2025==
+
+I received my mark in an exam, it was 54. In Russian rating system from 0-55 in bad and not satisfied. I am not studying and I don't know why , I am always distracted. I have now money , no job, my studying is crumbling, my life is completely bad now. Very bad.
+==23:43 13/03/2025==
+
+To be awake for long hours and late maté are enough to disconnect your mind. So, *long* hours awake and
+*late* maté
+Are enough to relaize that
+*Alcohol* and *Lgoic* have a connection. It's letter *L* :)
+Kidding it is me. I connect both of them, because they meet in me.
+==02:04 15/03/2025==
+
+Today I had been bombed up with Russian beauty, special in bus.
+Actually my values going down. When i arrived here i couldn't be able to like any of them. But today's girls were really pretty.
+==22:38 18/03/2025==
+
+"Doing all the right things guarantees absolute nothing."
+==15:33 02/04/2025==
+
+We are like machines, under the rule of the logic square  in-[ ]-out .
+What get in effect our output and food is one of the main inputs, coffee alcohol and different types of food leave a big impact even on our **mood**.
+==12:29 08/04/2025==
+
+That little stupid , made me cry 
+![[IMG-20250409-WA0001.jpg]]
+==00:23 09/04/2025==
+
+We live our lives hating and fearing every feeling of lostness we have ever felt, yet there is one lost we may accept  - a mercy, **to be received**. When this immense, boundless, terrifying, and wondrous entities dies - the minds.
+==3:51 13/04/2025==
+
+Life plays in patterns , they are detectable , predictable, but not controllable.
+==??:?? 14/04/2025==
+
+The most things we hate are the most things forming our cores. I quickly realized how much i hate this country and its people, and i realize how much i will grow here on (the level of wisdom and not anything else). But i am pretty sure that in 2026 i will not be in Russia and mostly i will be in Syria for an unknown reason yet. So, how I can tell ? It's easy, this life plays the same traditional , predictable repeatedly patterns, but not controllable.
+==3:04 14/04/2025==
+
+Why the things that help people to leave this life is very hard to be obtained. I understand that they can be used to commite crims. But the governments should provide the right of leaving this life in a form of procedures in hospitals or some centers
+==15:36 14/04/2025==
+
+المجهول صعب، غابة و طُرق  و الطريق مو واضح. وحش الضياع بين أغصان أشجارو و موسيقا اليأس بتعذف بصدى أروقتو ، من وجدوا الطريق نفدوا و من لم يجدوه زادو الشجرَ في الغابةِ شجر.
+==7:51 15/04/2025==
+
+
+I think today is special to be remembered. We , my friends and I went to work. Our our lasts for 12 hours. But we enjoyed the road a lot because of our company. The weather today is incredibal. At morning it was very aunni after a rainy night. Then it goes clusdy at evening with some soft and beautiful rain drops. Now it is Snowing unless that we are in the middle of the spring .
+==23:06 26/04/2025==
+
+
+I just was talking with her. And as usual Jaramana was engaged. How black comedy it is, our sweet texting mixed with anxiety and tension. How my chance to hear from her related to a chance of war in my beloved town.
+==00:55 30/04/2025==
+
+مُنتَفِخٌ هو قلبي.
+==00:07 02/05/2025==
+
+The sun is rising now in Russia. Rising very fast.
+==03:32 02/05/2025==
+
+I can't deny how much the nuture here is beautiful.
+==27 min before the sunrise at 3:55==
+==04/05/2025==
+==Russia==
+
+ماذا لو تزوجت قبل ان تكون جاهزا لذلك ؟ ستكون سبب معاناة شريكتك بدلا من ان تكون سببَ أمانها ، ستكون قد جنيتَ على من تحب إشباعا لما تُحب.
+==00:24 12/05/2025==
+
+
+I west all my evening and night on short videos on YouTube , as a result my mind disconnected himself again with a Darb song about a pigeon. I can't deny how much i love it when he do it. Now sun has been already rised.
+==3:34 13/05/2025==
+
+Today one of my roommates -Yusuf- travelled back to his country. He was a very good friend and very generous, I hope to see him again ethir in Moscow or Syria.
+==23:24 28/05/2025== 
+
+"Nobody exist on porpus nobody belongs anywhere , everybody is gonna"
+ \- Morty, from Rick and Morty
+==23:25 01/06/2025== 
+
+
+For the first time here feels like I am in a good foreign country , or to be more specific I wanted to have the feeling that we were tested in movies about the joy in the youth period, there is a very lightly soft refreshing winds entering my window while I am sleeping on my bed listening to a not loud music comes from my Latinian friends’ room with a little unclear chitchat, and all that happens in the university dormitory (Деревне универсиады).
+Now I felt a little bit like I am in a thing I wanted to be in once.
+==1:59 01/06/2025== 
+==Russia==
+
+I just have seen a girl. She was standing with a boy who is mostly her boyfriend. She started crying, then crying more hardly before she sat on the ground and hugs his leg. That was heartbreaking to be seen. I have forgot that we as two genders shares the same emotions and minds. So, we may show the same behaviors, Seeing her holding him and crying like that was very harsh.
+==11:65 04/06/2025==
+
+I came to here to find my future , but I lost it just here.
+==00:50 04/06/2025==
+
+After the violence directed at minorities in Syria, it became clear that the new government is no better than its predecessor. It has committed everything it said the previous regime did: murder, mass massacres, media blackout, and sectarianism. The biggest problem is that the people are the biggest accomplices in all these crimes, due to their extreme stupidity and under the pretext of religion and pleasing God.
+==2:13 04/06/2025==
+
+Just a few minutes ago I walked out from my last Russian language class. This year I didn't study hard as I did in my highschool but I wish to succeed in my exam unlike what I did in my highschool exams.
+==13:35 05/06/2025==
+
+I just realized that I forgot to mention that Bubblegum have a boyfriend. I discovered that in the last time I texted her when as usual my town was in war. I knew that from her Telegram photo.
+==15:24 07/06/2025==
+
+Why the suicidal methods and material are not available to public ? Of course because they can be used to commit crimes , but at least governments should provide a centers that help people to pass away from this life , that is a simple right to any human being. To stop suffer.
+==15:27 07/06/2025==
+
+In Rick and Morty series Unity wrote a very beautiful and deep goodbye letter to Rick. It was really captivating.
+==17:03 08/06/2025==
+
+I just got out of my Russian language exam, it wasn't bad 
+==15:32 09/06/2025==
+
+How dangerous it is, to take a shower when you are tired with a powerful mind. It will map ,re-calculate and re-lecoate everything. It will show you where really you are on the map of reality. It will doubt and re-discus your beliefs. It will reveals the truth and re-shape your life.
+==01:33 17/06/2025==
+
+The anger inside me is hug. I can't control it. Can't shut it down. A trouble will happened because someone stupid and corrupted to release my anger and end everything. But the everything now is actually nothing. Just have a problems.
+==08:56 17/06/2025==
+
+Today I have been waking up for 23 hours and worked for 14 in them.
+==04:42 22/06/2025==
+
+405 - my old room. There I met 2 Chinese, the first was my favorite who I beated him up later , the second was normal but annoying and not clean as any Chinese. The third was Turkish. I hated him at the beginning he was so annoying then he became my best one. We are close friends now sharing the same hateness about Tattars and stupid people. Today is the last day I see him because he is traveling to Turky and will return to Saint Petersburg not to Kazan :'( . Also "Кимия" was her name , my Iranian neighbor. Until today I mustered my courage to ask her friend about her, but she was already left. She will continue her education in a different city too, and she didn't have a boyfriend as I expected.
+==00:33 27/06/2025==
+
+Sun is rising up here.
+==02:02 02/07/2025==
+
+The fucking unstable life of dormitory. Omar is living and a new Iranian smelly guy is coming.
+==18:34 04/07/2025==
+
+"Never try never fail"
+ \- A Robot
+==00:40 05/07/2025==
+
+"A dram you don't fight for can hunt you to the rest of your life "
+ \- From Robots movie 
+ ==01:11 05/07/2025==
+
+صلي صديقي صلي ، إن كسر خط المعتقد في أدمغتنا لصعبٌ ، صعبٌ جدا. تحتاج لان تكون ذكيا ، قويا ، تحتاج لان تملك شجاعةً لتقول لنفسك الحقيقة ، شجاعةٌ بشدَّةِ قتال السيفِ لأجل حقيقةٍ ستسلبكَ الأمان. 
+==20:13 08/07/2025==
+
+My heart is heavy , I feel like it has been swollen today because of the number of pretty Russian girls. Also how they dress. I don't know how long I will stand this. 
+==01:52 09/07/2025==
+
+The metro experience at evning is good , you see a lot of different moods and styles here. On the opposite of the morning , everyone is frowning.
+==22:29 11/07/2025==
+
+Sawayida today has fallen down.
+==14:16 15/07/2025== 
+
+Everything I predict happens at the end. My mind has now a high ability to recognize the life's patterns. The current regime will fall within a decade, after 5 years on Russia I will got no result and I will feel as I did nothing or I am just like everyone else , 
+==10:36 16/07/2025==
+
+Sweida still under siege after a 48 hours of it. No water no electricity no medical support and children are dying. 
+==12:39 16/07/2025== 
+
+The funny thing that the people who were subjected to all these crimes they are now doing it , but not to the people who did it to them , but to others who are innocent. This makes you realize that they deserved what happened to them. 
+==12:42 16/07/2025==
+
+Yesterday after midnight, Sweida was victorious, the army and police forces withdrew. This mountain and its sect are teeming with men and people of truth, men who are not hypocrites like other religions, but people who are free of hypocrisy. O mountain, no wind can shake you.
+==11:17 17/07/2025==
+
+The government broke the agreement in Sweida and integrated its forces among Bedouin tribes to carry out acts of murder and destruction. Much information has been leaked that they received instructions from Damascus to burn and kill everyone in the areas under their control before withdrawing.
+==12:50 21/07/2025==
+
+I like the white soft rainy days here.
+==14:11 24/07/2025==
+==Russia==
+
+The biggest problems of he humanity that they are humans.
+==21:25 30/07/2025==
+
+Dear Bubblegum, sweetheart, you are not anti-social as you wrote on your social media profile. You are selectively social. You value depth over meaningless frequency. You prefer conversations that set your mind on fire, not the ones that waste your energy on trends, gossip, and other people's silliness.
+==00:15 01/08/2025==
+
+Have you ever felt more alone in a crowded room than in the comfort of your own thoughts and loneliness ? That because the true loneliness is not in absent of the people , but it's the presence of people who make you feel unseen.
+==00:20 01/08/2025==
+
+Solitude is not an escape of life it's a deeper way of living it.
+==00:24 01/08/2025==
+
+I just had an idea , how for the robots which works only on solar panels to work at night ? They must learn how to make a contained fire, isn't that right ?
+==02:51 02/08/2025==
+
+Today I watched The Wild Robot movie, I was starving for such an old Dream Works' movie style. I was waiting for them to produce such an art as they used to do in their old days.
+==04:06 02/08/2025==
+
+Should I like my life here ? Should I "Live it" ?! But how with all these difficulties, specially the financial ones ? I just watched My Oxford Year movie it made me sad , I am in grave now. I feel that I need to cry but can't understand why ? Is it a lake of emotions ? A lake of money and job ? A Lake of time or A lake of **certanity** ?
+How could I **live** my life if have to work 12 hour a day to stay alive ?
+==02:09 04/08/2025==
+==Russia, Kazan==
+
+Silence, Rain, Maté & Programming. All what you need to the flow & relaxing mindset.
+==15:22 06/08/2025==
+
+“knowledge is a paradox. The more one understands , the more one realizes the vastness of his ignorance.”
+==???==
+
+I am going to watch the last two episodes fro. arcane season 2, but I don't want to finish it :(
+It's a state-of-art piece.
+==00:10 14/08/2025==
+
+Programming & coding, they are like a therapist for me. Like a medicine.
+==17:13 15/08/2025==
+
+The weather today is so similar to Syria, gray sky , winds and the temperature, everything looks gray actually specially with the comy blocks , like Syria.
+==14:13 19/08/2025==
+
+
+
+<h2 align="center">Autumn</h2>
+<center style="font-family: cursive;">
+    (Chapter four)
+</center>
+
+
+
+مذهل كيف تستطيع نفس الاجواء توليد نفس المشاعر ، انه الخريف مجددا 
+==09:35 22/08/2025==
+
+emotional dryness, internally prepping , lost , no lang no plan , no **certainty**.
+==00:55 25/08/2025==
+
+Today I released my blog , The Blob Blog with rainy weather and silent night :)
+==22:44 25/08/2025==
+
+Today my roommate Omar had left to his new dormitory, so it will be so rare to see him again , it was such a pleasure to live with him. He is a real good man :(
+==09:43 25/08/2025==
+
+I just sewed my first button :}
+==12:59 26/08/2025==
+
+This country is stupid , all its people are stupid, its scientists are stupid. It is full corrupted. I want to born all of them up. My mind returning to its previous state when I was getting angry alot. And how can't it be. With me realizing that I will study under a very stupid and racist professors here too.
+Next to the bad people in work that I want to beat them up and the living issues.
+==00:15 30/08/2025==
+
+Today was my first day in the first year in university. Couldn't understand anything. Shy from talking to others because of my weak language and my mind printed this statement on its CLI :
+> Keep pushing mod has been activated.
+
+==23:15 01/09/2025==
+
+Fucking Allah is messing with me
+==12:42 03/09/2025==
+
+The journey had to have the title Kinight in Kazan. No it is "A Big Noisy Stupidity Everywhere in a Journey"
+==15:41 09/09/2025==
+
+Never wake up at morning to study , bad Internet, will be sleepy and your body will fuck you with its needs. 
+==07:50 10/09/2025==
+
+Why are we trying to make another stupid bings like us , why are we copying our stupidity, fawls , 
+
+21:48 12/09/2025
+
+Lost Agian. As I remember this is not the first or even the fourth time I write this.
+==19:28 14/09/2025==
+
+I realise that I am on the wrong path , and as always , I am who was right about this from the beginning. But my problem now is that I don't know is where to go ? Which path to take ? And how ?
+==09:04 15/09/2025==
+
+إضاعة الهدف يعني إضاعة الحياة
+اي أنّي اقف على الحافة
+على بُعدِ ضغطةً من إنهاء اللعبة.
+لكنَّ المسكلة تكمن بأن ذاك الذر ما زال دون دالة للتنفيذ.  
+==14:07 15/09/2025==
+
+"الشعوبُ على دين ملوكَها ، و الدرب الاعوج من الثور الكبير"
+==13:34 16/09/2025==
+
+Lera and Arina, two young girls that I met after the university started. They are very nice, respectful and have cheerful and interesting characters. They are in my group in uni. We are friends now and I am glad to know such a nice friends here in Russia. They are my first Russian friends.
+Arina very cheerful girl and a positive energy bomb.
+Lera , very responsible and knows how to take care of everything. She holds responsibilities bigger than her age. Very perfect and humble girl.
+==06:09 20/09/2025==
+
+I feel like I am saying goodbye to this country. Meditate its road , its beautiful girls before my final destination to the hell that I born in.
+==22:38 21/09/2025==
+
+I can't understand first this about giving the universities' professors the full authority as they are gods to dismiss and end a student educational career. But now I understand. They wanted to encourage people to go deeper in since without paying more money. Because that will keep knowledge and scintest under control and will return benefits on the country or the university itself. So, they used the most dirty thing , they targets the primial desires of people. Thy gave them the power and authority so they can feel like gods and do whatever they want to the people below them( the students ) , and that was very tempting. For that you see the psychos and the losers who couldn't land a job are only ones that become professors.
+==00:52 23/09/2025==
+
+"You deal with it you it's gonna deal with you"
+==11:12 23/09/2025==
+
+“The beginning of love is the will to let those we love be perfectly themselves, the resolution not to twist them to fit our own image. If in loving them we do not love what they are, but only their potential likeness to ourselves, then we do not love them: we only love the reflection of ourselves we find in them.”
+\- Unknown 
+==11:54 29/09/2025==
+
+I screwed my life about year ago. But I just realized that.
+==12:14 02/10/2025==
+
+Every morning when I am in the university, I fell desperate. I remember how much I am trapped, how I lost my life and wasted it.
+==09:37 03/10/2025==
+
+العنصرية شي مهم لإقصاء العناصر الغير مرغوبة و التخلص منها او عزلها بطريقة إنسانية. لولا العنصرية لكنا شفنا كتير عناصر بشرية مقرفة، و تخلو من الادب و الاعراف
+==21:47 03/10/2025==
+
+I'm missing my Nigerian friend Umar. Missing talking to him at the end of the day
+==23:52 04/10/2025==
+
+عندما تضغطُ الحياة تبدأُ أحلامك بالتقلص ، ثُمَّ لا تبقى الاحلامُ أحلاماً ، بل تُكسَرُ لمطالب ، ثم إلى مطالبٍ أبسط ثمّ أبسط ، حتى تُصبِحَ نهايةً حاجات. و نتحول من الحُلمِ للأملِ ثم التَّمني و نَنْتهي بالرجاء. كما نَتخلى عن الأحلام بسبب المطالب ثم المطالب بسبب أولاها ثم عن أولاها لأجلِ حاجاتٍ تُبقينا. و بعضنا عن البقاء حتى يتخلى.
+==22:35 05/10/2025==
+
+"إنَّ وجود التفائل و الأمل لان لا نتدمر نفسيا"
+-روان
+==22:24 06/10/2025==
+
+
+Most people think that Art and Logic are two separated entities. But the truth that they are one. It's our vision which is narrow, we just need to adjust it to see the whole picture, to see how they both deeply the same entity.
+==17:33 07/10/2025==
+
+It was a quiet autumn day today.
+==01:42 13/10/2025==
+
+I have a strong felling that i will not live to have kids. or i will never have. I don't know why? (maybe because deeply inside i don't want, but that does not change the reality of feeling of death before this children)
+==11:22 17/10/2025==
+
+في حالة العلاج بالصدمة ، إن لم ينجح العلاج فستبقى الصدمة فقط :)
+==21:38 24/10/2025==
+
+In the last three years the software field has been developed too much. I'm not just talking about AI and how it made the learning process a lot lot easier, but also about the new apps that came to pc. We have a wave of new browsers for the first time. They are trying to re-invent the experience, some of them re-invited the design like Arc & Zen, some of them embedded AI like Comet  , Duna and Fellou, some of them re-invented the experience like Kosmik, some of them even rebilled against chromium and start making browser from scratch like the LadyBrid browser.  Also what is known now as the Knowledge base apps which they are an advanced Note tacking apps like Obsidian , SiYuan and my favorite one AnyType. There are also an online version from those apps like Notion and Google Notebook LM. so just three years ago the  software experience was very different from now. and what actuallychange in the field was nothing regardless AI. They are just a new ideas to solve problems.
+==17:08 26/10/2025== 
+
+I lost my university journey, I will never complete it or go to any university. It is done. I didn't expected to lost this important thing. A thing had to be milestone in my journey. But it was a break point.
+==09:59 07/11/2025==
+
+Yesterday I will have completed a year here.
+==14:36 07/11/2025==
+
+Shit , everything is a fucking shit.
+==07:00 11/11/2025==
+==Russia==
+
+"أجمل ما فيك هو معاناتك 🖤"
+==11:49 11/11/2025==
+
+"عَلمتُ ما في المصيرِ ، سيرَ القَدرْ."
+==06:18 16/11/2025==
+
+و كأنَّ الاستقرار متآمرٌ علي.
+==13:16 19/11/2025==
+
+You need to change, adopt then reform.
+==11:34 24/11/2025==
+
+I don't know why I am not coming here anymore ?! Although of the anger fits that I have been getting recently. I think depression and sadness what make me visit my diary, and recently my mind turning those to anger , as a way of self-preservation. lately, it also entered a state of apathy.
+==01:38 28/11/2025==
+
+
+استغرب احيانا كيف أنني في عمرٍ ما بين العشرين و واحده استوعبت كيف يعملُ هذا النظام، حتى قبل ان يدركه الكثيرون من ذو الذين قبلي. نظامنا الاجتماعي، البرية البديلة التي صنعناها. كان ذاك الإدراك قوة ، و لكن لم يكن كاملا ، ما اوقع بي. لكن لا بأس ، انا الآن استوعبُ الامرَ على مستواً أعلى ، و إن كان الثمن أغلى ، لعله في النهاية و قبل نهايتي قد أُقَدِّمُ ما يجعلُ خروجي من هنا مُرضياً ، و مرضياً لي وحدي.
+==12:28 01/12/2025== 
+
+I am dying slowly, my clock is ticking.
+==15:09 02/12/2025==
+
+It is snowing softly  🌨️ outside, and inside 💠
+==02:00 03/12/2025==
+
+خرجتُ من بلادي طالباً، بانياً مستقبلي. فآلى الوضع بي ، ما بين متشردٍ عبدٍ او مرتزقةٍ او منتَحِرٍ. و بئسَ المصير.
+==02:21 03/12/2025==
+
+
+*High on Life* is my first new generation and big game I have tried ever. I should mention that I didn’t even played GTA V which released in 2013.
+==15:25 06/12/2025==
+
+The weather has a very great effect on our mintal state.
+==09:48 08/12/2025==
+
+Lost in Translation
+==09:24 09/12/2025==
+
+I’m tired from seeing stupid people in charge for my own life.
+==23:19 11/12/2025==
+
+About how we think and communicate: 
+“*We might speak the same language, but might be, we are not using the same operating system*”
+==01:51 16/12/2025==
+
+My mind started making mistakes , mistakes in a very obvious and simple matters , in silly logical things like timing & counting. I though It has been doing that because of the stress , now I’m handling the stress , actually I have become a careless person. But despite that it still doing those mistakes and I can't understand why!
+==10:34 19/12/2025==
+
+
+When the point of realization came to me, holding within it the idea of the wronge choice , the wronge way that I’m currently in, it puted my mind in the point of the middle. It decided to stop, refusing to push further in a way that is just a waste of time, but also has no way to go back. There, in the point of middle, I realized how a very very small choice , a decision , a wrong info, a moment of Time or even a trust in a person that you thought they are qualified or look like you , can so much , and only so much destroy you, to f\*\*\* off your entire life, transforming yourself from an ambitious person, usually the smartest one in the room , a one that ahead of his generation to a **Nothing**, to the most backward one, the very last one, very last , that you can't even exiSt.
+Now, the point of the middle is temporary, for existence it is not valid, and to keep exist I need to push in the overwhelming impossible road in front if me that I will never catch, and by that I will never catch the existence itslef. 
+A temporary it is - my existence.
+Sincerely,
+*Somar* 
+==04:49 23/12/2025==
+
+Ok, this is the first time that I will mention the modern AI models in a good way. Actually it is only Gemini, the Google’s AI. It helped me today , no but it saved me in a very important think, or actually two. It helped me to solve algebra test very smoothly as it was knowing what I want, and it helped me to pick up a gift to my friend Arina because it was here birthday at 24th(yes I was one day late). So yes, I am grateful to it. It is different from the other stupid models out there, I give exception t Claude Ops because I haven't tried it yet.
+==02:55 26/12/2025== 
+
+“With that all too human tendency to project onto the unknown our innermost fears”
+   \- Unknown
+==00:30 28/12/2025==
+
+The 31st of December, and everything still shitty, no but worth. 
+It is worth than the last year. Anyway, I official made my mind to not continue studding in this shitty university (Kazan Federal University). So, until the end of the year I might be kicked back to Syria which a thing I don’t want at all, because simply I don’t want to return to that psychological prison that I was in - the house that I was born in.
+What are my plans? There aren’t any :( .  I can’t say happy new year here because I pretty sure it will not be at all. So, see you later within it. hopefully not broken. bye bye.
+==19:05 31/12/2025==
+
+“Someday I wanted to change the world, then the world changed me”
+  \- Unknown
+  ==23:02 31/12/2025==
+
+And ha we are in the first moment in the illusion of time.
+==00:00 01/01/2026==
+
+Object SDN has arrived to Germany, now I am happy for her. She said that she arrived there about 15 days ago. I wish to her to have a gentle and not harsh journey there. And for now, until we meet object SDN, until we meet or maybe not.
+==00:50 08/01/2026==
+
+Chase everything you want, because you never know when your world could get turned upside down.
+==09:10 12/01/2026==
+
+“The idea of you to my mind, 
+	is computationally expensive”
+  \- I
+==17:44 12/01/2026==
+
+رأيتها ، اعتقدُ أنني رأيتها ، من بين الضباب الكثيف قد لاحت. لا يصعب تفريقُها - إحدا راياتِ الموت. 
+==22:38 13/01/2026==
+
+Hi again my thoughts page, while ago my brain activated the Keep Pushing Mod to keep us alive. unfortunately or maybe not, it stopped it completely. actually I who ordered that, thanks to a video , a very important video I watched on Youtube talking about the long stress periods and how they affect out brains in a very bad way. So, after seeing this symptoms on my, and after I understanded them, I decided to take care of my brain. The most precious thing I have (my identity). Anyway that decision came after a bad symptoms like a very very bad and corrupted short memory. Where I am going to , or even  where I was. Thus, when I watched the video I asked my self why I am doing that? for what? Actually I was doing it to keep my self away from Syria as long as possible. But I knew that I will never stay here , and It is impossible to make it. Because simply my mind will refuse it again and again as it always did. It will refuse to be the stupid, to follow the idiots and fools that thing they have a PhD. But they only have a shitty sudo science, not a real knowledge and contained in a psychopath.
+==11:17 04/02/2026==
+
+Shit, I downloaded Maya, and I made my first cube in that 3D space. I don’t know where that is going to :)
+==14:32 06/02/2026==
+
+
+Redeeming Love film has shattered me apart from inside , it left me suffering , the story hurts, hurts the hearts and soul. I didn’t even want to complete watching it.
+==00:56 09/02/2026==
+
+Four movies really affected me deeply,
+Interstellar blew up my mind and left me thinking for a 30min after it, regardless the loop and time that i spend later to under stand what it opened my eyes on.
+Little Women made my cry from the core of my heart.
+Fifty Shade of Grey let me feel disgusted to the level that I couldn’t complete it.
+Finally, Redeeming Love, let me suffer from inside, I felt so much pain.
+==01:16 09/02/2026==
+
+one of the most important films is Redeeming Love, it discussed a lot of points in a very smooth way. The most important one is the one about the girls that works in brothels, and what made them do that, Why them can’t escape it, how they inherited it!, it opens the eyes on how much we should respect them and know how much they are being used and trapped between their enslavers and the society, between two fires that want to consume all of them down to ash.   We need to ask how they ended up here, and we need to give a lot of love to break the lock that they sailed on their heart and past, because they will resist telling, not because they ashamed but because they used to hide their  pains. 
+==01:23 09/02/2026==
+
+الملل كحبل المشنقَةِ خانق ، خانقٌ جدا ، لدرجة انه يدفعك لأذيتك نفسك للتخلص منه.
+مفهومنا عن الملل خاطئ ، نشعر بالملل ليس لانه ليس هناك شيءٌ لنفعله ، بل لان كل ما حولنا لنفعله سيعود بلا شيء، اي لا معنى من فعل الامور التي نستطيع فعلها حاليا ، اي ان فعلها عبثي لا معنى له ، و عندما تَجلِبُ دماغك و تجبره أن يعود مرة تلو الاخرة لذلك الشيء الذي فعله عبثي و لا جدوى منه فسيدرك دماغك عاجلا او آجلا ان حياتك بأسرها عبثية ولا جدوى لوجودك فيها.
+فعندما يدركُ عبثية وجودك فيكون قد خطا في عتبة الاكتئاب. و إن كان مزودا بالجرأة و فلسفات الوجود ، فما بينه و بين العدم أو الاه -تبعا لفلسفة وجودك- إلا خطوات.
+==03:12 09/02/2026==
+
+سمعت كثيرا عن رحلة البحث عن الذات ، ولكنها لم تعنيني قط، ليس لأني لا مبالي بل لأني عرفتُ الطريقَ مبكراً، عرفت من أريد أن أكون و كيف أحصل الإجابات عن الأسئلة الوجودية الثلاث، ولكن للأسف اليوم أجدُ تلك النفسُ ضالةً الطريق لا في مكانها ، لا حيثُ تنتمي.
+==03:12 09/02/2026==
+
+
+The question I had — and that anyone with normal intelligence would have — is : why learning when system only rewards “passing” ?  Because of that you will find idiots and lazy people “succeeding” in schools and universities, which means in reality “passing”. They want you to “pass”, not to “learn” ; to “memorize”, not to “criticize” ; to be “idiots”, not to be “humans". 
+Youtube , Tiktok and other platforms aren’t the core problem, the problem is what drives people there - The boredom. And it doesn’t come from having nothing to do, but from not finding meaning in what we do
+==21:04 14/02/2026==
+
+In the ethics on Machines : “The machines should empower us, not overpower”. 
+==22:41 14/02/2026==
+
+'“Faith is just a mdeicen for desperate desperate souls”
+==19:25 19/02/2026==
+
+“Nowhere is safe now, You can’t run from the world, you can’t hide from it. But you can find power and purpose. A chance to survive the horror.”
+ \- The Witcher
+==20:09 19/02/2026==
+
+“Enjoy your last walk across the meadow and through the mist. Be not afraid of her, for she is your friend.”
+\-The Witcher 
+==19:42 23/02/2026== 
+
+“Two things are infinite, the universe and human stupidity. And I am not sure about the universe”
+ \- Einstein 
+==23:50 12/03/2026==
+
+Ok hi, ha we are again. A lot of things happening now and I don’t know why I am not writing about them. For today, my friends Arena, Lera, Zarina and Igor did a surprise for me. They brought a gift from a Turkish store and we sate together about 2 hours. we talked , drank tea and coffee, also Igor tried Mate. it was sweet and pleasant sitting. I am happy to have them, but also I know that I don’t have them for a long time and because of that I am sad. I am moving out of the dormitory within a few days, I’m quitting the university. I don’t really know where that will ends, I really don’t know if I am living the life that it should be. I sipped a little from the class of normal life and happiness . how to live like a normal youth, a normal university life, to have love, friends, actions, winnings and losses, but it was so little. And I didn‘t sip from all of that. I observed the majority of it and sipped the little. Fuck you life. Fuck you god. Fuck for every entity and thing has to do with all that, even that I am convinced that this is just absurdity and no one behind anything. I doubt my life now, the life I lived and the one that I am living. And about the one that I will live, I am almost sure that it will not be existed in the first place.
+==23:40 17/03/2026==
+
+
+Yesterday I left ДУ (the university dorms) and moved to an apartment with other 3 guys. The house is big, and I have my own room now, it is cold a little bit although we are in March. I don’t have job to supply my living or the rent. and I only have money to pay for the 4th month, and to supply my food until its 2ed week only. So yah, I am fucked up. The plan B which is going to army might not succeed because I’ll apply to be a refugee here in Russia so they will take me papers for 3 months till they finish studying my profile.
+==17:12 22/03/2026==
+
+“The universe is a cruel, uncaring void. The key to be happy isn’t searching for meaning. It’s to just keep yourself busy with unimportant nonsense, an eventually….…………….
+you will be dead.”
+ \- Bojack Horseman 
+==15:53 02/04/2026==
+
+Two things leading to death, to run out of the new life’s currency , which is money. The second is the lost of meaning of existence for a rational human object.
+And I ran out of both of them. but i miss the tool to commit the crime……the salvation.
+==04:11 20/04/2026== 
+
+
+ I have only 17,967 Rubles in my bank account, jobless after the tons of interviews , hours and a lot of money that i waste on transportation just to be told that i am rejected(or more accurately because of the careless nature of Russians about other’s life and because they are idiots too). My room rent is 17,000 and then i have to pay for the water which will cost 900 and then for the internet which will cost 820. So i still need about 800 rubles to close my expenses for the next month. Luckily, or maybe not, I have some food what will make me survive a few days. but then, i don’t know, I wish if I can suicide in an easy way, but even this in out of my hands, I may need to drink some cleaning materials or jump from a high building(but that is hard in Russia because of the doors’ locks in every building and my building is not high enough). So, yes, I don’t even have , money to pay for the bus. I don’t want to go back to Syria, and my parents in a very hard financial situation, they just lost 300$ because god is an asshole as always , and they need to pay another 300$, and my cuisine wedding was yesterday so of course they gave a lot of money too. So, I can’t ask them for money. I don’t know what gonna happened in the next few days. I am so sad that the 12 years of my life in school that i spent preparing my self to success and push hard in my 20s have been lost for nothing, just because God is an asshole. bye bye world. bye bye
+ Note: I left some of my legacy on my technical blog, i hope it will help someone someday.
+ [The Blog’s  link](https://somar-jaber.github.io/the-blob-blog/)
+ ==11:41 25/04/2026==
+
+  
+
+
+/ˈdī(ə)rē/ 

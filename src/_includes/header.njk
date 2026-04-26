@@ -3,7 +3,7 @@
     <a href="/" style="font-weight: normal;">home</a>
 </div>
 {% for tag in tags %}
-    <span class="hashtag">#{{ tag }}</span>
+    <a href="/collections/{{ tag }}/" class="hashtag">#{{ tag }}</a>
 {% endfor %}
 <br>
 <br>

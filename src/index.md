@@ -24,7 +24,10 @@ layout : "base-layout.njk"
 </style>
 
 # The Blob Blog
-*we love* <span class="hashtag">#ComputerScience</span> <span class="hashtag">#Offline</span> <span class="hashtag">#DigitalContent</span> <span class="hashtag">#Tech</span>
+*we love*   <a href="/collections/computerscience/" class="hashtag">#ComputerScience</a>
+            <a href="/collections/offline/" class="hashtag">#Offline</a>
+            <a href="/collections/digitalcontent/" class="hashtag">#DigitalContent</a>
+            <a href="/collections/tech/" class="hashtag">#Tech</a>
 
 <br>
 <br>
@@ -61,6 +64,8 @@ layout : "base-layout.njk"
 - [Bash the right way](https://www.youtube.com/watch?v=6eGq6nhKdCQ)
 - [Take High Resolution Screenshots](/pages/take-high-resolution-screenshots)
 - [Your Desktop showing nothing! (Black Screen)](/pages/your-desktop-showing-nothing-!)
+- [Windows Search Bat Not Working ?](/pages/windows-search-bar-not-working)
+- [Torrent Sites](/pages/torrent-sites)
 - [Kaomoji](/pages/kaomoji)
 - [Learn Hand Sewing](/pages/learn-hand-sewing)
 - [Kill all processes that come from a folder](/pages/kill-all-processes-that-come-from-a-folder)
@@ -70,6 +75,7 @@ layout : "base-layout.njk"
 - [My Writings](/pages/my-writings)
 - [Blogs We Like](/pages/blogs-we-like)
 - [Contact Us](/pages/contact-us)
+<!-- - [Untitled Life](/pages/untitled-life) -->
 <!-- - [TestPage](/pages/testPage) -->
 
 
