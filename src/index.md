@@ -52,6 +52,7 @@ layout : "base-layout.njk"
 - [What Does Blob Mean ?](/pages/blob)
 - [Transfer Your PC experience with those apps](/pages/transfer-your-pc-experience-with-those-apps)
 - [Highlight code in 11ty](/pages/11ty/highlight-code)
+- [Make static files accessible through URL in 11ty](/pages/11ty/make-static-files-accessible-through-url-in-11ty)
 - [Deep into the Context menu of directories (Windows)](/pages/deep-into-the-context-menu)
 - [Sync your devices for free with Syncthing (Syncing Obsidian included)](/pages/syncthing)
 - [How Writing a Compiler by the same language it compiles Possible ?](/pages/writing-a-complier-by-the-same-language-it-compiles)
@@ -65,7 +66,6 @@ layout : "base-layout.njk"
 - [Take High Resolution Screenshots](/pages/take-high-resolution-screenshots)
 - [Your Desktop showing nothing! (Black Screen)](/pages/your-desktop-showing-nothing-!)
 - [Windows Search Bat Not Working ?](/pages/windows-search-bar-not-working)
-- [Torrent Sites](/pages/torrent-sites)
 - [Kaomoji](/pages/kaomoji)
 - [Learn Hand Sewing](/pages/learn-hand-sewing)
 - [Kill all processes that come from a folder](/pages/kill-all-processes-that-come-from-a-folder)
@@ -75,6 +75,7 @@ layout : "base-layout.njk"
 - [My Writings](/pages/my-writings)
 - [Blogs We Like](/pages/blogs-we-like)
 - [Contact Us](/pages/contact-us)
+<!-- - [Torrent Sites](/pages/torrent-sites) -->
 <!-- - [Untitled Life](/pages/untitled-life) -->
 <!-- - [TestPage](/pages/testPage) -->
 

@@ -25,6 +25,7 @@ Most of the next software are free unless otherwise stated.
 - [Playnet](#playnet)
 - [Net Limiter](#net-limiter) (tool)
 - [keyboard lock](#keyboard-lock) (tool)
+- [Wispr Flow]
 
 <hr>
 
@@ -72,3 +73,10 @@ Very powerfule and user friendly app to strict and control network access for al
 If you study on your laptop and don't have a much space in your table so absolutly
 you want to lock you keyboard so you can put your notebook on it to write without
 worrying from doing something wrong with your PC.
+
+
+## **Wispr Flow**
+Voice-to-text AI agent, you can talk and it will handle the input in any app or input field 
+Very useful for journalists and for daily tasks. It has a ver generous free plane and very fast performance 
+and accuracy even for the hard languages like Arabic and Russian. It works online but it feels like it is working offline 
+because of its speed and low bandwidth.  

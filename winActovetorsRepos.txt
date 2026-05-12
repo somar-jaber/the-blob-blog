@@ -1,0 +1,35 @@
+
+=========================== Very weak ====================================
+This repo instructions :
+https://gist.github.com/aravindnc/170a569ac305912dd43252f64307902e
+
+Has been implemented in one single script which is in this repo:
+https://github.com/sunny-hossain/activating-all-versions-of-windows-Server-without-a-product-key_windows-8_windows-10_windows-11
+
+in the script there os a command that deletes the Product key (The activation key) So add to it a command that will remove the product key after 30 days, and it should be a scheduled task. 
+===========================================================================
+
+
+
+
+===========================To Run remote online batch script================
+```powershell
+powershell -command "(Invoke-WebRequest 'https://example.com/script.bat').Content | cmd"
+```
+
+```batch
+curl https://example.com/script.bat | cmd
+```
+
+Note: curl is only supported in Win10/11
+===========================================================================
+
+
+
+
+
+===========================   Try those solutions =====================================
+1- To wrap the batch code inside Powershell code and compile the power shell to PS2EXE format with protection
+2- Remote management tool ( WinRM (PowerShell Remoting) , SSH server, Anydesk/RDP , PsExec )
+3- Wrap the code into a C code and compile the C code. 
+===========================================================================

@@ -59,6 +59,18 @@ module.exports = async function(eleventyConfig) {
     });
 
 
+    // Copies 'batchfile.bat' to your output folder (e.g., '_site/batchfile.bat')
+    // Warning: if the file format is not listed in setTemplateFormats in ".eleventy.js" file it will be ignored, and if you are not using it, you should know what is natively supported by 11ty because the unsupported formats will be ignored too.  
+    eleventyConfig.addPassthroughCopy("batchfile.bat");
+
+    
+    // allowing file's formats to not make 11ty ignore them.
+    eleventyConfig.setTemplateFormats([
+		"md",
+		"bat", // `bat` is not a registered template syntax file extension
+        "njk",
+	]);
+
 
     // Setting up what is the input and output directories 
     return {

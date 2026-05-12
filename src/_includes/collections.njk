@@ -1,0 +1,25 @@
+---
+pagination:
+    data: collections
+    size: 1
+    alias: collectionName
+    filter:
+    - all
+    - post
+    addAllPagesToCollections: false
+permalink: /collections/{{ collectionName | slug }}/
+layout : "base-layout.njk"
+eleventyComputed:
+    title: "{{ collectionName }}"
+eleventyImport:
+    collections: ["{{ collectionName }}"]
+---
+
+
+<ul>
+    {%- for post in collections[collectionName] -%}
+        <li>
+            <a href="{{ post.page.url }}">{{ post.data.title }}</a>
+        </li>
+    {%- endfor -%}
+</ul>

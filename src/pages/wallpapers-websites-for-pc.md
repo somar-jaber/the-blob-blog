@@ -1,7 +1,7 @@
 ---
 layout : "base-layout.njk"
 title: "Wallpapers Websites for PC"
-tags: ["Tech"]
+tags: ["DigitalContent"]
 ---
 
 - [Alpha Coders](https://wall.alphacoders.com/)
