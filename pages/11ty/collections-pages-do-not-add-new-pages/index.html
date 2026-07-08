@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<!-- Push number 45 -->
+<!-- 
+    Hi bro Programmer, 8 attempts needed to make it works 
+    By the way what are you doing here ?
+    Are you trying to steal something ? Have some morals bro.
+-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- favicon -->
+    <link rel="icon" type="image/x-icon" href="/the-blob-blog/assets/favicon.png">
+
+    <!-- Load Prism CSS -->
+    <link href="/the-blob-blog/css/themes/prism-tomorrow.css" rel="stylesheet">
+    
+    
+    <link rel="stylesheet" href="/the-blob-blog/css/style.css">
+
+    
+    <meta name="theme-color" content="#e5ddd6">
+
+    <title>The Blob Blog</title>
+</head>
+<body>
+
+    <div class="container">
+        
+        
+            <div class="mainTitle" style="display: flex; justify-content: space-between;">
+    <h1>Collections Pages Do Not Add New Pages</h1>
+    <a href="/the-blob-blog/" style="font-weight: normal;">home</a>
+</div>
+
+    <a href="/the-blob-blog/collections/ComputerScience/" class="hashtag">#ComputerScience</a>
+
+<br>
+<br>
+<hr>
+<br>
+        
+        
+
+        <p>IF you made a page in 11ty to list all pages that have the same tag, you definitly faced a problem where the new pages do not being added to
+the collection. That happens because of the cache.</p>
+<h2 id="to-solve-this-problem-we-have-two-methods-%3A" tabindex="-1">To solve this problem we have two methods :</h2>
+<ul>
+<li>
+<h4 id="using-the---clean-flag%3A" tabindex="-1">using the <code>--clean</code> flag:</h4>
+</li>
+</ul>
+<pre class="language-cmd"><code class="language-cmd">npx @11ty/eleventy --clean</code></pre>
+<p>You can add this command to the package.json to be under the <code>scripts</code> so you can run it like this :</p>
+<pre class="language-batch"><code class="language-batch"><span class="token command"><span class="token keyword">npm</span> run clean</span></code></pre>
+<br>
+<ul>
+<li>
+<h4 id="using-the-configuration-file-.eleventy.js-%3A" tabindex="-1">Using the configuration file <code>.eleventy.js</code> :</h4>
+</li>
+</ul>
+<p>This will force it to clean the cache every single time you build the project, This means
+it will defeat the purpose of having a cache, as your collection would be rebuilt from scratch on every run,
+which can drastically slow down your build times</p>
+<p>To do it write in <code>.eleventy.js</code> :</p>
+<pre class="language-js"><code class="language-js">eleventy<span class="token punctuation">.</span>cache<span class="token punctuation">.</span><span class="token function">delete</span><span class="token punctuation">(</span>collections<span class="token operator">:</span>my<span class="token operator">-</span>custom<span class="token operator">-</span>collection<span class="token punctuation">)</span></code></pre>
+<p>replace <code>my-custom-collection</code> with your collection name.</p>
+
+    </div>
+
+    
+    <script>
+        (function () {
+            const links = document.querySelectorAll("a[href^='http://'], a[href^='https://']");
+            const host = window.location.hostname;
+
+            const isInternalLink = (link) => {
+            try {
+                return new URL(link.href).hostname === host;
+            } catch {
+                return false;
+            }
+            };
+
+            links.forEach(link => {
+            if (!isInternalLink(link)) {
+                link.setAttribute("target", "_blank");
+                link.setAttribute("rel", "noopener");
+            }
+            });
+        })();
+    </script>
+
+</body>
+</html>

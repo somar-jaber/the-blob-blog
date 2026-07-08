@@ -152,6 +152,10 @@ img {
     display: block;
 }
 
+tl , td {
+    text-align: center;
+}
+
 
 /* Elements */
 .youtube-video {
