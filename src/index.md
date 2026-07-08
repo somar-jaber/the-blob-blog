@@ -1,27 +1,7 @@
 ---
 layout : "base-layout.njk"
 ---
-<!-- This to prevent the links animations in this page -->
-<style>
-    a::after {
-        transition: initial;
-    }
-    a:hover::after {
-        content: "";
-    }
-    /* For external links */
-    a[href^="http"]:not([href*="/the-blob-blog"])::after {
-    /* The Unicode character for 'North East Arrow' */
-    content: "↗";
-    
-    /* Styling to make the icon subtle and professional */
-    margin-left: 4px;
-    font-size: 0.75em;
-    
-    /* Ensure the icon is treated as part of the link text */
-    vertical-align: super; 
-    }
-</style>
+<link rel="stylesheet" href="/css/external-links.css">
 
 # The Blob Blog
 *we love*   <a href="/pages/collections/computerscience" class="hashtag">#ComputerScience</a>
@@ -76,6 +56,7 @@ layout : "base-layout.njk"
 - [11ty themes](https://www.11tythemes.com/) 
 - [Tiny Helpers: collection of useful web dev tools](https://tiny-helpers.dev/)
 - [Hylia: a lightweight Eleventy starter kit](https://hylia.website/)
+- [Small 11ty Problems](pages/11ty/small-11ty-problems)
 - [My Writings](/pages/my-writings)
 - [Blogs We Like](/pages/blogs-we-like)
 - [Contact Us](/pages/contact-us)

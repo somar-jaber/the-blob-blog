@@ -1,0 +1,1 @@
+the json files in this folder are exposed as a global variables to the whole project, the json file should be in `camelCase` .

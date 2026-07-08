@@ -20,7 +20,7 @@
 
     
     <meta name="theme-color" content="#e5ddd6">
-
+    
     <title>The Blob Blog</title>
 </head>
 <body>
@@ -30,27 +30,7 @@
         
         
 
-        <!-- This to prevent the links animations in this page -->
-<style>
-    a::after {
-        transition: initial;
-    }
-    a:hover::after {
-        content: "";
-    }
-    /* For external links */
-    a[href^="http"]:not([href*="/the-blob-blog"])::after {
-    /* The Unicode character for 'North East Arrow' */
-    content: "↗";
-    
-    /* Styling to make the icon subtle and professional */
-    margin-left: 4px;
-    font-size: 0.75em;
-    
-    /* Ensure the icon is treated as part of the link text */
-    vertical-align: super; 
-    }
-</style>
+        <link rel="stylesheet" href="/the-blob-blog/css/external-links.css">
 <h1 id="the-blob-blog" tabindex="-1">The Blob Blog</h1>
 <p><em>we love</em>   <a href="/the-blob-blog/pages/collections/computerscience" class="hashtag">#ComputerScience</a>
 <a href="/the-blob-blog/pages/collections/offline" class="hashtag">#Offline</a>
@@ -101,6 +81,7 @@
 <li><a href="https://www.11tythemes.com/">11ty themes</a></li>
 <li><a href="https://tiny-helpers.dev/">Tiny Helpers: collection of useful web dev tools</a></li>
 <li><a href="https://hylia.website/">Hylia: a lightweight Eleventy starter kit</a></li>
+<li><a href="pages/11ty/small-11ty-problems">Small 11ty Problems</a></li>
 <li><a href="/the-blob-blog/pages/my-writings">My Writings</a></li>
 <li><a href="/the-blob-blog/pages/blogs-we-like">Blogs We Like</a></li>
 <li><a href="/the-blob-blog/pages/contact-us">Contact Us</a></li>

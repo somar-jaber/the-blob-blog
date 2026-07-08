@@ -1,0 +1,20 @@
+/* This to prevent the links animations in this page  */
+
+a::after {
+    transition: initial;
+}
+a:hover::after {
+    content: "";
+}
+/* For external links */
+a[href^="http"]:not([href*="/the-blob-blog"])::after {
+/* The Unicode character for 'North East Arrow' */
+content: "↗";
+
+/* Styling to make the icon subtle and professional */
+margin-left: 4px;
+font-size: 0.75em;
+
+/* Ensure the icon is treated as part of the link text */
+vertical-align: super; 
+}

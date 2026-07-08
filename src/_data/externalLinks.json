@@ -1,0 +1,34 @@
+{
+    "items" : [
+        {
+            "title" : "11ty themes",
+            "url" : "https://www.11tythemes.com/",
+            "tags": ["ComputerScience"]
+        },
+       {
+            "title" : "How to escape a drone if it attacks you",
+            "url" : "https://www.youtube.com/watch?v=IGK0wYXebmc",
+            "tags": ["DigitalContent"]
+        },
+        {
+            "title" : "Learn GitHub-Flavored Markdown Syntax (GFM)",
+            "url" : "https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/",
+            "tags": ["ComputerScience"]
+        },
+        {
+            "title" : "Bash the right way",
+            "url" : "https://www.youtube.com/watch?v=6eGq6nhKdCQ",
+            "tags": ["ComputerScience"]
+        },
+        {
+            "title" : "Tiny Helpers: collection of useful web dev tools",
+            "url" : "https://tiny-helpers.dev/",
+            "tags": ["ComputerScience"]
+        },
+        {
+            "title" : "Hylia: a lightweight Eleventy starter kit",
+            "url" : "https://hylia.website/",
+            "tags": ["ComputerScience"]
+        }
+    ]   
+}
