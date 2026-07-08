@@ -69,6 +69,8 @@ module.exports = async function(eleventyConfig) {
 		"md",
 		"bat", // `bat` is not a registered template syntax file extension
         "njk",
+        "cmd",
+        "exe",
 	]);
 
 

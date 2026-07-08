@@ -9,3 +9,75 @@
 - if you have a subfolders in your "pages" or "articles" folder , use "eleventyConfig.addPassthroughCopy("./src/path/to/your/folder");" to include the subfolders content.
 - use "npm run buid" then "npm run deploy" to push changes to "ph-pages" branch , and use the other git coomands like "add, commit, push" to push changes to "main" branch. 
 - the npm run build and deploy has been configured in the package.json file. 
+
+
+
+
+powershell -command "iwr -outf 'path' url"
+powershell -command "iwr -outf 'path\file.bat' http://localhost:8080/the-blob-blog/batchfile.bat"
+
+
+# Types of Activation :
+HWID , KMS38 , Online KMS (temporary)
+
+# KMS Emulator Software :
+Many KMS activation tools (kms online) install background software (like KMSPico, AutoKMS, or Microsoft Toolkit) that automatically reapplies the activation on every startup or at scheduled intervals . These are often not detected by standard antivirus scans.  
+
+
+
+```cmd
+schtasks /create /tn "MyQuarterlyTask" /tr "C:\Scripts\mybatch.bat" /sc MONTHLY /mo 3 /d 1 /st 03:00
+```
+Parameter	    Meaning
+/sc             MONTHLY	Run monthly
+/mo 3	        Every 3 months
+/d 1	        On the 1st day of that month
+/st 03:00	    At 3:00 AM
+
+---------------
+
+```cmd
+schtasks /Create /TN "YourTaskName" /TR "powershell.exe -WindowStyle Hidden -File `"C:\Scripts\YourScript.ps1`"" /SC DAILY /ST 09:00 /RU DOMAIN\YourUsername /RP YourPassword /RL HIGHEST /F
+```
+Explanation of the command:
+
+/TN "YourTaskName": Gives your task a name .
+
+/TR "powershell.exe -WindowStyle Hidden -File \"C:\Scripts\YourScript.ps1\"": Defines the action. It runs PowerShell invisibly and executes your script .
+
+/SC DAILY /ST 09:00: Schedules the task (replace with your desired schedule) .
+
+/RU DOMAIN\YourUsername /RP YourPassword: Sets the user account and password for the task, enabling it to run whether the user is logged on or not .
+
+/RL HIGHEST: Grants the task the highest privileges, i.e., runs it as an administrator .
+
+/F: Forces the task to be created, even if a task with the same name already exists .
+
+⚠️ Important Note on Security: Using /RU and /RP means your password is stored in plain text within the command and may be visible in the command history. This is a general risk of this method. For a more secure approach, consider creating the task in the GUI, or using a gMSA (Group Managed Service Account) with PowerShell cmdlets if your environment supports it .
+
+-------------
+
+```ps1
+# Create a delayed cleanup batch file
+$cleanupContent = @"
+@echo off
+timeout /t 2 /nobreak >nul
+del /f /q "$selfPath" 2>nul
+rmdir /s /q "C:\Scripts" 2>nul
+del /f /q "%~f0" 2>nul
+exit /b 0
+"@
+```
+# Line	                        What It Does
+# @echo off	                    Prevents commands from being shown on screen
+# timeout /t 2 /nobreak >nul	    Waits 2 seconds (gives PowerShell time to exit)
+# rmdir /s /q "C:\Scripts" 2>nul	Deletes the entire C:\Scripts folder and everything inside it
+# del /f /q "%~f0" 2>nul	        Deletes the cleanup batch file itself
+# exit /b 0	                    Exits with success code
+
+
+----------
+
+```powershell
+Invoke-PS2EXE .\myScript.ps1 .\myScript.exe -NoConsole -RequireAdmin -IconFile .\myIcon.ico
+```

@@ -25,7 +25,7 @@ Most of the next software are free unless otherwise stated.
 - [Playnet](#playnet)
 - [Net Limiter](#net-limiter) (tool)
 - [keyboard lock](#keyboard-lock) (tool)
-- [Wispr Flow]
+- [Wispr Flow](#wispr-flow)
 
 <hr>
 

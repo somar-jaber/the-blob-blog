@@ -22,7 +22,8 @@ html {
 }
 
 :root {
-    --background-color : hsl(225, 18%, 90%);
+    --background-color: var(--background-color-copiolt, #e1e3ea); /* The main global variable that is used in many places */
+    --background-color1 : hsl(225, 18%, 90%);
     --background-color2: #ebf3f3;
     --background-color3: #e5ddd6;
     --background-color-copiolt: #f8f4f1;
@@ -38,7 +39,7 @@ html {
 
 body {
     font-family: Arial, Inter, Georgia, "DIN Round Pro";
-    background-color: var(--background-color-copiolt);
+    background-color: var(--background-color);
     color: var(--text-color);
     font-size: 20px;
     font-weight: 400;
@@ -149,6 +150,10 @@ img {
     max-width: 100%;
     height: auto;
     display: block;
+}
+
+tl , td {
+    text-align: center;
 }
 
 

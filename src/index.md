@@ -24,10 +24,10 @@ layout : "base-layout.njk"
 </style>
 
 # The Blob Blog
-*we love*   <a href="/collections/computerscience/" class="hashtag">#ComputerScience</a>
-            <a href="/collections/offline/" class="hashtag">#Offline</a>
-            <a href="/collections/digitalcontent/" class="hashtag">#DigitalContent</a>
-            <a href="/collections/tech/" class="hashtag">#Tech</a>
+*we love*   <a href="/pages/collections/computerscience" class="hashtag">#ComputerScience</a>
+            <a href="/pages/collections/offline" class="hashtag">#Offline</a>
+            <a href="/pages/collections/digitalcontent" class="hashtag">#DigitalContent</a>
+            <a href="/pages/collections/tech" class="hashtag">#Tech</a>
 
 <br>
 <br>
@@ -72,6 +72,10 @@ layout : "base-layout.njk"
 - [Unstable Domains](/pages/unstable-domains)
 - [Tools & Websites for Design inspiration](/pages/tools-&-websites-for-design-inspiration)
 - [Places to make your own website](/pages/places-to-make-your-own-website)
+- [The Fediverse](pages/the-fediverse)
+- [11ty themes](https://www.11tythemes.com/) 
+- [Tiny Helpers: collection of useful web dev tools](https://tiny-helpers.dev/)
+- [Hylia: a lightweight Eleventy starter kit](https://hylia.website/)
 - [My Writings](/pages/my-writings)
 - [Blogs We Like](/pages/blogs-we-like)
 - [Contact Us](/pages/contact-us)
