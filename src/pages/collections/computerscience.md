@@ -2,8 +2,8 @@
 layout : "base-layout.njk"
 title: "ComputerScience"
 ---
-<link rel="stylesheet" href="/css/external-links.css">
 
+<link rel="stylesheet" href="/css/external-links.css">
 
 <ul>
     {%- for post in collections["ComputerScience"] -%}
@@ -14,7 +14,7 @@ title: "ComputerScience"
 </ul>
 
 
-{% set tag = "ComputerScience" %}
+{%- set tag = "ComputerScience" -%}
 
 <ul>
     {%- for link in externalLinks.items -%}
