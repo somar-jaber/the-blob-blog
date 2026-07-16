@@ -8,6 +8,8 @@
 
 html {
     scroll-behavior: smooth;
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 .container {
@@ -21,7 +23,8 @@ html {
 /* small screens */
 @media (min-width: 767px) {
     .container {
-           width: 750px;
+            width: 750px;
+            max-width: 100%;
        }
 }
 
@@ -49,9 +52,10 @@ body {
     font-weight: 400;
     letter-spacing: 0.5px;
     line-height: 1.6;
-    max-width: 1200px;
+    max-width: 100%;
     margin: 0 auto;
     padding: 2rem;
+    overflow-x: hidden;
 }
 
 a {
@@ -171,6 +175,7 @@ tl , td {
 .youtube-video img {
     width: 320px;
     height: 180px;
+    max-width: 100%;
     margin-right: 20px;
 }
 
