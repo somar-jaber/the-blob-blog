@@ -72,7 +72,8 @@ a::after {
     transition: 0.3S ease-in-out;
 }
 a:hover:after {
-    content: "♠♣♥♦→";
+    /* content: "♠♣♥♦→"; */
+    content: "→";
     border-radius: 50%;
     margin-left: 10px;
 }
