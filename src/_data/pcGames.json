@@ -1,0 +1,2097 @@
+{
+    "tagslist": ["action", "FPS", "RTS", "Macro-Focused", "Tactical", "Classic", "Adventure", "Cozy", "Wholesome", "Management", "Life Simulation", "Farming", "Platformer", "Puzzle", "Exploration", "RPG", "Narrative", "Horror", "Sandbox"] ,
+
+    "items" : [        
+        {
+            "name" : "Generals Zero Hour (Contra Mod)",
+            "tags" : ["RTS"],
+            "image": "",
+            "description" : "",
+            "link" : ""
+        },
+        {
+            "name" : "Warcraft III",
+            "tags" : ["RTS", "Classic"],
+            "image": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/warcraftiii.png",
+            "description" : "",
+            "link" : ""
+        },
+        {
+            "name" : "StarCraft 2: Trilogy",
+            "tags" : ["RTS", "Macro-Focused"],
+            "image": "https://images.gog.com/51c804e6093b0b8494c7956adb13a3f187fdc879630569c8fb466fd2b7fadea1_glx_vertical_cover.webp?namespace=gamesdb",
+            "description" : "",
+            "link" : ""
+        },
+        {
+            "name" : "Iron Harvest",
+            "tags" : ["RTS", "Tactical", "Macro-Focused"],
+            "image": "",
+            "description" : "",
+            "link" : ""
+        },
+        {
+            "name" : "DEFCON Zero",
+            "tags" : ["RTS"],
+            "image": "/assets/gamesimages/defcon_zero.jpg",
+            "description" : "",
+            "link" : ""
+        },
+        {
+            "name" : "Warhammer 40k : Dawn of War I Soulstorm & I definitive Edition & III",
+            "tags" : ["RTS", "Classic"],
+            "image": "",
+            "description" : "",
+            "link" : ""
+        },
+        {
+            "name" : "Warhammer 40k : Dawn of War II ",
+            "tags" : ["RTS"],
+            "image": "",
+            "description" : "Comes with expansions, Chaos Rising and Retribution. It doesn’t have a base building part, but it has a very cool and unique system forcing you to engage with the world, it has skirmish mod in the multiplayer menu, just add AI players and play.",
+            "link" : ""
+        },
+        {
+            "name" : "Dust Front RTS ",
+            "tags" : ["RTS"],
+            "image": "",
+            "description": "",
+            "link" : ""
+        },
+        {
+            "name" : "Company of heroes 2 & 3",
+            "tags" : ["RTS"],
+            "image": "",
+            "description": "",
+            "link" : ""
+        },
+        {
+            "name" : "ZeroSpace",
+            "tags" : ["RTS"],
+            "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1605850/5259105134f303692a1f160e79264b05b803f0b0/header.jpg?t=1785798364",
+            "description": "",
+            "link" : ""
+        },
+        {
+            "name" : "Total War: Warhammer III",
+            "tags" : ["RTS"],
+            "image": "",
+            "description": "",
+            "link" : ""
+        },
+        {
+            "name" : "Total War: Rome 2",
+            "tags" : ["RTS"],
+            "image": "",
+            "description": "",
+            "link" : ""
+        },
+        {
+            "name" : "World in Conflict",
+            "tags" : ["RTS"],
+            "image": "",
+            "description": "",
+            "link" : ""
+        },
+        {
+            "name" : "Red Alert 2 & 3",
+            "tags" : ["RTS", "Classic"],
+            "image": "",
+            "description": "",
+            "link" : ""
+        },
+        {
+            "name" : "Supreme Commander",
+            "tags" : ["RTS"],
+            "image": "",
+            "description": "",
+            "link" : ""
+        },
+        {
+            "name" : "Total Inhalation",
+            "tags" : ["RTS", "Classic"],
+            "image": "",
+            "description": "",
+            "link" : ""
+        },
+        {
+            "name" : "Outlive 25",
+            "tags" : ["RTS", "Classic"],
+            "image": "",
+            "description": "",
+            "link" : ""
+        },
+        {
+            "name" : "Age of Empires II & III & definitive edition",
+            "tags" : ["RTS", "Classic"],
+            "image": "",
+            "description": "",
+            "link" : ""
+        },
+        {
+            "name" : "Age of Mythology",
+            "tags" : ["RTS", "Classic"],
+            "image": "",
+            "description": "There are a remaster version called Age of Mythology Retold",
+            "link" : ""
+        },
+        {
+            "name" : "Strong Hold : Crusader & definitive edition",
+            "tags" : ["RTS", "Classic"],
+            "image": "",
+            "description": "",
+            "link" : ""
+        },
+        {
+            "name" : "Lord of the rings : The Battle of the Middle-Earth I & II with RoWK DLC",
+            "tags" : ["RTS", "Classic"],
+            "image": "",
+            "description": "",
+            "link" : "/pages/bfme-ii/"
+        },
+        {
+            "name" : "Hearts Of Iron IV",
+            "tags" : ["RTS"],
+            "image": "",
+            "description": "",
+            "link" : ""
+        },
+        {
+            "name" : "Knights of Honor II: Sovereign",
+            "tags" : ["RTS"],
+            "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/736820/ss_0f0b4724fe6b986ee5365fa271368ae0e4aa6a71.1920x1080.jpg?t=1725000879",
+            "description": "",
+            "link" : ""
+        },
+        {
+            "name" : "Side Meier’s Civilization VII ",
+            "tags" : ["RTS"],
+            "image": "",
+            "description": "",
+            "link" : ""
+        },
+        {
+            "name" : "The Scouring!",
+            "tags" : ["RTS"],
+            "image": "",
+            "description": "Warcraft successor",
+            "link" : "https://store.steampowered.com/app/3338950/The_Scouring/"
+        },
+        {
+            "name" : "Systemic War",
+            "tags" : ["RTS"],
+            "image": "",
+            "description": "",
+            "link" : ""
+        },
+        {
+            "name" : "Veil of Ashes",
+            "tags" : ["RTS"],
+            "image": "",
+            "description": "",
+            "link" : "https://store.steampowered.com/app/3511540/Veil_of_Ashes/"
+        },
+        {
+            "name" : "Sudden Strike 5",
+            "tags" : ["RTS"],
+            "image": "",
+            "description": "",
+            "link" : ""
+        },
+        {
+            "name" : "D.O.R.F",
+            "tags" : ["RTS", "Classic"],
+            "image": "",
+            "description": "",
+            "link" : ""
+        },
+
+
+
+
+        {
+            "name" : "Kingdom two crowns",
+            "tags" : [],
+            "image": "",
+            "description": "",
+            "link" : ""
+        },
+        {
+            "name" : "Tinkernest",
+            "tags" : [],
+            "image": "",
+            "description": "",
+            "link" : ""
+        },
+        
+        {
+            "name": "Kingdom Two Crowns",
+            "tags": ["Strategy", "Management", "Cozy", "Adventure"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/701160/header.jpg",
+            "description": "A 2D sidescrolling micro-strategy game where you build and defend your kingdom with a monarch.",
+            "link": ""
+        },
+        {
+            "name": "Tinkernest",
+            "tags": ["Adventure", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A cozy indie game showcased at Wholesome Direct 2026.",
+            "link": ""
+        },
+        {
+            "name": "Moonlight Peaks",
+            "tags": ["Life Simulation", "Adventure", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A magical life-simulation game where you play as a vampire chef.",
+            "link": ""
+        },
+        {
+            "name": "In The Drift",
+            "tags": ["Adventure", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A cozy indie game about drifting through life and nature.",
+            "link": ""
+        },
+        {
+            "name": "Capy Castaway",
+            "tags": ["Adventure", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A relaxing survival game featuring a capybara building a home on a tropical island.",
+            "link": ""
+        },
+        {
+            "name": "Fourleaf Fields",
+            "tags": ["Farming", "Life Simulation", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A cozy farming and life-simulation game.",
+            "link": ""
+        },
+        {
+            "name": "Spiritstead",
+            "tags": ["Adventure", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A cozy game about building a homestead with spirits.",
+            "link": ""
+        },
+        {
+            "name": "Moomin: Midsummer Madness",
+            "tags": ["Adventure", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A wholesome adventure set in the beloved Moomin universe.",
+            "link": ""
+        },
+        {
+            "name": "Planet of Lana",
+            "tags": ["Adventure", "Platformer", "Puzzle", "Wholesome"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1608230/header.jpg",
+            "description": "A cinematic puzzle-platformer about a girl and her animal companion saving their planet.",
+            "link": ""
+        },
+        {
+            "name": "Planet of Lana 2",
+            "tags": ["Adventure", "Platformer", "Puzzle", "Wholesome"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/2997230/header.jpg",
+            "description": "The sequel to the cinematic puzzle-platformer.",
+            "link": ""
+        },
+        {
+            "name": "Abzu",
+            "tags": ["Adventure", "Exploration", "Cozy"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/384190/header.jpg",
+            "description": "A meditative underwater exploration game where you swim through vibrant ocean worlds.",
+            "link": ""
+        },
+        {
+            "name": "Stardew Valley",
+            "tags": ["Farming", "Life Simulation", "Cozy", "Wholesome", "Adventure"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/413150/header.jpg",
+            "description": "A beloved farming simulation game where you restore a farm and build a community.",
+            "link": ""
+        },
+        {
+            "name": "Haunted Chocolatier",
+            "tags": ["Farming", "Life Simulation", "Cozy", "Wholesome", "Adventure"],
+            "image": "",
+            "description": "An upcoming RPG from the creator of Stardew Valley where you run a chocolate shop in a haunted castle.",
+            "link": ""
+        },
+        {
+            "name": "Witchbrook",
+            "tags": ["Life Simulation", "RPG", "Cozy", "Wholesome", "Adventure"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1846700/header.jpg",
+            "description": "A magical life-simulation RPG about a witch attending a wizard school.",
+            "link": ""
+        },
+        {
+            "name": "Firewatch",
+            "tags": ["Adventure", "Narrative", "Exploration"],
+            "image": "",
+            "description": "A first-person mystery adventure set in the Wyoming wilderness.",
+            "link": ""
+        },
+        {
+            "name": "Untitled Goose Game",
+            "tags": ["Adventure", "Comedy", "Puzzle", "Wholesome"],
+            "image": "",
+            "description": "A slapstick stealth game where you play as a mischievous goose.",
+            "link": ""
+        },
+        {
+            "name": "Town to City",
+            "tags": ["Management", "Simulation", "Cozy", "Adventure"],
+            "image": "",
+            "description": "A city-building simulation game where you grow a small town into a thriving city.",
+            "link": "https://store.steampowered.com/bundle/59015/Town_to_City_Deluxe/"
+        },
+        {
+            "name": "Animula Nook",
+            "tags": ["Life Simulation", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A cozy simulation game about caring for creatures in a magical nook.",
+            "link": "https://store.steampowered.com/app/3767320/Animula_Nook/"
+        },
+        {
+            "name": "Whisper of the House",
+            "tags": ["Puzzle", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A cozy puzzle game where you arrange furniture and uncover memories.",
+            "link": ""
+        },
+        {
+            "name": "Little Big Planet 1 & 2",
+            "tags": ["Adventure", "Platformer", "Puzzle", "Wholesome"],
+            "image": "",
+            "description": "A creative puzzle-platformer series featuring Sackboy.",
+            "link": ""
+        },
+        {
+            "name": "SEASON: A Letter to the Future",
+            "tags": ["Adventure", "Exploration", "Narrative", "Cozy"],
+            "image": "",
+            "description": "A meditative exploration game where you document the world before a cataclysm.",
+            "link": "https://store.steampowered.com/app/695330/SEASON_A_letter_to_the_future/"
+        },
+        {
+            "name": "Machinarium",
+            "tags": ["Adventure", "Puzzle", "Cozy"],
+            "image": "",
+            "description": "A charming point-and-click puzzle adventure set in a robot world.",
+            "link": ""
+        },
+        {
+            "name": "Botanicula",
+            "tags": ["Adventure", "Puzzle", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A whimsical point-and-click adventure about tiny creatures saving a tree.",
+            "link": ""
+        },
+        {
+            "name": "Chuchel",
+            "tags": ["Adventure", "Comedy", "Puzzle", "Wholesome"],
+            "image": "",
+            "description": "A funny and chaotic point-and-click adventure about a hairy creature.",
+            "link": ""
+        },
+        {
+            "name": "Happy Game",
+            "tags": ["Adventure", "Puzzle", "Horror"],
+            "image": "",
+            "description": "A surreal and disturbing puzzle-adventure with nightmare-fuel visuals.",
+            "link": ""
+        },
+        {
+            "name": "Pilgrims",
+            "tags": ["Adventure", "Puzzle", "Comedy", "Cozy"],
+            "image": "",
+            "description": "A playful card-based adventure game with quirky characters.",
+            "link": ""
+        },
+        {
+            "name": "Creaks",
+            "tags": ["Adventure", "Puzzle", "Cozy"],
+            "image": "",
+            "description": "A hand-painted puzzle adventure with eerie atmosphere.",
+            "link": ""
+        },
+        {
+            "name": "Phonopolis",
+            "tags": ["Adventure", "Puzzle", "Cozy"],
+            "image": "",
+            "description": "An upcoming stop-motion puzzle adventure set in a totalitarian city.",
+            "link": ""
+        },
+        {
+            "name": "Questionaut",
+            "tags": ["Adventure", "Puzzle", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A charming educational point-and-click adventure.",
+            "link": ""
+        },
+        {
+            "name": "The Quest For The Rest",
+            "tags": ["Adventure", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A cozy web-based adventure game.",
+            "link": ""
+        },
+        {
+            "name": "The Stanley Parable: Deluxe Edition",
+            "tags": ["Adventure", "Narrative", "Comedy"],
+            "image": "",
+            "description": "A surreal narrative-driven game that plays with player choice.",
+            "link": ""
+        },
+        {
+            "name": "ZlinCity",
+            "tags": ["Life Simulation", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "An upcoming cozy life-simulation game set in a charming city.",
+            "link": "https://www.zlincity.com/"
+        },
+        {
+            "name": "Cast n Chill",
+            "tags": ["Adventure", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A relaxing game about fishing, collecting, and chilling out.",
+            "link": ""
+        },
+        {
+            "name": "Tiny Pasture",
+            "tags": ["Life Simulation", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A cute simulation game with adorable animals at the bottom of your screen.",
+            "link": ""
+        },
+        {
+            "name": "Cozy Island",
+            "tags": ["Life Simulation", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A cozy island life-simulation game.",
+            "link": ""
+        },
+        {
+            "name": "Tiny Glade",
+            "tags": ["Sandbox", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A relaxing sandbox game where you build charming castles and landscapes.",
+            "link": ""
+        },
+        {
+            "name": "Summer House",
+            "tags": ["Sandbox", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A solo-developed cozy game about spending a relaxing summer at a house.",
+            "link": ""
+        },
+        {
+            "name": "My Eerie Lair",
+            "tags": ["Life Simulation", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A cozy spooky simulation game where you manage a lair as a monster.",
+            "link": "https://store.steampowered.com/app/3621690/My_Eerie_Lair/"
+        },
+        {
+            "name": "Omori",
+            "tags": ["RPG", "Horror", "Narrative", "Adventure"],
+            "image": "",
+            "description": "A surreal psychological horror RPG with deeply emotional storytelling.",
+            "link": ""
+        },
+        {
+            "name": "Buddy Simulator 1984",
+            "tags": ["Adventure", "Horror", "Narrative"],
+            "image": "",
+            "description": "A horror-adventure game where an AI companion learns from you.",
+            "link": ""
+        },
+        {
+            "name": "Little Misfortune",
+            "tags": ["Adventure", "Narrative", "Horror"],
+            "image": "",
+            "description": "A dark interactive story about a girl seeking a magic gem.",
+            "link": ""
+        },
+        {
+            "name": "Moon Frost",
+            "tags": ["Adventure", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "An upcoming cozy game with beautiful pixel art.",
+            "link": ""
+        },
+        {
+            "name": "Bear and Breakfast",
+            "tags": ["Management", "Adventure", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A management adventure game where you run a B&B as a bear.",
+            "link": ""
+        },
+        {
+            "name": "Wylde Flowers",
+            "tags": ["Farming", "Life Simulation", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A fully voice-acted farming game with witches and magic.",
+            "link": ""
+        },
+        {
+            "name": "Coral Island",
+            "tags": ["Farming", "Life Simulation", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A tropical farming and life-simulation game with underwater exploration.",
+            "link": ""
+        },
+        {
+            "name": "Masters of Albion",
+            "tags": ["Strategy", "Simulation", "Cozy", "Adventure"],
+            "image": "",
+            "description": "A god-like simulation game where you build and manage a fantasy world.",
+            "link": ""
+        },
+        {
+            "name": "Songs of Glimmerwick",
+            "tags": ["RPG", "Life Simulation", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A magical cozy RPG about attending a music-based magic academy.",
+            "link": ""
+        },
+        {
+            "name": "Eastshade",
+            "tags": ["Adventure", "Exploration", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A first-person exploration game where you paint landscapes.",
+            "link": ""
+        },
+        {
+            "name": "Harold Halibut",
+            "tags": ["Adventure", "Narrative", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A handcrafted stop-motion narrative game set in an underwater city.",
+            "link": ""
+        },
+        {
+            "name": "Pikmin Series",
+            "tags": ["Strategy", "Adventure", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A real-time strategy adventure where you command plant-like creatures.",
+            "link": ""
+        },
+        {
+            "name": "Terra Nil",
+            "tags": ["Strategy", "Puzzle", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A reverse city-builder where you restore barren landscapes to ecosystems.",
+            "link": ""
+        },
+        {
+            "name": "Littlewood",
+            "tags": ["Farming", "Life Simulation", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A cozy farming RPG set in a peaceful world after the hero has saved it.",
+            "link": ""
+        },
+        {
+            "name": "Fields of Mistria",
+            "tags": ["Farming", "Life Simulation", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A 90s anime-inspired farming RPG with magic and romance.",
+            "link": ""
+        },
+        {
+            "name": "Calico",
+            "tags": ["Life Simulation", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A cute cafe-management game where you decorate your cat cafe.",
+            "link": ""
+        },
+        {
+            "name": "Spirit City: Lo-fi Sessions",
+            "tags": ["Cozy", "Wholesome"],
+            "image": "",
+            "description": "A productivity game with lo-fi beats, where you study in a cozy virtual room.",
+            "link": ""
+        },
+        {
+            "name": "Travelers Rest",
+            "tags": ["Management", "Life Simulation", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A tavern management game where you brew drinks and serve travelers.",
+            "link": ""
+        },
+        {
+            "name": "Wytchwood",
+            "tags": ["Adventure", "Crafting", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A crafting adventure set in a fairy-tale world where you play as a witch.",
+            "link": ""
+        },
+        {
+            "name": "inZoi",
+            "tags": ["Life Simulation", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A life-simulation game with hyper-realistic graphics, similar to The Sims.",
+            "link": ""
+        },
+        {
+            "name": "Littlelands",
+            "tags": ["Adventure", "Farming", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A cozy exploration and farming game with charming hand-drawn visuals.",
+            "link": ""
+        },
+        {
+            "name": "Go Go Town",
+            "tags": ["Management", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A town-building simulation game where you restore and manage a small town.",
+            "link": ""
+        },
+        {
+            "name": "Cozy Grove",
+            "tags": ["Life Simulation", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A hand-drawn life-simulation game where you help ghosts on a haunted island.",
+            "link": ""
+        },
+        {
+            "name": "Hello Kitty Island Adventure",
+            "tags": ["Adventure", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A cozy open-world game with Hello Kitty and friends on a tropical island.",
+            "link": ""
+        },
+        {
+            "name": "Disney Dreamlight Valley",
+            "tags": ["Life Simulation", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A life-simulation game where you befriend Disney characters and restore a magical valley.",
+            "link": ""
+        },
+        {
+            "name": "Sun Haven",
+            "tags": ["Farming", "RPG", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A fantasy farming RPG with magic, multiple races, and adventure across dimensions.",
+            "link": ""
+        },
+        {
+            "name": "Rune Factory 4 Special",
+            "tags": ["Farming", "RPG", "Cozy", "Wholesome"],
+            "image": "",
+            "description": "A fantasy farming RPG with combat, romance, and a charming Wii-era vibe.",
+            "link": ""
+        },
+        {
+            "name": "Inside",
+            "tags": ["Adventure", "Platformer", "Puzzle", "Horror"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/304430/header.jpg",
+            "description": "A dark, cinematic puzzle-platformer where a boy navigates a dystopian world filled with deadly secrets.",
+            "link": ""
+        },
+        {
+            "name": "Hollow Knight",
+            "tags": ["Adventure", "Platformer", "RPG", "Exploration"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/367520/header.jpg",
+            "description": "A challenging action-adventure game set in a vast, interconnected underground kingdom of insects.",
+            "link": ""
+        },
+        {
+            "name": "Ori and the Blind Forest",
+            "tags": ["Adventure", "Platformer", "Puzzle", "Wholesome"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/261570/header.jpg",
+            "description": "A visually stunning platformer where a guardian spirit embarks on a journey to save a dying forest.",
+            "link": ""
+        },
+        {
+            "name": "Ori and the Will of the Wisps",
+            "tags": ["Adventure", "Platformer", "Puzzle", "Wholesome"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1057090/header.jpg",
+            "description": "The sequel to Ori and the Blind Forest, featuring expanded combat and exploration in a beautiful world.",
+            "link": ""
+        },
+        {
+            "name": "Rain World",
+            "tags": ["Adventure", "Platformer", "Exploration", "Survival"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/312520/header.jpg",
+            "description": "A survival-platformer where you play as a slugcat, navigating a harsh, unforgiving ecosystem.",
+            "link": ""
+        },
+        {
+            "name": "Darwin's Paradox!",
+            "tags": ["Adventure", "Platformer", "Puzzle", "Comedy"],
+            "image": "",
+            "description": "A puzzle-platformer where an octopus escapes a lab and explores a chaotic world.",
+            "link": ""
+        },
+        {
+            "name": "Little Nightmares",
+            "tags": ["Adventure", "Platformer", "Puzzle", "Horror"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/424840/header.jpg",
+            "description": "A creepy puzzle-platformer where a girl in a yellow raincoat tries to escape a ship full of grotesque monsters.",
+            "link": ""
+        },
+        {
+            "name": "Little Nightmares II",
+            "tags": ["Adventure", "Platformer", "Puzzle", "Horror"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/860510/header.jpg",
+            "description": "The sequel to Little Nightmares, following Mono and Six on a terrifying journey through a distorted world.",
+            "link": ""
+        },
+        {
+            "name": "Reanimal",
+            "tags": ["Adventure", "Platformer", "Puzzle", "Horror"],
+            "image": "",
+            "description": "An upcoming horror puzzle-platformer from the creators of Little Nightmares.",
+            "link": ""
+        },
+        {
+            "name": "Pink Panther",
+            "tags": ["Adventure", "Platformer", "Puzzle"],
+            "image": "",
+            "description": "A charming adventure game featuring the iconic Pink Panther in a series of humorous puzzles.",
+            "link": ""
+        },
+        {
+            "name": "Psychonauts",
+            "tags": ["Adventure", "Platformer", "Wholesome"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/3830/header.jpg",
+            "description": "A magical 3D platformer where a psychic boy enters people's minds to uncover their secrets.",
+            "link": "https://www.youtube.com/watch?v=_zHPxLf0SEg"
+        },
+        {
+            "name": "Psychonauts 2",
+            "tags": ["Adventure", "Platformer", "Wholesome"],
+            "image": "",
+            "description": "The sequel to Psychonauts, featuring more psychic powers and imaginative mind-bending levels.",
+            "link": ""
+        },
+        {
+            "name": "MIO: Memories in Orbit",
+            "tags": ["Adventure", "Platformer", "Puzzle", "Exploration"],
+            "image": "",
+            "description": "A sci-fi puzzle-platformer set in a derelict spaceship, filled with mysterious memories.",
+            "link": ""
+        },
+        {
+            "name": "Shady Part of Me",
+            "tags": ["Adventure", "Platformer", "Puzzle", "Narrative"],
+            "image": "",
+            "description": "A dreamlike puzzle-platformer where a girl and her shadow work together to navigate surreal environments.",
+            "link": ""
+        },
+
+
+
+
+        {
+            "name": "Factorio",
+            "tags": ["Strategy", "Management", "Simulation"],
+            "image": "",
+            "description": "A simulation strategy game about building and managing automated factories on an alien planet.",
+            "link": ""
+        },
+        {
+            "name": "Captain of Industry",
+            "tags": ["Strategy", "Management", "Simulation"],
+            "image": "",
+            "description": "A colony management strategy game focusing on industrial production and resource chains.",
+            "link": ""
+        },
+        {
+            "name": "Townsmen - A Kingdom Rebuilt",
+            "tags": ["Strategy", "Management", "Simulation"],
+            "image": "",
+            "description": "A medieval city-building strategy game where you manage a thriving kingdom.",
+            "link": ""
+        },
+        {
+            "name": "Oxygen Not Included",
+            "tags": ["Strategy", "Management", "Simulation"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/457140/header.jpg",
+            "description": "A space-colony simulation game where you manage resources and keep your colonists alive in an asteroid.",
+            "link": ""
+        },
+        {
+            "name": "This War of Mine",
+            "tags": ["Strategy", "Management", "Survival"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/282070/header.jpg",
+            "description": "A war survival strategy game where you control civilians trying to survive in a besieged city.",
+            "link": ""
+        },
+        {
+            "name": "State of Decay",
+            "tags": ["Adventure", "Survival", "Horror"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/241540/header.jpg",
+            "description": "A single-player zombie survival game where you manage a community and fight the undead.",
+            "link": ""
+        },
+        {
+            "name": "Frostpunk",
+            "tags": ["Strategy", "Management", "Survival"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/323190/header.jpg",
+            "description": "A city-building strategy game where you lead the last city on Earth in a frozen wasteland.",
+            "link": ""
+        },
+        {
+            "name": "Don't Starve",
+            "tags": ["Adventure", "Survival", "Horror"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/219740/header.jpg",
+            "description": "A dark survival adventure game with a unique art style, where you must survive in a harsh wilderness.",
+            "link": ""
+        },
+        {
+            "name": "Forager",
+            "tags": ["Adventure", "Management", "Puzzle"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/751780/header.jpg",
+            "description": "A relaxing adventure game combining exploration, crafting, and resource management.",
+            "link": ""
+        },
+        {
+            "name": "Subnautica",
+            "tags": ["Adventure", "Exploration", "Survival"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/264710/header.jpg",
+            "description": "An open-world underwater exploration and survival game on an alien planet.",
+            "link": ""
+        },
+        {
+            "name": "RimWorld",
+            "tags": ["Strategy", "Management", "Simulation"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/294100/header.jpg",
+            "description": "A sci-fi colony simulation strategy game where you manage survivors on a distant world.",
+            "link": "https://store.steampowered.com/app/294100/RimWorld/"
+        },
+        {
+            "name": "The Settlers 2: 10th Anniversary",
+            "tags": ["Strategy", "Management", "Simulation"],
+            "image": "",
+            "description": "A classic real-time strategy game about building and managing a medieval settlement.",
+            "link": ""
+        },
+        {
+            "name": "The Guild: Europa 1410",
+            "tags": ["Strategy", "Management", "Simulation"],
+            "image": "",
+            "description": "A medieval simulation strategy game where you build a dynasty and run a business.",
+            "link": ""
+        },
+        {
+            "name": "Manor Lords",
+            "tags": ["Strategy", "Management", "Simulation"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1363080/header.jpg",
+            "description": "A medieval city-building strategy game with detailed and realistic management mechanics.",
+            "link": "https://store.steampowered.com/app/1363080/Manor_Lords/"
+        },
+        {
+            "name": "Workers & Resources: Soviet Republic",
+            "tags": ["Strategy", "Management", "Simulation"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/784150/header.jpg",
+            "description": "A complex city-building strategy game set in a Soviet-themed republic with realistic logistics.",
+            "link": "https://store.steampowered.com/app/784150/Workers__Resources_Soviet_Republic/"
+        },
+        {
+            "name": "Cities: Skylines",
+            "tags": ["Strategy", "Management", "Simulation"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/255710/header.jpg",
+            "description": "A modern city-building simulation game with deep management and traffic systems.",
+            "link": ""
+        },
+        {
+            "name": "Dyson Sphere Program",
+            "tags": ["Strategy", "Management", "Simulation"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1366540/header.jpg",
+            "description": "A space simulation strategy game where you build a megastructure around a star.",
+            "link": ""
+        },
+        {
+            "name": "Coral Island",
+            "tags": ["Farming", "Life Simulation", "Adventure"],
+            "image": "",
+            "description": "A tropical farming simulation game with underwater exploration and community building.",
+            "link": ""
+        },
+        {
+            "name": "Astroneer",
+            "tags": ["Adventure", "Exploration", "Simulation"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/361420/header.jpg",
+            "description": "A space exploration and survival game where you terraform planets and build bases.",
+            "link": ""
+        },
+        {
+            "name": "Bloomwalker",
+            "tags": ["Adventure", "Exploration", "Wholesome"],
+            "image": "",
+            "description": "An upcoming adventure game with Ghibli-inspired art style, focusing on exploration and discovery.",
+            "link": ""
+        },
+        {
+            "name": "Core Keeper",
+            "tags": ["Adventure", "Exploration", "Survival"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1621690/header.jpg",
+            "description": "A sandbox survival adventure game where you explore a procedurally generated underground world.",
+            "link": ""
+        },
+        {
+            "name": "Gangland",
+            "tags": ["Strategy", "RPG", "Simulation"],
+            "image": "",
+            "description": "A unique blend of SIM, RPG, and RTS where you manage a gang in a criminal underworld.",
+            "link": ""
+        },
+        {
+            "name": "Space Engineers 1 & 2",
+            "tags": ["Simulation", "Strategy", "Management"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/244850/header.jpg",
+            "description": "A space engineering simulation game where you build, fly, and explore spacecraft and bases.",
+            "link": ""
+        },
+        {
+            "name": "The Long Dark",
+            "tags": ["Adventure", "Survival", "Exploration"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/305620/header.jpg",
+            "description": "A first-person survival adventure game set in a quiet, frozen post-apocalyptic wilderness.",
+            "link": ""
+        },
+        {
+            "name": "Days Gone",
+            "tags": ["Adventure", "Horror", "Survival"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1259420/header.jpg",
+            "description": "A third-person action-adventure game set in a post-apocalyptic open world overrun by zombies.",
+            "link": ""
+        },
+        {
+            "name": "Enshrouded!",
+            "tags": ["Adventure", "Survival", "Exploration"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1203620/header.jpg",
+            "description": "A survival RPG set in a vast, voxel-based world where you battle monsters and uncover secrets.",
+            "link": ""
+        },
+        {
+            "name": "Vintage Story",
+            "tags": ["Adventure", "Survival", "Simulation"],
+            "image": "",
+            "description": "A sandbox survival simulation game with a focus on crafting and exploration.",
+            "link": ""
+        },
+        {
+            "name": "VALHEIM!",
+            "tags": ["Adventure", "Survival", "Exploration"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/892970/header.jpg",
+            "description": "A Viking-inspired survival adventure game where you build, explore, and fight mythical creatures.",
+            "link": ""
+        },
+        {
+            "name": "Graveyard Keeper 1 & 2",
+            "tags": ["Management", "Simulation", "Adventure"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/599140/header.jpg",
+            "description": "A dark and humorous management simulation game where you run a medieval graveyard.",
+            "link": ""
+        },
+        {
+            "name": "Medieval Dynasty",
+            "tags": ["Strategy", "Management", "Simulation"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1129580/header.jpg",
+            "description": "A medieval simulation game where you build a dynasty, manage a village, and survive in the wilderness.",
+            "link": "https://www.youtube.com/watch?v=Zu6izpEnirs&list=TLPQMTkwNTIwMjahcdZDidWaeQ&index=8"
+        },
+        {
+            "name": "DuneCrawl",
+            "tags": ["Adventure", "Exploration", "Strategy"],
+            "image": "",
+            "description": "An upcoming adventure strategy game set in a desert world, inspired by classic Dune lore.",
+            "link": ""
+        },
+        {
+            "name": "Starbound",
+            "tags": ["Adventure", "Exploration", "Simulation"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/211820/header.jpg",
+            "description": "A sandbox adventure game where you explore procedurally generated planets and build colonies.",
+            "link": ""
+        },
+
+
+
+
+
+        {
+            "name": "High on Life",
+            "tags": ["Adventure", "Shooter", "Sci-Fi"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1583230/header.jpg",
+            "description": "A first-person shooter adventure where you use living, talking alien guns to save the galaxy.",
+            "link": ""
+        },
+        {
+            "name": "Bodycam",
+            "tags": ["Shooter", "Horror", "Simulation"],
+            "image": "",
+            "description": "A first-person shooter with a unique body-cam perspective, focusing on realistic tactical combat.",
+            "link": ""
+        },
+        {
+            "name": "Enshrouded!",
+            "tags": ["Adventure", "Survival", "Exploration"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1203620/header.jpg",
+            "description": "A survival RPG set in a vast, voxel-based world where you battle monsters and uncover secrets.",
+            "link": ""
+        },
+        {
+            "name": "Batman: Arkham City",
+            "tags": ["Adventure", "Action", "Exploration"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/200260/header.jpg",
+            "description": "An open-world action-adventure game where you play as Batman in a sprawling prison-city.",
+            "link": ""
+        },
+        {
+            "name": "Batman™: Arkham Knight",
+            "tags": ["Adventure", "Action", "Exploration"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/208650/header.jpg",
+            "description": "The epic conclusion to the Arkham series, featuring Batman's final battle against the Scarecrow.",
+            "link": ""
+        },
+        {
+            "name": "LEGO® Batman™: Legacy of the Dark Knight",
+            "tags": ["Adventure", "Platformer", "Puzzle"],
+            "image": "",
+            "description": "A LEGO adventure game featuring Batman and his allies in a humorous, puzzle-filled journey.",
+            "link": ""
+        },
+        {
+            "name": "Mortal Shell I & II",
+            "tags": ["Adventure", "RPG", "Horror"],
+            "image": "",
+            "description": "A souls-like action RPG where you possess fallen warriors and fight through a dark, twisted world.",
+            "link": ""
+        },
+        {
+            "name": "Baldur’s Gate 3",
+            "tags": ["RPG", "Adventure"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1086940/header.jpg",
+            "description": "A deep, story-driven RPG set in the Dungeons & Dragons universe with turn-based combat.",
+            "link": ""
+        },
+        {
+            "name": "Uncharted 4",
+            "tags": ["Adventure", "Exploration", "Action"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1659420/header.jpg",
+            "description": "A cinematic action-adventure game where treasure hunter Nathan Drake embarks on a globe-trotting quest.",
+            "link": ""
+        },
+        {
+            "name": "The Suffering",
+            "tags": ["Adventure", "Horror", "Survival"],
+            "image": "",
+            "description": "A psychological horror action game where a prisoner must survive monstrous creatures on a prison island.",
+            "link": ""
+        },
+        {
+            "name": "Ratchet and Clank Future (2007)",
+            "tags": ["Adventure", "Platformer", "Action"],
+            "image": "",
+            "description": "A classic 3D platformer adventure featuring the duo of Ratchet and Clank in a futuristic galaxy.",
+            "link": ""
+        },
+        {
+            "name": "Routin",
+            "tags": ["Adventure", "Puzzle", "Horror"],
+            "image": "",
+            "description": "A first-person puzzle-adventure game set in a surreal, dreamlike world.",
+            "link": ""
+        },
+        {
+            "name": "My Friend Pedro",
+            "tags": ["Adventure", "Action", "Platformer"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/557340/header.jpg",
+            "description": "A stylish action-platformer where you use physics and slow-motion to take down enemies.",
+            "link": ""
+        },
+        {
+            "name": "Manhunt 1 & 2",
+            "tags": ["Adventure", "Horror", "Survival"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/12130/header.jpg",
+            "description": "A gritty stealth-action game where you survive by executing brutal takedowns in a violent city.",
+            "link": ""
+        },
+        {
+            "name": "Brutal Legend",
+            "tags": ["Adventure", "Action"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/225260/header.jpg",
+            "description": "A heavy metal-themed action-adventure game where you battle demons with a guitar and axe.",
+            "link": ""
+        },
+        {
+            "name": "Toy Soldiers: Cold War",
+            "tags": ["Strategy", "Simulation", "Action"],
+            "image": "",
+            "description": "A toy-based strategy game where you control military miniatures in a Cold War setting.",
+            "link": ""
+        },
+        {
+            "name": "Toy Soldiers: War Chest",
+            "tags": ["Strategy", "Simulation", "Action"],
+            "image": "",
+            "description": "A strategy game where you command various toy armies, including classic and fantasy factions.",
+            "link": ""
+        },
+        {
+            "name": "Toy Soldiers: HD",
+            "tags": ["Strategy", "Simulation", "Action"],
+            "image": "",
+            "description": "A remastered version of the classic toy army strategy game with improved visuals.",
+            "link": ""
+        },
+        {
+            "name": "Titanfall 2",
+            "tags": ["Adventure", "Shooter", "Action"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1237970/header.jpg",
+            "description": "A fast-paced first-person shooter with wall-running and giant mechs, featuring a great single-player campaign.",
+            "link": ""
+        },
+        {
+            "name": "Clockwork Revolution",
+            "tags": ["Adventure", "RPG", "Exploration"],
+            "image": "",
+            "description": "An upcoming steampunk-themed action RPG set in a city where time is a weapon.",
+            "link": ""
+        },
+        {
+            "name": "Spider-Man 2",
+            "tags": ["Adventure", "Action", "Exploration"],
+            "image": "",
+            "description": "An open-world action-adventure game where you swing through New York as both Peter Parker and Miles Morales.",
+            "link": ""
+        },
+        {
+            "name": "The Last of Us 1 & 2",
+            "tags": ["Adventure", "Horror", "Survival"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1888930/header.jpg",
+            "description": "A post-apocalyptic survival adventure game with a gripping story and intense stealth-action combat.",
+            "link": ""
+        },
+        {
+            "name": "Dishonored: Definitive Edition & 2",
+            "tags": ["Adventure", "Action", "Stealth"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/205100/header.jpg",
+            "description": "A first-person stealth-action game where you use supernatural abilities to assassinate targets in a plague-ridden city.",
+            "link": ""
+        },
+        {
+            "name": "Ghost of Tsushima",
+            "tags": ["Adventure", "Action", "Exploration"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/2215430/header.jpg",
+            "description": "An open-world action-adventure game set in feudal Japan, where you fight as a samurai against Mongol invaders.",
+            "link": ""
+        },
+        {
+            "name": "Darksiders II",
+            "tags": ["Adventure", "Action", "RPG"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/50650/header.jpg",
+            "description": "An action RPG where you play as Death, one of the Four Horsemen, in a dark fantasy world.",
+            "link": ""
+        },
+        {
+            "name": "Hades 1 & 2",
+            "tags": ["Adventure", "Action", "RPG"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1145360/header.jpg",
+            "description": "A rogue-like action RPG where you battle through the underworld as the son of Hades.",
+            "link": ""
+        },
+        {
+            "name": "Mouse P.I for Hire",
+            "tags": ["Adventure", "Shooter", "Exploration"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/2416450/header.jpg",
+            "description": "A noir-inspired FPS set in a rubber hose animation style, where you play as a mouse detective.",
+            "link": "https://store.steampowered.com/app/2416450/MOUSE_PI_For_Hire/"
+        },
+        {
+            "name": "Scorn",
+            "tags": ["Adventure", "Horror", "Puzzle"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/698670/header.jpg",
+            "description": "A first-person horror adventure set in a nightmarish world inspired by H.R. Giger's art.",
+            "link": ""
+        },
+        {
+            "name": "Lies of P",
+            "tags": ["Adventure", "RPG", "Horror"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1627720/header.jpg",
+            "description": "A souls-like action RPG where you play as Pinocchio in a dark, twisted world of puppets.",
+            "link": ""
+        },
+        {
+            "name": "Judas",
+            "tags": ["Adventure", "Shooter", "Sci-Fi"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/388860/header.jpg",
+            "description": "An upcoming narrative-driven first-person shooter from the creator of Bioshock, set in a space colony.",
+            "link": "https://store.steampowered.com/app/388860/Judas/"
+        },
+        {
+            "name": "Saros",
+            "tags": ["Adventure", "Shooter", "Sci-Fi"],
+            "image": "",
+            "description": "An upcoming sci-fi action game from Housemarque, described as a spiritual successor to Returnal.",
+            "link": "https://housemarque.com/games/saros"
+        },
+        {
+            "name": "Returnal™",
+            "tags": ["Adventure", "Shooter", "Horror"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1649240/header.jpg",
+            "description": "A roguelike third-person shooter where you fight to survive on a hostile alien planet.",
+            "link": "https://store.steampowered.com/app/1649240/Returnal/"
+        },
+        {
+            "name": "Dead Cells",
+            "tags": ["Adventure", "Platformer", "RPG"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/588650/header.jpg",
+            "description": "A rogue-like action-platformer with fast-paced combat and procedurally generated levels.",
+            "link": ""
+        },
+        {
+            "name": "Lost in Random",
+            "tags": ["Adventure", "Action"],
+            "image": "",
+            "description": "A gothic fairy-tale adventure game with dice-based combat and a unique art style.",
+            "link": ""
+        },
+        {
+            "name": "Suit For Hire",
+            "tags": ["Adventure", "Action", "Shooter"],
+            "image": "",
+            "description": "An action game where you play as a hitman with a stylish suit and quick reflexes.",
+            "link": ""
+        },
+        {
+            "name": "Diablo II: Resurrected",
+            "tags": ["Adventure", "RPG", "Action"],
+            "image": "",
+            "description": "A remastered version of the classic action RPG, featuring improved visuals and modernized gameplay.",
+            "link": ""
+        },
+        {
+            "name": "Pathfinder: Wrath of the Righteous",
+            "tags": ["RPG", "Adventure"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1184370/header.jpg",
+            "description": "A deep, story-driven RPG with turn-based combat, set in the Pathfinder universe.",
+            "link": ""
+        },
+        {
+            "name": "Tyranny",
+            "tags": ["RPG", "Adventure"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/362960/header.jpg",
+            "description": "An isometric RPG where you play as a servant of an evil overlord in a world conquered by evil.",
+            "link": ""
+        },
+        {
+            "name": "Divinity: Original Sin II",
+            "tags": ["RPG", "Adventure"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/435150/header.jpg",
+            "description": "A critically acclaimed turn-based RPG with deep tactical combat and rich storytelling.",
+            "link": ""
+        },
+        {
+            "name": "R.E.P.O.",
+            "tags": ["Adventure", "Horror", "Survival"],
+            "image": "",
+            "description": "An early access survival horror game where you can play solo or with friends in a grim world.",
+            "link": ""
+        },
+        {
+            "name": "Tacoma",
+            "tags": ["Adventure", "Narrative", "Exploration"],
+            "image": "",
+            "description": "A first-person narrative adventure where you investigate a space station's crew, playing detective.",
+            "link": "https://www.youtube.com/watch?v=7OJbtED_6Hw"
+        },
+        {
+            "name": "What Remains of Edith Finch",
+            "tags": ["Adventure", "Narrative", "Exploration"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/501300/header.jpg",
+            "description": "A first-person narrative adventure exploring the haunting stories of a cursed family.",
+            "link": "https://www.youtube.com/watch?v=MYO_3hWPoqA"
+        },
+        {
+            "name": "Hell Let Loose",
+            "tags": ["Shooter", "Simulation"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/686810/header.jpg",
+            "description": "A realistic World War II tactical shooter with large-scale battles and team-based strategy.",
+            "link": "https://store.steampowered.com/app/686810/Hell_Let_Loose/"
+        },
+        {
+            "name": "Portals 1 & 2 & VR",
+            "tags": ["Adventure", "Puzzle", "Sci-Fi"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/400/header.jpg",
+            "description": "A revolutionary puzzle platformer where you use a portal gun to solve physics-based challenges.",
+            "link": ""
+        },
+        {
+            "name": "Babbdi",
+            "tags": ["Adventure", "Exploration", "Puzzle"],
+            "image": "",
+            "description": "A first-person exploration game set in a surreal, dreamlike city filled with secrets.",
+            "link": ""
+        },
+        {
+            "name": "Pacific Drive",
+            "tags": ["Adventure", "Survival", "Exploration"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1458140/header.jpg",
+            "description": "A survival game where you drive through a hostile, anomaly-filled Pacific Northwest forest.",
+            "link": ""
+        },
+        {
+            "name": "Firewatch",
+            "tags": ["Adventure", "Narrative", "Exploration"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/383870/header.jpg",
+            "description": "A first-person mystery adventure set in the Wyoming wilderness, where you work as a fire lookout.",
+            "link": ""
+        },
+        {
+            "name": "WILL: Follow The Light",
+            "tags": ["Adventure", "Puzzle", "Exploration"],
+            "image": "",
+            "description": "A first-person puzzle adventure about guiding a light through a mysterious world.",
+            "link": ""
+        },
+        {
+            "name": "The Outer Worlds 1 & 2",
+            "tags": ["RPG", "Adventure", "Sci-Fi"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/578650/header.jpg",
+            "description": "An open-world RPG set in a dystopian space colony, with deep choices and character customization.",
+            "link": ""
+        },
+        {
+            "name": "Outer Wilds 1 & 2",
+            "tags": ["Adventure", "Exploration", "Puzzle"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/753640/header.jpg",
+            "description": "A mystery exploration game set in a time-looping solar system, where you uncover ancient secrets.",
+            "link": ""
+        },
+        {
+            "name": "Digital Combat Simulator World (DCS)",
+            "tags": ["Simulation", "Action"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/223750/header.jpg",
+            "description": "A highly realistic flight combat simulation game with detailed aircraft and systems.",
+            "link": ""
+        },
+        {
+            "name": "Kingdom Come Deliverance 1 & 2",
+            "tags": ["RPG", "Adventure", "Simulation"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/379430/header.jpg",
+            "description": "A historical open-world RPG set in medieval Bohemia, with realistic combat and survival mechanics.",
+            "link": ""
+        },
+        {
+            "name": "Alien: Isolation",
+            "tags": ["Adventure", "Horror", "Survival"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/214490/header.jpg",
+            "description": "A first-person survival horror game where you face a single, relentless Xenomorph on a space station.",
+            "link": ""
+        },
+
+
+
+
+        {
+            "name": "SIGNALIS",
+            "tags": ["Adventure", "Horror", "Puzzle"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1262350/header.jpg",
+            "description": "A sci-fi survival horror game with classic fixed-camera angles and a deep, atmospheric story.",
+            "link": ""
+        },
+        {
+            "name": "Grounded: Fully Yaked Edition",
+            "tags": ["Adventure", "Survival", "Exploration"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/962130/header.jpg",
+            "description": "A co-op survival adventure where you are shrunk to the size of an ant and must survive in a backyard.",
+            "link": ""
+        },
+        {
+            "name": "Grounded 2",
+            "tags": ["Adventure", "Survival", "Exploration"],
+            "image": "",
+            "description": "The sequel to the popular backyard survival adventure game.",
+            "link": ""
+        },
+        {
+            "name": "Disco Elysium",
+            "tags": ["RPG", "Adventure", "Narrative"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/632470/header.jpg",
+            "description": "A groundbreaking open-world RPG where you play as a detective with a unique skill system and no combat.",
+            "link": ""
+        },
+        {
+            "name": "Undertale",
+            "tags": ["RPG", "Adventure", "Wholesome"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/391540/header.jpg",
+            "description": "A beloved RPG where you can choose to spare enemies instead of fighting, with a heartfelt story.",
+            "link": ""
+        },
+        {
+            "name": "DELTARUNE",
+            "tags": ["RPG", "Adventure", "Wholesome"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1671210/header.jpg",
+            "description": "An RPG adventure from the creator of Undertale, featuring turn-based combat and charming characters.",
+            "link": ""
+        },
+        {
+            "name": "In Stars And Time",
+            "tags": ["RPG", "Adventure", "Puzzle"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1677310/header.jpg",
+            "description": "A turn-based RPG where you're stuck in a time loop and must uncover the truth behind your journey.",
+            "link": ""
+        },
+        {
+            "name": "DAVE THE DIVER",
+            "tags": ["Adventure", "Exploration", "Simulation"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1868140/header.jpg",
+            "description": "A charming adventure game where you dive for fish during the day and run a sushi restaurant at night.",
+            "link": ""
+        },
+        {
+            "name": "Replaced",
+            "tags": ["Adventure", "Platformer", "Sci-Fi"],
+            "image": "",
+            "description": "A dystopian sci-fi action-platformer with beautiful pixel art, releasing March 12th.",
+            "link": ""
+        },
+        {
+            "name": "Teardown",
+            "tags": ["Adventure", "Action", "Puzzle"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1167630/header.jpg",
+            "description": "A voxel-based heist game where you can destroy anything to plan your escape.",
+            "link": ""
+        },
+        {
+            "name": "The Drifter",
+            "tags": ["Adventure", "Puzzle", "Narrative"],
+            "image": "",
+            "description": "A pixel art adventure game where you uncover a mysterious story through exploration and puzzles.",
+            "link": ""
+        },
+        {
+            "name": "Recur",
+            "tags": ["Adventure", "Platformer", "Puzzle"],
+            "image": "",
+            "description": "A platformer puzzle game with time manipulation mechanics, where you control time to solve challenges.",
+            "link": ""
+        },
+        {
+            "name": "Elroy and the Aliens",
+            "tags": ["Adventure", "Puzzle", "Exploration"],
+            "image": "",
+            "description": "A point-and-click adventure game where you help Elroy communicate with aliens.",
+            "link": ""
+        },
+        {
+            "name": "HUNGER",
+            "tags": ["Adventure", "Horror", "Puzzle"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1752080/header.jpg",
+            "description": "A psychological horror adventure game where you navigate a dark, surreal world.",
+            "link": "https://store.steampowered.com/app/1752080/HUNGER/"
+        },
+        {
+            "name": "East Ward",
+            "tags": ["RPG", "Adventure", "Horror"],
+            "image": "",
+            "description": "A pixel art RPG set in a dark fantasy world with deep storytelling and exploration.",
+            "link": ""
+        },
+        {
+            "name": "Exanima",
+            "tags": ["Adventure", "RPG", "Horror"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/362490/header.jpg",
+            "description": "A unique physics-based action RPG with a dark, atmospheric dungeon and realistic combat.",
+            "link": ""
+        },
+        {
+            "name": "Tom and Jerry in Fists of Furry",
+            "tags": ["Adventure", "Action", "Platformer"],
+            "image": "",
+            "description": "A classic action game featuring Tom and Jerry in a chaotic fighting adventure.",
+            "link": "https://www.myabandonware.com/game/tom-and-jerry-in-fists-of-furry-bar"
+        },
+        {
+            "name": "Sonic Heroes",
+            "tags": ["Adventure", "Action", "Platformer"],
+            "image": "",
+            "description": "A classic 3D platformer where you control teams of Sonic characters in fast-paced levels.",
+            "link": "https://www.myabandonware.com/game/sonic-heroes-cm5#download"
+        },
+        {
+            "name": "TMNT 2007",
+            "tags": ["Adventure", "Action", "Platformer"],
+            "image": "",
+            "description": "A Teenage Mutant Ninja Turtles action game based on the 2007 film.",
+            "link": "https://www.myabandonware.com/game/tmnt-e7d"
+        },
+        {
+            "name": "TMNT: Mutant Melee",
+            "tags": ["Adventure", "Action", "Platformer"],
+            "image": "",
+            "description": "A fighting game featuring the Teenage Mutant Ninja Turtles in chaotic multiplayer battles.",
+            "link": "https://www.myabandonware.com/game/tmnt-mutant-melee-loc"
+        },
+        {
+            "name": "Teenage Mutant Ninja Turtles 2: Battle Nexus",
+            "tags": ["Adventure", "Action", "Platformer"],
+            "image": "",
+            "description": "A 3D platformer where you control the Teenage Mutant Ninja Turtles through time and space.",
+            "link": "https://www.myabandonware.com/game/teenage-mutant-ninja-turtles-2-battle-nexus-ip8"
+        },
+        {
+            "name": "Teenage Mutant Ninja Turtles",
+            "tags": ["Adventure", "Action", "Platformer"],
+            "image": "",
+            "description": "A classic Teenage Mutant Ninja Turtles beat 'em up adventure game.",
+            "link": "https://www.myabandonware.com/game/teenage-mutant-ninja-turtles-e7c"
+        },
+        {
+            "name": "Noita",
+            "tags": ["Adventure", "Action", "Puzzle"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/881100/header.jpg",
+            "description": "A roguelike action game where every pixel is simulated and destructible, with magic-based combat.",
+            "link": ""
+        },
+        {
+            "name": "Blasphemous 1 & 2",
+            "tags": ["Adventure", "Platformer", "Horror"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/774361/header.jpg",
+            "description": "A brutal action-platformer with dark religious themes and punishing combat.",
+            "link": ""
+        },
+        {
+            "name": "Ware of Mine",
+            "tags": ["Adventure", "Horror", "Survival"],
+            "image": "",
+            "description": "A horror survival game set in a mysterious location with intense atmosphere.",
+            "link": ""
+        },
+        {
+            "name": "Dead Format",
+            "tags": ["Adventure", "Horror", "Puzzle"],
+            "image": "",
+            "description": "A horror game that combines retro aesthetics with psychological scares.",
+            "link": "https://youtube.com/shorts/kExCze7qVWM"
+        },
+        {
+            "name": "TOEM: A Photo Adventure",
+            "tags": ["Adventure", "Exploration", "Wholesome"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1303180/header.jpg",
+            "description": "A heartwarming adventure where you explore the world and take photos with your camera.",
+            "link": ""
+        },
+        {
+            "name": "South of Midnight",
+            "tags": ["Adventure", "Narrative", "Exploration"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1934570/header.jpg",
+            "description": "A magical adventure game set in the American South, blending folklore and mystery.",
+            "link": "https://store.steampowered.com/app/1934570/South_of_Midnight/"
+        },
+        {
+            "name": "Kingdom Hearts Series",
+            "tags": ["Adventure", "RPG", "Action"],
+            "image": "",
+            "description": "A magical action RPG series that combines Disney worlds with Final Fantasy characters.",
+            "link": ""
+        },
+        {
+            "name": "Valiant Hearts: The Great War",
+            "tags": ["Adventure", "Puzzle", "Narrative"],
+            "image": "",
+            "description": "A heartfelt puzzle-adventure game set during World War I, following multiple characters' stories.",
+            "link": ""
+        },
+        {
+            "name": "Kingdom of Night",
+            "tags": ["Adventure", "RPG", "Horror"],
+            "image": "",
+            "description": "A dark fantasy RPG set in a world of eternal night, with deep combat and storytelling.",
+            "link": ""
+        },
+        {
+            "name": "C-Beams",
+            "tags": ["Adventure", "Simulation", "Sci-Fi"],
+            "image": "",
+            "description": "A sci-fi adventure simulation game set in a futuristic world with deep exploration.",
+            "link": ""
+        },
+        {
+            "name": "Beholder",
+            "tags": ["Adventure", "Simulation", "Narrative"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/475550/header.jpg",
+            "description": "A dystopian simulation game where you play as a landlord spying on tenants in a totalitarian state.",
+            "link": "https://store.steampowered.com/app/475550/Beholder/"
+        },
+        {
+            "name": "Rue Valley",
+            "tags": ["Adventure", "Horror", "Puzzle"],
+            "image": "",
+            "description": "A psychological horror adventure with atmospheric exploration and mind-bending puzzles.",
+            "link": ""
+        },
+        {
+            "name": "Terraria",
+            "tags": ["Adventure", "Exploration", "Sandbox"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/105600/header.jpg",
+            "description": "A sandbox adventure game where you explore, build, and fight in a pixelated 2D world.",
+            "link": ""
+        },
+        {
+            "name": "Chef RPG",
+            "tags": ["Adventure", "RPG", "Simulation"],
+            "image": "",
+            "description": "A life simulation RPG where you run a restaurant in a pixel art world, cooking and adventuring.",
+            "link": ""
+        },
+        {
+            "name": "The Forest",
+            "tags": ["Adventure", "Survival", "Horror"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/242760/header.jpg",
+            "description": "A co-op survival horror game where you crash-land on a cannibal-infested island.",
+            "link": ""
+        },
+        {
+            "name": "Sons of the Forest",
+            "tags": ["Adventure", "Survival", "Horror"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1326470/header.jpg",
+            "description": "The sequel to The Forest, with improved survival mechanics and a larger open world.",
+            "link": ""
+        },
+        {
+            "name": "Voices of the Void",
+            "tags": ["Adventure", "Simulation", "Horror", "Mystery"],
+            "image": "",
+            "description": "A work-simulator horror game where you monitor space signals and encounter unsettling events.",
+            "link": ""
+        },
+
+
+
+
+
+        {
+            "name": "Zelda: Tears of the Kingdom",
+            "tags": ["Adventure", "Action", "Exploration"],
+            "image": "",
+            "description": "A groundbreaking Nintendo Switch exclusive where you explore a vast sky and underground world with new building mechanics.",
+            "link": ""
+        },
+        {
+            "name": "Watch Dogs 1 & 2",
+            "tags": ["Adventure", "Action", "Exploration"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/243470/header.jpg",
+            "description": "An open-world hacking adventure where you control the city's infrastructure to fight crime and corruption.",
+            "link": ""
+        },
+        {
+            "name": "Saints Row 3 & 4",
+            "tags": ["Adventure", "Action", "Simulation"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/55230/header.jpg",
+            "description": "An over-the-top open-world action game where you lead a gang and fight against rival factions with absurd weapons.",
+            "link": ""
+        },
+        {
+            "name": "Oblivion",
+            "tags": ["RPG", "Adventure", "Legendary"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/22330/header.jpg",
+            "description": "A classic open-world RPG set in Cyrodiil, where you must stop the daedric invasion of Tamriel.",
+            "link": ""
+        },
+        {
+            "name": "Bioshock Series",
+            "tags": ["Adventure", "Shooter", "Sci-Fi"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/7670/header.jpg",
+            "description": "A narrative-driven first-person shooter set in the underwater city of Rapture, with philosophical themes.",
+            "link": ""
+        },
+        {
+            "name": "Far Cry Primal",
+            "tags": ["Adventure", "Action", "Survival"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/371660/header.jpg",
+            "description": "An open-world adventure set in the prehistoric era, where you survive and fight as a hunter-gatherer.",
+            "link": ""
+        },
+        {
+            "name": "Serious Sam 3 BFE",
+            "tags": ["Adventure", "Action", "Shooter"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/41070/header.jpg",
+            "description": "A classic first-person shooter with hordes of enemies and over-the-top action.",
+            "link": ""
+        },
+        {
+            "name": "Dying Light 1",
+            "tags": ["Adventure", "Horror", "Survival"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/239140/header.jpg",
+            "description": "A parkour-based survival horror game in a zombie-infested open world.",
+            "link": ""
+        },
+        {
+            "name": "Gears of War 2",
+            "tags": ["Adventure", "Action", "Shooter"],
+            "image": "",
+            "description": "A third-person shooter where you fight against the Locust Horde in a desperate war for humanity.",
+            "link": ""
+        },
+        {
+            "name": "Dead Space Series",
+            "tags": ["Adventure", "Horror", "Survival"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/17470/header.jpg",
+            "description": "A sci-fi survival horror series where you fight necromorphs in a derelict space station.",
+            "link": ""
+        },
+        {
+            "name": "Hitman: World of Assassins",
+            "tags": ["Adventure", "Action", "Stealth"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1659040/header.jpg",
+            "description": "A stealth-action game where you take on assassination contracts in detailed sandbox levels.",
+            "link": ""
+        },
+        {
+            "name": "Forza Horizon",
+            "tags": ["Simulation", "Action", "Exploration"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1551360/header.jpg",
+            "description": "An open-world racing game with a vibrant festival setting and realistic driving mechanics.",
+            "link": ""
+        },
+        {
+            "name": "Borderlands 3 & 4",
+            "tags": ["Adventure", "Shooter", "RPG"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/397540/header.jpg",
+            "description": "A looter-shooter series with cel-shaded art, deep character customization, and chaotic co-op action.",
+            "link": ""
+        },
+        {
+            "name": "The Sims Series",
+            "tags": ["Simulation", "Life Simulation", "Wholesome"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1222670/header.jpg",
+            "description": "A life simulation game where you create and control characters, building homes and relationships.",
+            "link": ""
+        },
+        {
+            "name": "Half Life 2",
+            "tags": ["Adventure", "Shooter", "Sci-Fi"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/220/header.jpg",
+            "description": "A groundbreaking first-person shooter with a gripping story and physics-based puzzles.",
+            "link": ""
+        },
+        {
+            "name": "Sekiro: Shadows Die Twice",
+            "tags": ["Adventure", "Action", "RPG"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/814380/header.jpg",
+            "description": "A challenging action-adventure set in feudal Japan, where you play as a shinobi seeking revenge.",
+            "link": ""
+        },
+        {
+            "name": "GTA Series",
+            "tags": ["Adventure", "Action", "Legendary"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/271590/header.jpg",
+            "description": "An iconic open-world action series where you explore vast cities and engage in criminal activities.",
+            "link": ""
+        },
+        {
+            "name": "Mafia Series",
+            "tags": ["Adventure", "Action", "Legendary"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/360430/header.jpg",
+            "description": "A story-driven open-world series set in the world of organized crime, with deep narratives.",
+            "link": ""
+        },
+        {
+            "name": "Red Dead Redemption 1 & 2",
+            "tags": ["Adventure", "Action", "Legendary"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1174180/header.jpg",
+            "description": "An epic open-world western series following outlaws in the dying days of the Wild West.",
+            "link": ""
+        },
+        {
+            "name": "Prototype 1 & 2",
+            "tags": ["Adventure", "Action", "Legendary"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/10150/header.jpg",
+            "description": "An action-adventure game where you play as a shape-shifting mutant with devastating powers.",
+            "link": ""
+        },
+        {
+            "name": "The Witcher 3",
+            "tags": ["RPG", "Adventure", "Legendary"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/292030/header.jpg",
+            "description": "A critically acclaimed open-world RPG where you play as Geralt of Rivia, hunting monsters.",
+            "link": ""
+        },
+        {
+            "name": "Cyberpunk 2077",
+            "tags": ["RPG", "Adventure", "Legendary"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1091500/header.jpg",
+            "description": "A sci-fi open-world RPG set in a dystopian future, with deep character customization and branching narratives.",
+            "link": ""
+        },
+        {
+            "name": "Crimson Desert",
+            "tags": ["Adventure", "RPG", "Action"],
+            "image": "",
+            "description": "An upcoming open-world action RPG set in a medieval fantasy world, releasing in 2026.",
+            "link": ""
+        },
+        {
+            "name": "Assassin’s Creed: Black Flag",
+            "tags": ["Adventure", "Action", "Legendary"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/242050/header.jpg",
+            "description": "A swashbuckling open-world adventure where you play as pirate Edward Kenway in the Caribbean.",
+            "link": ""
+        },
+        {
+            "name": "Skyrim",
+            "tags": ["RPG", "Adventure", "Legendary"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/72850/header.jpg",
+            "description": "A legendary open-world RPG set in the frozen land of Skyrim, where you battle dragons and uncover ancient secrets.",
+            "link": ""
+        },
+        {
+            "name": "Elden Ring",
+            "tags": ["RPG", "Adventure", "Legendary"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1245620/header.jpg",
+            "description": "A massive open-world action RPG with challenging combat and deep exploration.",
+            "link": ""
+        },
+        {
+            "name": "The Elder Scrolls Series: Oblivion & Morrowind",
+            "tags": ["RPG", "Adventure", "Legendary"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/22330/header.jpg",
+            "description": "The classic open-world RPG series set in the continent of Tamriel, known for deep lore and exploration.",
+            "link": ""
+        },
+        {
+            "name": "The Last of Us 1 & 2",
+            "tags": ["Adventure", "Horror", "Legendary"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1888930/header.jpg",
+            "description": "A post-apocalyptic survival adventure game with a gripping story and intense stealth-action combat.",
+            "link": ""
+        },
+        {
+            "name": "Dark Souls Series",
+            "tags": ["RPG", "Adventure", "Legendary"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/211420/header.jpg",
+            "description": "A legendary action RPG series known for its punishing difficulty, deep combat, and atmospheric world-building.",
+            "link": ""
+        },
+        {
+            "name": "Bloodborne",
+            "tags": ["RPG", "Adventure", "Legendary"],
+            "image": "",
+            "description": "A gothic action RPG from the creators of Dark Souls, set in a cursed city with fast-paced combat.",
+            "link": ""
+        },
+        {
+            "name": "Battlefield Series",
+            "tags": ["Shooter", "Action", "Legendary"],
+            "image": "",
+            "description": "A legendary first-person shooter series known for large-scale battles and destructible environments.",
+            "link": ""
+        },
+        {
+            "name": "Kingdom Hearts Series",
+            "tags": ["Adventure", "RPG", "Legendary"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/15920/header.jpg",
+            "description": "A magical action RPG series that combines Disney worlds with Final Fantasy characters.",
+            "link": ""
+        },
+        {
+            "name": "God of War 2018",
+            "tags": ["Adventure", "Action", "Legendary"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1593500/header.jpg",
+            "description": "A legendary action-adventure game where Kratos embarks on a journey through Norse mythology.",
+            "link": ""
+        },
+        {
+            "name": "A Plague Tale: Innocence",
+            "tags": ["Adventure", "Narrative", "Stealth"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/752590/header.jpg",
+            "description": "A narrative-driven adventure game where you guide siblings through a plague-ridden medieval France.",
+            "link": ""
+        },
+        {
+            "name": "Harry Potter: Hogwarts Legacy",
+            "tags": ["Adventure", "RPG", "Exploration"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/990080/header.jpg",
+            "description": "An immersive open-world RPG set in the Harry Potter universe, where you attend Hogwarts School.",
+            "link": ""
+        },
+        {
+            "name": "Horizon Zero Dawn",
+            "tags": ["Adventure", "Action", "Exploration"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1151640/header.jpg",
+            "description": "A post-apocalyptic open-world game where you hunt robotic creatures as a skilled archer.",
+            "link": ""
+        },
+
+
+
+
+
+
+        {
+            "name": "Robots",
+            "tags": ["Adventure", "Action", "Movie-based"],
+            "image": "",
+            "description": "A movie-based action adventure game where you play as Rodney Copperbottom in a robot world.",
+            "link": ""
+        },
+        {
+            "name": "Bee Movie Game",
+            "tags": ["Adventure", "Action", "Movie-based"],
+            "image": "",
+            "description": "A movie-based adventure game where you play as Barry B. Benson in the world of bees.",
+            "link": ""
+        },
+        {
+            "name": "Cars 2: The Game",
+            "tags": ["Adventure", "Action", "Movie-based"],
+            "image": "",
+            "description": "A movie-based racing adventure game featuring characters from the Cars franchise.",
+            "link": ""
+        },
+        {
+            "name": "Toy Story 3: The Game",
+            "tags": ["Adventure", "Action", "Movie-based"],
+            "image": "",
+            "description": "A movie-based action adventure game where you play as Woody and Buzz in a toy world.",
+            "link": ""
+        },
+        {
+            "name": "Chicken Run",
+            "tags": ["Adventure", "Puzzle", "Movie-based"],
+            "image": "",
+            "description": "A movie-based puzzle adventure game where you help the chickens escape the farm.",
+            "link": ""
+        },
+        {
+            "name": "Shrek Super Slam",
+            "tags": ["Adventure", "Action", "Movie-based"],
+            "image": "",
+            "description": "A movie-based fighting game featuring characters from the Shrek universe.",
+            "link": ""
+        },
+        {
+            "name": "Sonic Heroes",
+            "tags": ["Adventure", "Action", "Platformer"],
+            "image": "",
+            "description": "A classic 3D platformer where you control teams of Sonic characters in fast-paced levels.",
+            "link": "https://www.myabandonware.com/game/sonic-heroes-cm5#download"
+        },
+        {
+            "name": "Tarzan Game",
+            "tags": ["Adventure", "Platformer", "Movie-based"],
+            "image": "",
+            "description": "A movie-based platformer adventure where you play as Tarzan in the jungle.",
+            "link": ""
+        },
+        {
+            "name": "Disney Infinity Games",
+            "tags": ["Adventure", "Action", "Movie-based"],
+            "image": "",
+            "description": "A movie-based sandbox adventure game featuring characters from Disney and Pixar films.",
+            "link": ""
+        },
+        {
+            "name": "Taz Wanted",
+            "tags": ["Adventure", "Action", "Movie-based"],
+            "image": "",
+            "description": "A movie-based action game where you play as the Tasmanian Devil in a chaotic adventure.",
+            "link": ""
+        },
+        {
+            "name": "How to Train Your Dragon 2010",
+            "tags": ["Adventure", "Action", "Movie-based"],
+            "image": "",
+            "description": "A movie-based adventure game where you train dragons and explore the Viking world.",
+            "link": ""
+        },
+        {
+            "name": "Split Fiction",
+            "tags": ["Adventure", "Platformer", "Puzzle", "Couch Co-op", "Co-op"],
+            "image": "",
+            "description": "A co-op action-adventure game where you travel through different realities with unique mechanics.",
+            "link": ""
+        },
+        {
+            "name": "It Takes Two",
+            "tags": ["Adventure", "Platformer", "Puzzle", "Couch Co-op", "Co-op"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1426210/header.jpg",
+            "description": "A co-op adventure game where two players work together to solve puzzles and overcome challenges.",
+            "link": ""
+        },
+        {
+            "name": "A Way Out",
+            "tags": ["Adventure", "Platformer", "Puzzle", "Couch Co-op", "Co-op"],
+            "image": "",
+            "description": "A co-op adventure game where two players work together to escape the prison.",
+            "link": ""
+        },
+        {
+            "name": "Risk of Rain 2",
+            "tags": ["Adventure", "Shooter", "RPG", "Couch Co-op", "Co-op"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/632360/header.jpg",
+            "description": "A rogue-like third-person shooter with co-op gameplay, where you fight hordes of enemies.",
+            "link": ""
+        },
+        {
+            "name": "Party Animals",
+            "tags": ["Adventure", "Action", "Wholesome", "Co-op"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1260320/header.jpg",
+            "description": "A physics-based party game where cute animals battle and play in chaotic mini-games.",
+            "link": ""
+        },
+        {
+            "name": "Human Fall Flat",
+            "tags": ["Adventure", "Platformer", "Puzzle", "Couch Co-op", "Co-op"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/477160/header.jpg",
+            "description": "A physics-based puzzle platformer where you control a wobbly human in dreamlike worlds.",
+            "link": ""
+        },
+        {
+            "name": "Fall Guys",
+            "tags": ["Adventure", "Action", "Couch Co-op", "Co-op"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/1097150/header.jpg",
+            "description": "A colorful multiplayer party game where you race and battle through obstacle courses.",
+            "link": ""
+        },
+        {
+            "name": "Gang Beasts",
+            "tags": ["Adventure", "Action", "Couch Co-op"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/285900/header.jpg",
+            "description": "A hilarious physics-based fighting game with wobbly characters in chaotic arenas.",
+            "link": ""
+        },
+        {
+            "name": "Final Fantasy XI",
+            "tags": ["RPG", "Adventure", "PS1"],
+            "image": "",
+            "description": "A classic PS1 RPG in the Final Fantasy series with turn-based combat and epic storytelling.",
+            "link": ""
+        },
+        {
+            "name": "Final Fantasy VII",
+            "tags": ["RPG", "Adventure", "PS1"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/39140/header.jpg",
+            "description": "A legendary PS1 RPG with a deep story, unforgettable characters, and iconic turn-based combat.",
+            "link": ""
+        },
+        {
+            "name": "Harry Potter and the Philosopher's Stone",
+            "tags": ["Adventure", "RPG", "PS1"],
+            "image": "",
+            "description": "A classic PS1 adventure game based on the first Harry Potter film, with exploration and spellcasting.",
+            "link": ""
+        },
+        {
+            "name": "Crash Bandicoot",
+            "tags": ["Adventure", "Platformer", "PS1"],
+            "image": "https://steamcdn-a.akamaihd.net/steam/apps/731490/header.jpg",
+            "description": "A classic PS1 platformer where you control Crash through colorful levels to stop Dr. Neo Cortex.",
+            "link": ""
+        },
+        {
+            "name": "Crash Bandicoot 3: Warped",
+            "tags": ["Adventure", "Platformer", "PS1"],
+            "image": "",
+            "description": "A classic PS1 platformer where Crash travels through time to stop the evil Uka Uka.",
+            "link": ""
+        }
+
+
+
+
+    ]
+}

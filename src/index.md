@@ -20,7 +20,7 @@ layout : "base-layout.njk"
     Where the hyperlinks lead to an alternative useful digital world.
     <br>
     <br>
-    &nbsp; &nbsp; to Search, use the built-in future in browsers, <br>Press <kbd>Ctrl</kbd> + <kbd>F</kbd>. &nbsp; For MacOS, press <kbd>⌘</kbd> + <kbd>F</kbd>.
+    &nbsp; &nbsp; to Search, use the built-in future in browsers, <br>Press <kbd>Ctrl</kbd> + <kbd>F</kbd> for Windows. &nbsp; For MacOS, press <kbd>⌘</kbd> + <kbd>F</kbd>.
 </p>
 
 <br>
@@ -45,7 +45,7 @@ layout : "base-layout.njk"
 - [Bash the right way](https://www.youtube.com/watch?v=6eGq6nhKdCQ)
 - [Take High Resolution Screenshots](/pages/take-high-resolution-screenshots)
 - [Your Desktop showing nothing! (Black Screen)](/pages/your-desktop-showing-nothing-!)
-- [Windows Search Bat Not Working ?](/pages/windows-search-bar-not-working)
+- [Windows Search Bar Not Working ?](/pages/windows-search-bar-not-working)
 - [Kaomoji](/pages/kaomoji)
 - [Learn Hand Sewing](/pages/learn-hand-sewing)
 - [Kill all processes that come from a folder](/pages/kill-all-processes-that-come-from-a-folder)
@@ -57,6 +57,8 @@ layout : "base-layout.njk"
 - [Tiny Helpers: collection of useful web dev tools](https://tiny-helpers.dev/)
 - [Hylia: a lightweight Eleventy starter kit](https://hylia.website/)
 - [Small 11ty Problems](pages/11ty/small-11ty-problems)
+- [Install & run Battle for The Middle-Earth II without DRM or Launchers](/pages/bfme-ii)
+- [**PC Games**](/pages/pc-games-micro)
 - [My Writings](/pages/my-writings)
 - [Blogs We Like](/pages/blogs-we-like)
 - [Contact Us](/pages/contact-us)
